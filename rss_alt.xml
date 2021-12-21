@@ -1,0 +1,2516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<!--
+
+          Hey!
+          This web page is actually a data file that is meant to be
+           read by RSS reader programmes.
+
+        -->
+<channel>
+<lastBuildDate>Mon, 20 Dec 2021 15:10:19 -0300</lastBuildDate>
+<title>Notas de Biologia (alt)</title>
+<description>Current at Mon, 20 Dec 2021 15:10:19
+-0300</description>
+<link>https://bionota.github.io/</link>
+<category>Biologia/Ciência/Pessoal</category>
+<webMaster>jamilbio20@gmail.com (JSN)</webMaster>
+<language>pt</language>
+<atom:link href="https://bionota.github.io/rss_alt.xml" rel="self"
+type="application/rss+xml" />
+<image>
+<title>Notas de Biologia (alt)</title>
+<url>https://bionota.github.io/gfx/sherlockb_big.png</url>
+<link>https://bionota.github.io/</link>
+</image>
+<copyright>Copyright ©2021 JSN. Verbatim copying and distribution
+of this entire article is permitted in any medium, provided this
+notice is preserved.</copyright>
+<generator>A Poor Man's Own RSS Generator in Shell
+Scripting</generator>
+<item>
+<title xml:lang="pt">#29 Robôs Escolhendo Currículos</title>
+<pubDate>Mon, 20 Dec 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/29/</link>
+<dc:language>pt</dc:language>
+<category>notícia/seleção de vagas/emprego</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+bc3cd587-c3e6-57dc-bf8f-a11292879158</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="29">#29 Robôs Escolhendo Currículos</h1>
+<time class="dt-published" datetime="2021-12-20">20/Dec/2021</time>
+<nav><a href="29/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Texto interessante sobre como é feita a seleção com ajuda de robôs.</p>
+
+<p>Importante ressaltar que os recrutadores são quem devem ajustar o algoritmo, e eu acredito que podem se acostumar com uma determinada configuração e não mais mudar, assim só verá candidatos com o mesmo tipo de perfil.</p>
+
+<dl>
+<dt><a href="https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2021/12/20/como-vai-funcionar-o-recrutamento-do-futuro-segundo-esta-especialista.htm">Como se destacar quando a empresa usa robôs para escolher currículos?</a>
+</dt>
+
+<dd>Muitas empresas usam programas de computador para escolher quem vai avançar no processo seletivo.</dd>
+</dl>
+
+<p>Eu não tenho LinkedIn mais. Antigamente eu tinha mas há uns três anos removi meu perfil. O LinkedIn é bem perverso com seus usuários.. Mas o artigo diz que o LinkedIn é uma rede muito importante para recrutamentos, e portanto, talvez eu recrie meu perfil lá ano que vem..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#28 Animais Mortos no Pantanal 2020</title>
+<pubDate>Sat, 18 Dec 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/28/</link>
+<dc:language>pt</dc:language>
+<category>taxa basal de geração de
+carcaça/ecosistema/vertebrados</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+0e191746-01ba-5f43-8e56-94dffd0c586e</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="28">#28 Animais Mortos no Pantanal 2020</h1>
+<time class="dt-published" datetime="2021-12-18">18/Dec/2021</time>
+<nav><a href="28/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Há uma reportagem que saiu na BBC dizendo que 17 milhões de animais foram mortos nos incêndios de 2020 <em>&quot;<span lang="en">Brazil wildfires killed an estimated 17 million animals</span>&quot;</em> no pantanal.</p>
+
+<p>O artigo que esta reportagem foi baseada é <a lang="en" href="https://www.nature.com/articles/s41598-021-02844-5">&quot;Distance sampling surveys reveal 17 million vertebrates directly killed by the 2020’s wildfires in the Pantanal, Brazil&quot;</a> (Tomas, 2021).</p>
+
+<p>Lendo o artigo, a primeira coisa que observei foi que <strong>não</strong> foi realizado transecções em regiões do pantanal que não foram afetadas por incêndios, ou seja, não há um branco ou a taxa de fundo de geração e carcaças no pantanal para nenhum dos grupos de animais apresentados! Então todos os resultados são extremamente suspeitos devido a vieses de interpretação.</p>
+
+<p>Procurando na literatura, não foi fácil achar artigos com taxas de fundo de carcaças (<span title="carniça" lang="en">carrion</span>) nas florestas. Isso se deve ao fato da dificuldade da produção de pesquisas sobre o assunto já que as carcaças são consumidas rapidamente (<a hreflang="en" href="https://www.jstor.org/stable/2425390">Fellers, 1982</a>) por uma teia ecossistêmica que se forma durante a decomposição, também com a participação do necrobioma (vermes, pupas, bactérias, formigas e moscas) e de carniceiros (<span lang="en">scavengers</span>) (<a href="https://academic.oup.com/jme/article/50/2/440/855994?login=true">Benbow, 2013</a>), formando <a href="https://www.sciencedirect.com/science/article/abs/pii/S0038071718300786" lang="en">hotspots</a> na área local. O primeiro artigo e de revisão bibliográfica e podemos seguir referências cruzadas para investigar mais profundamente, se desejarmos, <a lang="en" href="https://www.sciencedirect.com/science/article/abs/pii/S0169534719301661">&quot;Towards Quantifying Carrion Biomass in Ecosystems&quot;</a> (Barton, 2019), e também a outra revisão <a lang="en" href="https://link.springer.com/chapter/10.1007%2F978-3-030-16501-7_2">&quot;Carrion Availability in Space and Time&quot;</a> (Moleón, 2019).</p>
+
+<p>Precisaríamos de taxas de fundo de geração de carcaças dos grupos animais apresentados em Tomas (2021) <em>no bioma pantanal</em>, pois essas taxas variam muito de bioma para bioma e dependem da influência ou uso pelo ser humano das espécies envolvidas (por exemplo, ver as diferentes taxas de carcaça de ungulados por região e por trabalho acadêmico na tabela 1 de Moleón, 2019).</p>
+
+<p>No artigo de Tomas (2021), estimou-se a perda de <em>457704 ungulados</em> em <em>39030 Km<sup>2</sup></em>, ou seja aproximadamente 12 ungulados por Km<sup>2</sup>. Acho muito difícil fazer comparações pois na metodologia de Tomas (2021) é avisado da provável impossibilidade de comparações com outros estudos. Outro fato estranho, por exemplo, é estimarem o mesmo número de 457704 para mortes de primatas, ou seja, não levam em consideração variáveis como biomassa (e tamanho) das carcaças.</p>
+
+<p>Mas tentaremos fazer uma comparação. Dos outros dois artigos, extraí uma taxa de geração de carcaças de ungulados que varia entre 1-3 ungulado-equivalente/Km<sup>2</sup>. Veja que é uma comparação muito preliminar, pois peguei essas taxas por cima nos artigos mencionados..</p>
+
+<p>Por exemplo, no artigo de Moleón (2019), peguei o primeiro valor de 696 Kg/km<sup>2</sup> de ungulado para uma área rural de Zimbabué, predominantemente bioma de savana, ou seja, bem longe de um valor apropriado para o pantanal em que há, ainda por cima, grandes rebanhos bovinos destinados a uso humano. De qualquer forma, isso não nos impede de estimar que 696Kg equivale <a href="https://faunafacts.com/cows/average-cow-weight/">entre 1-2 carcaças de bois</a> por Km<sup>2</sup>. Já do artigo de Barton (2019), extraímos de <q>copepods and ungulates were at the lower end of the range (between 10 and 1000 Kg/Km<sup>2</sup>), despite being vastly different in body size</q> o valor aproximado de 1.6-2.7 ungulado-equivalente por Km<sup>2</sup> como taxa de carcaça basal.</p>
+
+<p>Assim, a taxa de fundo de carcaça de ungulado no pantanal, por comparação, poderia ser calculada em torno de <strong><em>39030</em> a <em>117090</em> carcaças por 39030 Km<sup>2</sup></strong>, ou seja, a taxa de fundo pode contabilizar aproximadamente entre <em>8% e 25% das 457704 carcaças</em> estimadas em Tomas (2021)!</p>
+
+<p>Esse mesmo trem de raciocínio pode ser aplicado para analisar as taxas dos outros grupos apresentados na pesquisa de Tomas (2021), mas encerro minha pesquisa desse tema por hora.</p>
+
+<p>Todos esses processos de decomposição estão em equilíbrio dinâmico com o ambiente, e conquanto a influência humana na degradação de florestas altera a função do meio ambiente local, a funcionalidade do ecossistema permanece inalterada no nível de paisagem pois funções desempenhadas por espécies específicas podem ser redundantes e assim funcionam como um tampão (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0006320712004557">Sugiura, 2013</a>).</p>
+
+<p>Conclui-se que a reportagem da BBC é exagerada. Os próprios autores de Tomas (2021) admitem ser impossível comparar seus resultados com os de quaisquer outro estudo por causa de sua metodologia única. Então eu pergunto, qual o valor real dessa pesquisa?</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#27 Ocupado com a Diversidade</title>
+<pubDate>Thu, 16 Dec 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/27/</link>
+<dc:language>pt</dc:language>
+<category>pesquisa científica/ecologia de
+comunidades/amizade</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+0318275f-68ed-54fc-be10-a3c3894d2c85</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="27">#27 Ocupado com a Diversidade</h1>
+<time class="dt-published" datetime="2021-12-16">16/Dec/2021</time>
+<nav><a href="27/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Estive sem postar pois nas últimas três semanas e pouco (quase quatro semanas!) estive focado em pesquisas sobre biodiversidade.</p>
+
+<p>Um jornalista me pediu um texto pois se interessou quando falei que a biodiversidade do planeta <em>não</em> está diminuindo. Ele ficou muito intrigado.</p>
+
+<p>E eu também. A única referência que eu tinha era do Patrick Moore mostrando gráficos com aumentos, alguns exponenciais, de famílias, gêneros e espécies no decorrer das eras geológicas e afirmando que não conhece nenhuma família biológica que tenha sido extinta recentemente (apesar que existem extinções de espécies em tempos modernos).</p>
+
+<p>Eu confio no Patrick e sei que os dados paleobiológicos são incontestáveis, então só restava ir desenrolar o fio da meada.</p>
+
+<p>Não foi muito fácil no começo, mas fui estudando de uma forma global, regional, até chegar no nível local e, especificamente, no Brasil.</p>
+
+<p>O resultado é um artigo de revisão científica bibliográfica com alguns dados primários que calculei no tocante a análises das listas vermelhas internacionais e brasileiras, além de sintetizar algumas conclusões importantes que vão contra a visão corrente da maioria dos conservacionistas.</p>
+
+<blockquote>
+<p>RESUMO Desde o começo da colonização europeia, espécies exóticas têm causado problemas e preocupações sobre perda de biodiversidade estão em jogo. Revisamos a literatura científica para melhor entender qual o papel que a biodiversidade executa nas escalas global, regional e local, e se mudanças na composição de biodiversidade afetam a funcionalidade do ecossistema. Também analisamos várias Listas Vermelhas e relatórios de entidades mundiais e brasileiras. Espécies de interesse podem se recuperar se predação ativa for barrada e esforços de conservação empreendidos. Concluímos que relatórios baseados nas Listas Vermelhas são exagerados e que não há ameaça iminente de perda de biodiversidade em vista.</p>
+</blockquote>
+
+<p>Para ler o artigo completo, acesse: <a href="https://biodiversidade.github.io/">https://biodiversidade.github.io/</a>.</p>
+
+<p>Essa revisão bibliográfica me ajudou a entender melhor sobre teoria de ilhas e com certeza me atualizou com o tema ecologia, do qual tema estava começando estudar leis brasileiras.</p>
+
+<p>Fora o tema de biodiversidade, achei <a href="https://phzoe.com/2021/02/17/trend-in-global-fires/">esta excelente referência para o tema de fogos florestais</a> e área mundial queimada por ano, com dados extraídos da NASA e analizado pela <em>Mrs</em> Zoe.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#26 Lucidez de James Lovelock e Teoria de
+Gaia</title>
+<pubDate>Mon, 29 Nov 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/26/</link>
+<dc:language>pt</dc:language>
+<category>atitude/ciência/saber</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3af70684-e318-53f8-a9e4-f545ef34616e</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="26">#26 Lucidez de James Lovelock e Teoria de Gaia</h1>
+<time class="dt-published" datetime="2021-11-29">29/Nov/2021</time>
+<nav><a href="26/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Através de <a href="https://www.netzerowatch.com/video-of-patrick-moores-gwpf-lecture-should-we-celebrate-co2/">uma palestra do Patrick Moore</a>, que aliás li comentário que era <em>uma de suas melhores palestras</em>, em que o Patrick diz que o James Lovelock recuperou sua dignidade científica, vamos dizer assim, em tempos recentes depois de tanto investimento. Na realidade, James Lovelock era um ídolo de Margareth Tatcher, com quem teve contato e influenciou muito. Não me lembro agora claramente, mas me lembro de ter lido já algumas vezes nessas pesquisas profundas sobre clima que faço que ela é uma chave muito importante nessa trama toda, inclusive de controle global, etc.</p>
+
+<p>Recomendo assistirem <a href="https://www.youtube.com/watch?v=yc4IzFWVC50">um vídeo do James Lovelock</a> sobre o seu livro <q lang="en">A Rough Ride to the Future</q>. James é um <em>cientista independente</em> e inventor, fatos admiráveis..</p>
+
+<p>Resumidamente, o vídeo é muito estranho. Muito estranho, pelo menos para mim que sempre associou o discurso com as ideias da teoria de Gaia com aquecimento global e essas bobagens.. Talvez isso não seja ter um terrível coração, mas sim por que, de acordo com Patrick:</p>
+
+<blockquote lang="en">
+<p title="Lovelock acreditou por muitos anos que os humanos são a única espécie desonesta em Gaia, destinada a causar um aquecimento global catastrófico. [...]">Lovelock was for many years of the believe that humans are the one and only rogue species on Gaia, destined to cause catastrophic global warming. [...]</p>
+
+<p title="Mas James Lovelock viu a luz e se retratou e percebeu que os humanos podem realmente fazer parte do plano de Gaia. [..]">But James Lovelock has seen the light and recanted and realised that humans may actually be part of Gaia's plan. [..]</p>
+
+<p title="É preciso muita coragem para uma figura pública mudar de ideia depois de investir tanto de sua reputação na opinião contrária. Em vez de ver os humanos como inimigos de Gaia, Lovelock vê que podemos estar trabalhando com Gaia para protelar outra era do gelo.">It takes great courage for a public figure to change their mind after investing so much of their reputation on the opposite opinion. Rather than seeing humans as the enemies of Gaia, Lovelock sees that we may be working with Gaia to <q>stave off another ice age</q>.</p>
+</blockquote>
+
+<p>O vídeo do James Lovelock é muito legal e há muitas maneiras de interpretar o que ele diz, tanto os <em>pombos aquecimentistas</em> quanto as pessoas racionais. Mas por exemplo, o James Lovelock é contra o uso indiscriminado de <em>energias renováveis</em>. Ele diz que energia nuclear é muito mais segura do que mesmo energia eólica!</p>
+
+<p>Diz ainda que, em suas observações do comportamento de insetos, percebeu que a melhor maneira que descobriram para viver em comunidade foi em ninhos/tocas/formigueiros, verdadeiras cidades. Aliás, algumas espécies de cupins até constroem uma torre para conseguirem controlar a temperatura do cupinzeiro, um verdadeiro ar condicionado.</p>
+
+<p>Então James Lovelock diz que é melhor tentarmos parar de tentar controlar o clima e morarmos nas cidades, pois é muito mais barato controlarmos a temperatura das cidades para que as pessoas vivam bem, assim como em Singapura.</p>
+
+<p>Perguntado sobre o que mais odiaria, James Lovelock respondeu que <q>detesta aqueles que tentam fazer as coisas mais difíceis</q>...</p>
+
+<figure><img width="380" height="651" src="26/james_comments_small.png" alt="extracted youtube comments">
+<figcaption>Fig 1. Alguns comentários pertinentes com relação a alguns pontos que podem ter ficado um pouco confusos sobre o que o James Lovelock falou, para quem for assistir à entrevista dele.</figcaption>
+</figure>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#25 Currículos no Último Ano, Richard
+Jakubaszko e Clima</title>
+<pubDate>Sat, 20 Nov 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/25/</link>
+<dc:language>pt</dc:language>
+<category>comunicação/distribuição de
+currículos/e-mail/telefonemas/emprego</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+6b29059c-905f-5351-b242-2d13d9aab964</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="25">#25 Currículos no Último Ano, Richard Jakubaszko e Clima</h1>
+<time class="dt-published" datetime="2021-11-20">20/Nov/2021</time>
+<nav><a href="25/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<h2>Trabalho voluntário contra Covid19</h2>
+
+<p>No ano passado, nesta mesma época, comecei a enviar alguns e-mail para tentar arranjar um trabalho voluntário contra a Covid19. Enviei repetidos e-mails para várias divisões da saúde aqui do Paraná e de São Paulo, também.</p>
+
+<p>Obtive somente algumas respostas de obrigado. Uma em destaque, foi a <a href="0/blog/19">resposta do João Doria</a> para mim (através da secretária dele, é claro).</p>
+
+<h2><span lang="en">Networking</span> do clima</h2>
+
+<p>Comecei a enviar e-mail para pessoas que admiro ou admirava muito. Personalidades, cientistas e intelectuais da ciência do clima e agronegócio do Brasil que conheci através da televisão, YouTube, entrevistas, palestras, etc.</p>
+
+<p>Alguns deles dizem nas palestras <q>Mandem-me e-mails pois responderei todos!</q>. Esses são os que <strong>não respondem</strong>. Já tentei até mesmo dar uma cobrada, já que meus e-mails começam geralmente com bastantes elogios..</p>
+
+<p>Esse tipo de e-mail é pretendido para construir uma rede particular de comunicação, já que eu quase não conheço ninguém das áreas de interesse meu, ideológico ou profissional, no <em>mundo real</em>. Para que pelo menos vejam meu nome uma vez, termino mandando meu currículo resumido e pedindo que, achando adequado, possam disponibilizar meu currículo para alguém que possa ser útil.</p>
+
+<p>Será que eles ignoram todos os elogios, toda a apresentação e discussão das minhas ideias e só focam nos últimos parágrafos que rapidamente menciono sobre o currículo e trabalho? Pois só não digo que estou <em>desempregado</em>, sou bem delicado..</p>
+
+<p>Me admira se isso realmente for, pois para muitos quem admiro ofereço, ainda o quanto antes nos e-mail, meu trabalho voluntário e grátis para qualquer coisa que envolva a causa climática!</p>
+
+<p>Meu pai falou que só respondem quem tem secretária. Acho que não é só isso, acredito que muitos não tem paciência com redação ou intimidade com e-mails, apesar de usarem para suas razões peculiares.</p>
+
+<p>Também, será que se acham tão importantes assim? Me preocupa ainda mais a provável incapacidade de pensarem por si e julgarem uma ideia por si mesma, um e-mail por si mesmo, ao invés de escolherem responder somente àqueles do nível ou prática deles? 🐜🐜🐜</p>
+<!--
+
+     \       /
+      \     /
+       \.-./
+      (o\^/o)  _   _   _     __
+       ./ \.\ ( )-( )-( ) .-'  '-.
+        {-} \(//  ||   \\/ (   )) '-.
+             //-__||__.-\\.       .-'
+            (/    ()     \)'-._.-'
+            ||    ||      \\
+    MJP     ('    ('       ')
+
+-->
+
+<p>A prática de <em>não responder</em> me intriga muito. Meu psicólogo insistia muito que o silêncio é uma resposta e sinal de conhecimento superior. A verdade é que <em>pode</em> ser ou <em>pode não</em> ser. Ao contrário, o silêncio está muito mais relacionado à morte do que a vida, e o que é morto não parece ser-me muito útil.</p>
+
+<p>Na verdade, o silêncio pode ser falta de coragem, insegurança, desconfiança, vaidade, falta de palavras por emoção forte, ressentimento, inveja...</p>
+
+<p>Só poderemos racionalizar o silêncio dos outros, o que, <em>aviso</em>, é um péssimo negócio sempre!</p>
+
+<h2>Jornalista Richard Jakubaszko</h2>
+
+<p>Um que me respondeu recentemente foi o <a href="https://richardjakubaszko.blogspot.com/">Richard</a>. Para quem não o conhece, ele está inserido na área do agronegócio brasileiro, e claro, combatente do mitos climáticos que tenta esclarecer.</p>
+
+<p>O livro <a href="https://richardjakubaszko.blogspot.com/2019/09/saiu-2-edicao-do-livro-co2-aquecimento.html"><q>CO<sub>2</sub> e mudanças climáticas: estão nos enganando?</q></a> foi escrito por ele com a colaboração de diversos outros autores, incluindo físicos e agrônomos, como o grande Dr. Luiz Carlos Molion (quem <em>não</em> me respondeu <em>nem sequer</em> agradeceu meus elogios ao seu excelente trabalho em um e-mail que enviei).</p>
+
+<p>Desde que vi algumas palestras do Richard no YouTube, me interessei pelo jeito que ele explicava e descobri que, na verdade, o livro que ele escreveu deveria conter as minúcias de tudo o que ele fala.. Assim, quinta-feira passada, semana da <span lang="en">Black-Friday</span>, decidi adquirir o livro e a história a seguir é sobre nossos conseguintes encontros.</p>
+
+<h3>Telefonema</h3>
+
+<p>No site do <a href="https://richardjakubaszko.blogspot.com/">Richard</a>, há meios para contactá-lo, incluindo e-mail e telefone.</p>
+
+<p>Quinta-feira, dia 18/Nov, resolvi ligar para o Richard do meu celular. Não sabia se iria atender ele mesmo ou uma eventual secretária de seu escritório/editora, mas não iria ficar espantado em nenhum dos dois casos.</p>
+
+<p>Para minha surpresa, a voz que ouvi responder foi a mesma que estava acostumado por ter assistido várias de suas palestras no YouTube.</p>
+
+<p>Disse meu nome, mas logo o Richard perguntou-me se não era um <em>esquema/brincadeira</em> que o governador ou sei lá quem tinha armado para tirar com ele? Nesse ponto, então percebi que minha apresentação tinha sido insuficiente e falei meu nome completo (coisa que ele pareceu apreciar) e na sequência que era biólogo, rasguei-lhe elogios e falei que gostaria de adquirir seu livro, o que acabou por acalmar suas dúvidas maiores contra mim. Mas ainda percebi que em momentos posteriores da conversa que ele não deve ter tido muitas boas experiências com naturalistas e <em>biodesagradáveis</em> pois alfineta-os de vez em quando possível. Eu não o culpo!</p>
+
+<p>Nesse primeiro momento, pude notar a seriedade profissional do Richard e sua sagacidade. Realmente, deve ter tido problemas anteriores que o deixam alerta para rejeitar possíveis importunadores <em>ecochatos</em>.</p>
+
+<p>O que se seguiu foi legal e impressionante: Richard começou uma exposição dos assuntos do livro. Conforme ele ia me guiando e mostrando a sua casa, que são onde os pensamentos do livro residem, cada qual em um cômodo, cada lugar com sua questão, o que era o ático e o que era o sótão, as janelas, enfim..</p>
+
+<p>É uma viagem, mas não consegui ficar somente prestando atenção e em alguns momentos fiz comentários e ele construiu sobre minhas questões. Por exemplo, um fato importante que ele adicionou à conversa é de que, nos Estados Unidos, a população é bem distribuída no território e que a maioria das cidades tem poucos (milhares) de habitantes comparando-se com Brasil.</p>
+
+<p>Eu fiquei maravilhado com a disposição física, mental e social do Richard! Mas minha surpresa não deveria ser muito grande já que ele, jornalista sério, entende e gosta muito de comunicação. Em determinado momento, quando ele me dizia que acha que o problema no planeta Terra é a população de humanos muito grande, ponto qual discordo completamente, a bateria do telefone dele acabou. Como ele havia avisado que isso poderia ocorrer, depois de alguns segundos desliguei o telefone e comecei a preparar um e-mail para mandar-lhe os dados de entrega do livro quando, talvez uma meia hora depois, o Richard me liga, de um outro número de telefone, porém também de São Paulo, e continuamos a maravilhosa viagem, ou a explanação dos assuntos do livro..</p>
+
+<p>Então não posso deixar de recomendar para que todos adquiram o livro do Richard, não é caro e tem promoção nas <span lang="en">Black-Fridays</span>. Além do que conversar com o Richard é uma experiência muito agradável. Ele tem didática e a paciência, tenho certeza de que irão gostar de bater um papo com ele!</p>
+
+<h3>E-mail</h3>
+
+<p>Richard respondeu meu e-mail dizendo que havia lido meu <strong>longo e-mail</strong> e que iria responder (ou comentar?) a maioria das questões.</p>
+
+<p>Tenho dois pensamentos. Primeiro, disponibilizo <a href="25/email_Richard.txt">aqui o longo e-mail</a> para que o caro leitor possa verificar mas acredito que <em>tenha sido demais</em> na primeira tacada/conversa, e o Richard pode ter ficado um pouco assustado..</p>
+
+<p>Sua segunda resposta foi bem curta e é reproduzida abaixo. Não sei se haverá mais e-mails do Richard por enquanto, mas depois que eu ler o livro vou tentar escrever-lhe mais uma vez. Temo que será outro longo e-mail..</p>
+
+<blockquote>
+<p>Jamil, seus 2 exemplares, autografados, estão a caminho, registrados sob nº [XXX]. Previsão de entrega é 2/12, mas geralmente chega antes. Vc pode ficar sabendo o dia da entrega algumas horas antes, eles dizem &quot;saiu para entrega...&quot;, me confirme quando chegar. Começando a responder:</p>
+
+<p>1 - <q>Apesar de não emitirem poluentes, são muito caras para construir e, sinceramente, e tecnologia nuclear brasileira não está no nível de outros países que tem pelo menos reatores nucleares experimentais e usam energia atômica há décadas. Temo que um bêbado, como você mesmo bem colocou, brasileiro faça um grande estrago. Ou seja, não sou a favor de uso generalizado, Apesar de não emitirem poluentes, são muito caras para construir e, sinceramente, e tecnologia nuclear brasileira não está no nível de outros países que tem pelo menos reatores nucleares experimentais e usam energia atômica há décadas.</q></p>
+
+<p>R - Quem usou a expressão bêbado de vodka foi a mídia europeia, eu não inventei nada, e parece ser verdade, especialmente pq a BBC repercutiu isso na época, anos 1984. A verdade é que Chernobyl continua deserta, e deve continuar assim por sabe-se lá quantos séculos. No norte da Rússia há uma região que desde 1920 descobriu-se que a radioatividade era muito alta, e especula-se desde então que tenha sido a queda de alguma nave alienígena. Nos anos 2010 a radioatividade continuava a mesma. Em meu blog tenho um artigo que mostra os efeitos genéticos que não se conhecia da contaminação e transmissão genética. O post tem fotos horrorosas. Só acredito na energia nuclear se ela for a frio, e sem radioatividade, quando for viável...</p>
+
+<p>abs Richard</p>
+</blockquote>
+
+<p>As respostas dos e-mails seguintes em que o Richard faz várias colocações a respeiot dos pontos que eu citei no meu e-mail inicial podem ser lidas <a href="25/email_Richard_replies.txt">aqui</a>.</p>
+
+<h3>Livro</h3>
+
+<p>Ainda não recebi o livro mas já foram postados. Depois que recebê-lo, ler e emprestar (pro meu pai e para minha mãe, como eu disse que faria para o próprio Richard por telefone), então poderei comentar um pouco do livro aqui no blog. Provavelmente em uma outra postagem...</p>
+
+<p>Atualização: os livros chegaram dentro do prazo e eu estou dando uma lida, mas não vorazmente por que estou trabalhando em um texto sobre biodiversidade que está me consumindo bastante tempo... Mas o livro atendeu bem às minhas expectativas, tem partes bastante técnicas e partes de mais fácil leitura...</p>
+
+<h2>Estritamente a trabalho</h2>
+
+<p>Bom, além dos e-mails oferecendo trabalhos voluntários contra Covid19, e-mails com elogios e pondo meu nome para ajudá-los da forma que me fosse possível, incluindo para grupos internacionais, foram também muitos e-mails ou entregas de currículo para empresas estritamente a trabalho.</p>
+
+<p>Não foram poucos, mas em retrospectiva, poderia ter sido mais. Apesar que os demais e-mails descritos nesse post não foram enviados estritamente para buscar emprego, mas sim para fazer novas conexões, de forma alguma deixei de incluir meu currículo e dar uma dica que meus serviços profissionais também estariam disponíveis.</p>
+
+<p>Ao total, uma empresa de melhoramentos genéticos me contratou no começo do ano, mas para um trabalho temporário, e que eu infelizmente não estava preparado fisicamente e descrito em outros posts (<a href="0/blog/26">aqui</a>, <a href="0/blog/27">aqui</a> e <a href="0/blog/28">aqui</a>).</p>
+
+<p>Gostei de trabalhar na TMG, mesmo que tenha sido uma experiência muito curta e que, infelizmente, não tenha conseguido completar. Foi um fruto do esforço em distribuir currículos. Além de adquirir um pouco de experiência na lida do campo que eles fazem, eu estou bem melhor preparado para enfrentar situação similar quando e se algum dia me envolver nessa área de novo.</p>
+
+<p>Nas últimas semanas, entreguei e/ou enviei por e-mail currículos para <em>todas</em> as escolas privadas da pequena cidade onde moro (umas 12 escolas). Vamos ver se me contratam mesmo que for para substituição de professores ou para reforço no contra-turno dos alunos. Agora é uma boa época de entregar currículos e há a chance de contratarem para o começo do ano que vem, depois que as coordenações fizerem suas programações no final deste ano.</p>
+
+<p>Ao total, foram mais de 50 entregas de currículos pessoalmente, cartas e e-mails no último ano. Não é pouca coisa mas revendo minhas cartas, percebi que houve sete meses de hiato, depois que trabalhei na empresa de melhoramentos, que não agi muito nesse sentido.</p>
+
+<p>Ano que vem, ficarei atento a abertura de editais de PSS para ministrar aulas em escolas públicas e também, é claro, em concursos públicos. Para tanto, confesso que preciso focar ainda mais nos estudos direcionados a estas metas.</p>
+
+<p>Até o próximo post!</p>
+
+<p>PS: quem quiser um scrape de todos os posts em texto plano (13M), <a href="25/richardJakubaszko_all.txt">aqui está uma cópia</a>.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#24 Conferência do Blá Blá Blá</title>
+<pubDate>Wed, 03 Nov 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/24/</link>
+<dc:language>pt</dc:language>
+<category>Greta
+Thunberg/Schwarzenegger/cop26/CFACT/clima/greenwashing/cúpula
+climática/Nações Unidas</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3501e490-5cfc-53b6-9a79-c026bbde6795</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="24">#24 Conferência do Blá Blá Blá</h1>
+<time class="dt-published" datetime="2021-11-03">03/Nov/2021</time>
+<nav><a href="24/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Tudo o que a gente precisa saber sobre o que os grandes delegados estão falando na COP26 foi resumido pela Greta:</p>
+<!-- Apresentação do Marc Marano no fórum do CFACT ?context? -->
+
+<blockquote lang="en">
+<p title="30 anos de blá blá blá .. Não existe Planeta Blá. Blá, blá, blá, blá, blá, blá. [...] Rede zero, blá, blá, blá. Neutralidade climática, blá, blá, blá.">30 years of blah blah blah.. There is no Planeta Blah. Blah, blah, blah, blah, blah, blah. [...] Net zero, blah, blah blah. Climate neutral, blah, blah, blah.</p>
+
+<p title="Isso é tudo o que ouvimos dos chamados líderes - palavras, palavras que parecem excelentes, mas, até agora, não levaram a cabo nenhuma ação, esperança ou sonhos. Palavras vazias e promessas.">This is all we hear from so-called leaders -- words, words that sound great but so far, has led to no action or hopes and dreams. Empty words and promises.</p>
+
+<p title="Chega de exploração das pessoas e da natureza do planeta. Não a exploração. Você pode enfiarsua crise climática na sua bunda. Não a essa putarua que estão fazendo aí dentro.">No more exploitation of people and nature of the planet. No more exploitation. You Can Shove Your Climate Crisis Up Your Arse. No more whatever the fuck you're doing inside there.</p>
+&nbsp;&nbsp;&nbsp;&nbsp; --Greta Thunberg (<a href="https://www.bbc.co.uk/newsround/58731698" hreflang="en">Ref 1</a>, <a href="https://todayuknews.com/world-news/greta-thunberg-chants-you-can-shove-your-climate-crisis-up-your-arse-outside-cop26/">Ref 2</a>), around 28th Sept 2021</blockquote>
+
+<p>Até o antigo governador da Califórnia, Schwarzenegger, admitiu na cúpula climática das Nações Unidas:</p>
+
+<blockquote lang="en" cite="https://www.politico.com/states/california/whiteboard/2021/10/27/schwarzenegger-nothing-is-getting-done-at-un-climate-summits-1392090">
+<p title="O que uma promessa e um compromisso significam no final?">What does a promise and a pledge mean in the end?</p>
+
+<p title="Nada. Repetidamente, ano após ano, eles fazem essas promessas e saem para declarar vitória, mas então nada está sendo feito.">Nothing. Over and over, year after year, they make these pledges and they come out to declare victory, but then nothing is getting done.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;--<a hreflang="en" href="https://www.politico.com/states/california/whiteboard/2021/10/27/schwarzenegger-nothing-is-getting-done-at-un-climate-summits-1392090">Arnold Schwarzenegger</a>, around 27th Sept 2021</blockquote>
+
+<p>Desta vez, parece que a Greta Thunberg, que completará 19 anos em Janeiro 2022 e finalmente parece estar pensando por sí mesma, falou uma coisa verdadeira, diga-se que a COP26 é uma grande bobagem, uma farsa.</p>
+
+<p>Toda conferência climática eles dizem que é a <em>última chance</em> para salvar a humanidade. galera, quantas <em>última chances</em> podem existir?</p>
+
+<h2>CFACT - Climate Reality Forum</h2>
+
+<p>Hospedando o fórum do <a title="At the heart of CFACT, our goal is to enhance the fruitfulness of the earth and all of its inhabitants." hreflang="en" href="https://www.cfact.org/">CFACT</a> em Glasgow (Escócia), o canal do <a title="COP26 Climate Reality Forum, Day 1" href="https://www.youtube.com/watch?v=R7p1O6aYlnE" lang="en" hreflang="en"><strong>Heartland Institute</strong></a> está transmitindo vários painéis incríveis.</p>
+
+<p>Tem participação de um pessoal legal como o James Taylor, Marc Marano, Lord Monckton, Naomi Seibt e mais.</p>
+
+<p>Estou acompanhando mais essas rodadas de palestras e mesas redondas de discussão sobre a <em>ciência climática <strong>verdadeira</strong></em>.</p>
+
+<p>Recomendo que <a title="Vídeos do Heartland Institute" href="https://www.youtube.com/user/HeartlandTube/videos" hreflang="en"><strong>assistam também</strong></a>, se tiverem tempo. Todas as palestras são em inglês. Se necessário, é possível ativar legendas automáticas em Inglês, e possivelmente tradução automática para o Português, nas configurações do tocador do YouTube.</p>
+
+<figure><a href="24/greenwashing.jpg"><img src="24/greenwashing_small.jpg" alt="Integrate do Extinction Rebellion segurando cartaz."></a>
+<figcaption>Figura 1. Cartaz de integrante do XR sobre <span lang="en">greenwashing</span>, veja notícia do <a href="https://www.msn.com/en-us/weather/topstories/greta-thunberg-other-climate-change-activists-in-glasgow-slam-greenwashing-and-false-solutions/ar-AAQhJHc" hreflang="en" lang="en">MSN/Yahoo News!</a></figcaption>
+</figure>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#23 Crisálida e Cogumelos</title>
+<pubDate>Tue, 02 Nov 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/23/</link>
+<dc:language>pt</dc:language>
+<category>zebu/borboleta/pupa/caminhada</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+26f6b3ba-8992-5afb-b36c-79395898164d</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="23">#23 Crisálida e Cogumelos</h1>
+<time class="dt-published" datetime="2021-11-02">02/Nov/2021</time>
+<nav><a href="23/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<h2>Minha crisálida</h2>
+
+<p>Acho que ainda não havia comentado aqui, mas dia 15 de Outubro encontrei uma <u>Brassolis</u> <u>sophorae</u> (<a title="Veja na Embrapa" href="https://www.agencia.cnptia.embrapa.br/gestor/coco/arvore/CONT000gnte5gej02wx5ok0cdjvscvnh6yvm.html">lagarta das palmeiras</a>) se fixando <em>no chão</em> ao lado da minha cadeira de praia que deixo na área da frente da minha casa.</p>
+
+<p>A localização que ela escolheu para se tornar um casulo não era nada favorável. Estava frio e no dia seguinte iria chover, e bem onde ela estava iria se tornar uma poça d'água!</p>
+
+<p>Como ela havia somente desenvolvido fios de seda para fixação posterior (na bunda), tentei cutucá-la algumas vezes para tentar reverter o processo de encasulamento da pupa temporariamente e ver se ela, sentindo-se em perigo com minhas cutucadas, não iria dar mais uma volta e achar um local melhor. Nos últimos anos, descobri que elas podem interromper o processo e se relocarem, se preciso, e consegui relocar dessa forma pelo menos duas lagartas que iriam fazer o casulo em local impróprio aqui em casa.</p>
+
+<p>Porém, essa em questão já estava em processo muito avançado. Depois que fumei um cigarro e vi uns videos no celular, ela havia se transformado em pupa do meu lado! Processo muito rápido em que ela se despe da pele e cabeça antigas e começa a formar um casulo muito macio e verde claro.</p>
+
+<p>Ou por eu ter cutucado ela ou por ela estar em um local inapropriado, depois que ela se tornou crisálida, os fios de seda de fixação que estavam presos à lajota do chão se romperam e ela ficou livre!</p>
+
+<p>Pesquisando na internet, vi que algumas pessoas que amam as borboletas e criam-nas, fazem o procedimento de relocação de crisálidas que se fixaram em lugares ruins, com muito cuidado obviamente.</p>
+
+<p>Então, eu não precisava desgrudá-la pois assim ela já estava. Bastou eu montar uma caminha com jornal dentro de uma caixinha de papelão e coletá-la. Atenção que o procedimento de desafixação e coleta pode resultar em uma tragédia com a crisálida. Uma agulha pode ser utilizada para desfazer os fios de seda que a prendem nas estruturas, claro que com muitíssimo cuidado para não machucá-la e nem danificá-la. Se pegar a crisálida na mão para relocá-la, fique atento ao vento pois ele poderá soprá-la ao chão!</p>
+
+<p>Nunca tinha criado uma crisálida. Foi muito interessante, ela foi mudando de cor nos dias seguintes e ficou mais escura e depois bastante marrom. Desde a semana passada, observei que algumas características morfológicas exteriores também mudaram e incharam. Imagino que eram as estruturas do inseto se desenvolvendo.</p>
+
+<p>Deixei ela na minha estante de livros, e fiquei aguardando ansiosamente para ela sair da crisálida.</p>
+
+<h2>Caminhando (não) encontrei cogumelos azuis</h2>
+
+<figure><img src="23/campo.jpg" alt="Campos de plantação e paisagem bucólica.">
+<figcaption>Figura 1. Tirei esta foto do campo onde fui hoje. Às minhas costas se encontra o pasto com esterco de gado (não visível nesta imagem).</figcaption>
+</figure>
+
+<p>Desde que arquivei meu outro blog no começo do ano, tenho tido vontade de procurar os cogumelos azuis depois de muitos anos..</p>
+
+<p>Então, semana passada, como estou em uma nova cidade, abri o Google Earth e comecei a procurar pastos de vacas perto da região onde moro. Achei alguns alvos.</p>
+
+<p>Ontem choveu um pouco e então hoje bem cedinho resolvi ir explorar uma região com alguns pastos.</p>
+
+<p>Primeiro, devo informar que não é uma <em>regra</em> ter que esperar chover e depois fazer sol para procurar cogumelos. Claro que as chances podem aumentar, mas pela minha experiência de caça de cogumelos, se o pasto for ativo, poderá encontrar cogumelos a qualquer época do ano, com ou sem chuva ou sol. Essa história de esperar chover três dias e depois três dias de sol é só para tentar achar uma grande quantidade de cogumelos.</p>
+
+<p>No meu caso, deixo a sorte me levar. Quando encontro um já fico bem feliz. Verdade seja dita, foram poucas as vezes que eu achei uma quantidade grande de cogumelos. Geralmente, acho poucos e pequenos. De vez em quando, acho uma quantidade suficiente para uma dose. Dificilmente acho colônias com múltiplos e grandes cogumelos, que daria para mais de uma pessoa.</p>
+
+<p>Mas a caça e a procura não podem se resumir em encontrar ou não as pequenas crianças de D'eus.</p>
+
+<p>Me fez muito bem acordar bem cedo e sair para caçá-los hoje. Achei uns três pastos com vacas e um com cavalos (de vez em quando nasce em esterco de cavalo, também, depende da cepa)! Fui de carro desta vez para poder percorrer uma área boa e me familiarizar com ela. Rodei uns 10 KM nos arredores da cidade.</p>
+
+<p>Entrei em uma propriedade privada sem querer querendo, estacionei o carro e fui falar com um senhor que estava trabalhando com a terra. Achei melhor já me apresentar e dizer o que eu estava fazendo para evitar que fiquem assustados se me virem andando pelos pastos algum dia.</p>
+
+<p>O senhor foi bem legal, liberou que eu andasse na sua propriedade. Então, na volta, decidi parar em um pasto da propriedade dele e dar uma olhada. Muito esterco mas nenhum corpo de frutificação (basidiocarpo). Depois, parei para verificar outros dois pastos. Somente encontrei um pequeno cogumelo não-psicotrópico, mas verifiquei algumas bostas e pude verificar que há hifas crescendo.</p>
+
+<p>Então há algumas possibilidades aqui: os pastos daquela região não estão contaminados ou não estão ativos no momento ou as condições climáticas não foram as mais favoráveis para geração de cogus..</p>
+
+<p>Não tem problema, foi ótimo caminhar na terra e na grama hoje cedo, ver a paisagem bucólica e descobrir novos lugares (inclusive para fazer minhas caminhadas ou andar de bike). Voltei para casa ouvindo <a href="https://www.youtube.com/watch?v=JGZbTyHwcxA">Cogumelos Azuis</a> do Ventania.</p>
+
+<h2>Crisálida abre</h2>
+
+<figure><img src="23/crisalida_tchau.jpg" alt="Exoesqueleto da crisálida, a borboleta já eclodida.">
+<figcaption>Figura 2. A crisálida eclodiu e deixou somente o exoesqueleto..</figcaption>
+</figure>
+
+<p>Chegando em casa, fui olhar minha queria crisálida pois, como disse, estava com características de maturação da metamorfose e sua eclosão estava iminente..</p>
+
+<p>Pois bem, depois de 18 dias, ela eclodiu e só deixou para trás o exoesqueleto da crisálida. Ainda estou procurando a borboleta aqui no meu escritório em casa.. Quando cheguei, minha gatinha estava deitada na estante, perto da crisálida. Não sei se a gata comeu a borboleta assim que ela eclodiu, ou se a borboleta ainda está por aqui escondida, fortalecendo as assas.. Pena que não vi ela depois de acompanhar por tanto tempo seu desenvolvimento!</p>
+
+<p>Por via das dúvidas, vou tentar deixar a janela aberta hoje para ela poder sair..</p>
+**PS:** Econtrei a borboleta ontem a borboleta no chão do meu escritório de noite. guardei ela e hoje coloquei-a em debaixo de uma árvore de primavera no quintal..
+
+<figure><img src="23/borboleta_oi.jpg" alt="Borboleta repousando..">
+<figcaption>Figura 3. Não consegui uma foto mais bonita dela, com as asas abrindo, mas aqui a prova do sucesso da empreitada!</figcaption>
+</figure></article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#22 Biólogo Henrique Entrevista Renato
+Gaiga</title>
+<pubDate>Mon, 01 Nov 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/22/</link>
+<dc:language>pt</dc:language>
+<category>profissão/carreira/consultoria
+ambiental/herpetologia</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+ae67df3b-e1f9-5549-b940-8b8453b7de82</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="22">#22 Biólogo Henrique Entrevista Renato Gaiga</h1>
+<time class="dt-published" datetime="2021-11-01">01/Nov/2021</time>
+<nav><a href="22/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Hoje um post rápido. Descobri o canal do <a href="https://www.youtube.com/channel/UCxSbDOAmDA9xSDd3Numjsmg" title="Biólogo Henrique o Biólogo das Cobras">Biólogo Henrique</a> há vários anos, na época que eu tinha meu canal ainda, muito antes do <a href="https://www.youtube.com/c/REIDASSERPENTESHAROLDOBAUER" title="me chamo Haroldo Bauer, desenvolvo esse trabalho junto ao YouTube o qual mostro diversas serpentes em vídeos no intuído de ensinar e desvendar mitos sobre esses animais incríveis">Rei das Serpentes</a> ter dado uma força para o canal do Henrique crescer (e como cresceu!).</p>
+
+<p>Não concordo muito com as opiniões políticas do Henrique. E acredito que que ele é um desses biólogos que só falam as mesmas coisas que todo mundo espera ouvir, sem ideias originais ou diferentes. Nos desculpe, Henrique, mas essa foi também a opinião do filósofo <a href="https://www.youtube.com/channel/UCBMKrkHv07GoYb5ITLt0sYQ">Paulo Ghiraldelli</a> em um de seus vídeos não tão recentes quando falou de você. Além do que, é um alarmista do aquecimento global. Apesar disso, ele é um cara boa-praça e uma coisa que admiro nele é que, pelo menos, <em>tenta</em> conversar com quem tem opiniões diferentes, ou seja, é um cara bem paciente e um tanto civil.</p>
+
+<p>Não tenho o seguido muito, mas ele tem feito uma série muito boa de entrevistas com biólogos que estou assistindo um pouco.</p>
+
+<p>Até agora achei a entrevista com o <a href="https://www.youtube.com/watch?v=9rXCb0fAYXQ" title="No quarto Episódio o Entrevistado é o Gigante Biólogo Renato Gaiga, Um verdadeiro monstro da herpetologia brasileira e que vai ensinar a gente a trabalhar na herpetologia como profissional">Renato Gaiga</a> uma das mais legais e recomendo.</p>
+
+<figure><img src="22/renato_gaiga_small.jpg" alt="Foto de uma rã, Flickr do Renato Gaiga.">
+<figcaption>Figura 1. <u>Vitreorana</u> <u>eurygnatha</u> <a href="https://www.flickr.com/photos/renato_gaiga/23419763549/">fotografado por Renato Gaiga</a> em suas coletas de monitoramento e consultoria ambiental.</figcaption>
+</figure>
+
+<p>O Renato Gaiga parece ser um bom biólogo, eu acabei encontrando alguns pontos em comum (mas talvez não tantos assim). Como ele tem a mesma faixa etária que eu, é impossível evitar comparações de maturidade em diversos aspectos. Acredito que sou mais maduro que ele em algumas facetas, mas admito que provavelmente não tenho todas as qualidades que ele tem para fazer o mesmo trabalho. Então fica um tipo de admiração dele, enquanto eu fico me sentindo um <em>b****</em>.</p>
+
+<p>Mas se for para comparar assim, o Lula com a idade do meu pai já era Presidente do Brasil e a Dilma com a idade da minha mãe também.. Não estou falando isso para tentar menosprezar meus queridos pais (<em>ranhetas</em>), mas são um tipo de espelho importante para mim.. A comparação com Lula e Dilma foi infeliz, nesse caso prefiro mais que eles continuem sendo honestos ao invés de ganharem Poder e se corromperem, mas acredito que deu para entender a comparação que tentei fazer com bom humor..</p>
+
+<p>Se formos falar de sucesso, bem, não estou muito animado para filosofar a esse respeito profundamente hoje, mas acredito que Sucesso não tem <em>muito</em> a ver com dinheiro. Sei que é uma opinião impopular mas vamos deixar isso por aqui e em um outro <span lang="en">post</span> poderei extender melhor minha percepção sobre esse assunto que se esgueira atrás das brumas e fora do alcance da minha mão..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#21 Analista do ICMBio e Vini do Papo de
+Biólogo</title>
+<pubDate>Sun, 31 Oct 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/21/</link>
+<dc:language>pt</dc:language>
+<category>vídeos/canais do youtube/motivação</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+65529525-0fca-5628-a1e3-c89ee9c6ad66</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="21">#21 Analista do ICMBio e Vini do Papo de Biólogo</h1>
+<time class="dt-published" datetime="2021-10-31">31/Oct/2021</time>
+<nav><a href="21/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Achei alguns vídeos legais sobre biologia no YouTube. O YouTube pode ser uma via de informação, mas eu admito estar usando ele muito ainda..</p>
+
+<p>A primeira referência é um relato de dois biólogos que trabalham no ICMBio mas decidiram voltar à academia para se atualizarem com o doutoramento.</p>
+
+<h2>Navegando pelo YouTube encontrei</h2>
+
+<p>Achei que existem perspectivas muito interessantes nessa entrevista feito pelo <a href="https://www.youtube.com/channel/UC5HoCDkaAC75w61OMxgGGAQ/videos">Projeto Bio-lives Vida</a>. Mas para quem já me segue, sabe que eu sou a favor de melhorar a qualidade de vida dos garimpeiros. Eu mesmo seguia muitos canais de garimpeiros <a href="https://www.youtube.com/c/AdrianoPedrasPreciosas/videos" title=" Gemstone tips, ore machine tips, everything about gems is here">Adriano</a> e o da <a href="https://www.youtube.com/c/Andreapedraspreciosas/videos" title="CANAL FOI FEITO PARA IDENTIFICAR PEDRAS E AJUDAR AS PESSOAS A APRENDER A PRATICA DO GARIMPO ,A IDENTIFICAR GEMAS ,E ENSINA COM OS CONTEÚDOS DE ENSINAMENTOS E AULAS PRATICAS E COM FACILIDADE DE APRENDER">Andrea</a>. Nenhum garimpeiro quer prejudicar o meio ambiente. Salvo as exceções, <em>quando conseguem</em> tentam fazer o garimpo dentro da lei, mas há vários níveis de garimpo e poucos são os que controlam a grande maioria do garimpo legal.</p>
+
+<p>Infelizmente, muita burocracia e falta de recursos impossibilita os pequenos garimpeiros de preencherem todos os requerimentos da lei. Quando muito, conseguem comprar ou alugar máquinas para montar uma pequena ou média operação de mineração, mas muitas vezes os agentes de proteção ambiental acabam queimando todos os equipamentos dos pequenos garimpeiros, e isso eu acho errado.</p>
+
+<p>São pessoas que nasceram em terras de tesouro e tem muito a perder se não puderem explorar um pouco para seu sustento e conforto. Fazem parte do meio ambiente, também!</p>
+
+<p>Notei que os entrevistados falam muito de colaboração com outros pesquisadores da área deles, porém achei muito estranho que <strong>não</strong> conversem tanto ou mais com os garimpeiros e moradores das regiões onde há minas e reservas minerais.</p>
+
+<p>Não esqueçamos que cada celular, cada computador, cada placa solar requer muitos minerais, alguns raros. Ninguém é isento de responsabilidade, se for essa a questão.</p>
+
+<ol>
+<li><a href="https://www.youtube.com/watch?v=bqVtN32KMds">O Biólogo em Órgãos de Conservação Ambiental</a>
+</li>
+
+<li><a href="https://m.youtube.com/channel/UCimxGfH3HKbnXjxZPGEpHaA" title="Tentando sobreviver no mundo de ceifadores de sonhos! @enoizandy no Instagram">E Noiz Andy - <span lang="en">Making Of</span> do Papo de Biólogo</a>
+</li>
+
+<li><a href="https://www.youtube.com/watch?app=desktop&v=MGc6qyZMOuU">Macaco-prego nos Satere Mawe (com Vini do Papo de Biólogo)</a>
+</li>
+<!-- <li><a href="https://m.youtube.com/watch?v=Q__CK0BVtHw">O ensino de ciências na promoção do engajamento político</a></li> -->
+</ol>
+
+<p>O segundo canal achei por acaso e é um <span lang="en">making of</span> do famoso canal do <a href="https://www.youtube.com/c/papodebiologo">Papo de Biólogo</a>, do Vini.</p>
+
+<p>Não companho muito o Vini, mas parece que ele estava fazendo algum sucesso e aparecendo na TV há uns seis, sete anos atrás. Depois vi que ele estava organizando excursões para alguns dos biomas que ele apresenta no seu canal, enfim, <em>faturando um pouco</em>. Mas agora, o canal dele não parece estar bombando muito e eu o achei meio perdido no último vídeo... Mas me identifiquei um bocado nesse aspecto! <span lang="en">LOL</span>.</p>
+
+<p>Apesar que os poucos vídeos do <a href="https://www.youtube.com/channel/UCimxGfH3HKbnXjxZPGEpHaA/videos">canal do Andy</a> são bem divertidos, deu para perceber que eles festavam <em>demais</em> e acordavam muito tarde no dia seguinte para trabalhar nas suas melhores disposições.. Eu fiquei só imaginando a <em>rebordose</em> do caras, mas sendo jovens aguentaram o tranco.</p>
+
+<p>Como o Andy não postou mais, imagino que essa parceria deles deve ter <em>rendido</em> uma grana para todos eles, mas não sei se foi realizada novamente. Também não quero julgar muito pois sou um <em>fã</em> meio desleixado, não vou atrás de maiores informações então vamos deixar assim. A aventura que o Andy mostrou com a galera do Papo de Biólogo é muito legal, vale a pena ver!</p>
+
+<p>Já o terceiro vídeo é do Rodrigo Hidalgo entrevistando o Vini. A entrevista é legal, mas chamo atenção aos <a href="https://www.youtube.com/channel/UCpAJMucHbXo_kCerK19cZHA" title="Sempre estou a procura de animais, viagens, pessoas e muita aventura!">vídeos do Rodrigo</a> em geral, parece ser um biólogo muito interessante de seguir!</p>
+
+<h2>Currículos, gata e sítio antigo</h2>
+
+<p>Reformatei e reescrevi minha carta de apresentação em português e em inglês, atualizei os meus currículos nas versões de ambas as línguas e distribuí três cópias para escolas privadas próximas de casa para o cargo de professor de biologia (ensino básico), ou professor de reforço.</p>
+
+<p>Comecei a trabalhar na minha carta de apresentação padrão há cerca de um ano e, incrivelmente, durante uma revisão achei vários erros nela semana passada. Felizmente agora estão corrigidos mas imagino que as cópias que entreguei no começo do ano não devem ter produzido as melhores impressões nos recrutadores..</p>
+
+<p>Entregarei mais alguns currículos esta semana para outras escolas de ensino básico privadas e, depois, para algumas escolas de inglês. Curiosamente, meu currículo parece ter mais atrativos para escolas de inglês do que de biologia.. Vamos ver!</p>
+
+<p>Também estou cuidando de uma gatinha nossa de casa. Parece que ela está com <em>criptocose</em> acima do olho direito e vamos ver se iniciamos o tratamento esta semana mas aguardamos confirmação.. Consulta e exames no veterinário já custaram uma boa grana, mas felizmente minha mãe pode pagar e a gatinha (chama-se <em>Mimi</em>) merece.</p>
+
+<p>Por fim, ontem decidi subir e hospedar <a id="0" title="O site do mountaineerbr.github.io, agora fora do ar no endereço original" href="0/">meu site antigo</a>, agora arquivado definitivamente, aqui mesmo nesse presente endereço! Não me interessa hospedá-lo novamente no endereço original do Github por alguns motivos e vontades pessoais, mas é importante eu mantê-lo ao alcance caso precise de alguma informação arquivada lá.. Só lembrando que o meu blog antigo é majoritariamente em <em>inglês</em>..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#20 Arrumando as Coisas</title>
+<pubDate>Wed, 27 Oct 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/20/</link>
+<dc:language>pt</dc:language>
+<category>corte de
+verbas/ciência/CNPq/universidade/clima/arrumação/longe</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+542d2004-0229-567b-bd80-816cec9cbda1</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="20">#20 Arrumando as Coisas</h1>
+<time class="dt-published" datetime="2021-10-27">27/Oct/2021</time>
+<nav><a href="20/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Faz tempo que não posto aqui. Desde o assassinato do Johh McAfee, eu me desfoquei para valer. Mas não foi essa a <em>causa</em>, simplesmente uma coincidência temporal de referência.</p>
+
+<p>Na verdade, tirei <em>mais</em> um tempo para tentar colocar as coisas no lugar e refletir sobre as últimas postagens deste blog. Em <a href="13/">uma postagem antiga</a>, descrevi que precisaria de pouco para ser feliz no futuro. Mas a verdade é que minha vida não pode ser tão simples assim.</p>
+
+<p>De fato, poderei ser feliz por <em>algum período</em> com tão pouco, diga-se um computador, internet e um lugar tranquilo para morar. Mas somente se eu estiver com outra fonte de prazer para que tão pouco seja muito em uma vida.</p>
+
+<p>De fato, poder ter uma <em>vida online</em> qual tenha acesso à <em>informações</em>, ou seja, uma biblioteca, e puder corresponder-me, ou seja, um correio internacional, pode ser o suficiente por algum tempo. Mas há na vida outros aspectos que também precisam ser preenchidos, como a <strong>carreira</strong>. Nem digo tanto carreira profissional, mas além, a carreira da vida de alguém.</p>
+
+<p>O filósofo <a href="https://www.youtube.com/c/tvfilosofia/videos">Paulo Ghiraldelli</a> tem umas sacadas legais. Em um vídeo nem recente (questão de meses), disse que uma vida política pode tirar uma pessoa da depressão, dos remédios anti-depressivos. Eu não sendo político no sentido moderno da palavra, entendo de formas variadas o que o filósofo disse e não tenho como discordar.</p>
+
+<p>É uma história para um outro post no futuro, mas de certa forma, meu ativismo contra certo tipo de <a href="https://revistapesquisa.fapesp.br/wp-content/uploads/2019/10/056-059_Aedes_285.pdf">pesquisa perigosa</a> me deu muita dor de cabeça mas também sinto que há uma recompensa. Uma recompensa que só eu posso apreciar já que outras pessoas do meu entorno não conseguem concordar com minha visão sobre o problema que lutei contra e sofri consequências, unicamente em nome da população brasileira que foi feita cobaia.</p>
+
+<p>Independente da sua visão política, é importante lutar a favor dela para se sentir pertencendo a um grupo para um <strong>propósito maior</strong> que pessoal.</p>
+
+<p>Sendo um professor, pode-se trabalhar por um país melhor dentro das salas de aula, tendo-se como norte a justiça e a didática.</p>
+
+<p>Ou seja, pode-se lutar por objetivos maiores de várias formas em várias esferas, mas é importante lutar para preencher o ser humano civil em nós.</p>
+
+<h2>Linux e shell scripting</h2>
+
+<p>Nesse tempo que fiquei sem postar configurei meus prompts do <code>bash</code> e do <code>zsh</code>, reescrevi alguns dos meus <em>scripts em shell</em> favoritos pela enésima vez (incluindo os scripts para geração das páginas deste blog!), destruí uma conta minha do Github mas acabei <a href="https://github.com/mountaineerbr/">recriando alguns repositórios</a> de novo..</p>
+
+<h2>Sexto Relatório de Avaliação (AR6)</h2>
+
+<p>Com relação aos estudos de biologia, estudei alguns temas do edital do concurso de Ribeirão preto que <a href="16/">mencionei em outro post</a> (qual concurso <em>não</em> participei) mas principalmente e muito sobre <strong>aquecimento global</strong>.</p>
+
+<p>Aquecimento global é um tema que me interessa muito e estudo por conta desde 2004 quando li o livro <a href="https://artigosefemeros.blogspot.com/2012/06/estado-de-medo-de-michael-crichton.html">O Estado de Medo</a> em que <em>Michael Crichton</em> oferece um discurso do tema mais sóbrio. O enredo do livro é emocionante também, é um <span lang="en"><em>thriller</em></span>.</p>
+
+<p>Por este tema, li todo o sumário executivo e dei uma boa lida na prévia do relatório de avaliação completo do <a href="https://www.ipcc.ch/assessment-report/ar6/">AR6</a>. Interessante encontrar os erros e contradições nessa versão em fase de revisão. Ouvi em uma palestra do Patrick Moore (co-fundador e um <span lang="en">drop-out</span> do Greenpeace, não me lembro qual a palestra) que as versões de rascunho do AR6 é que são <strong>o verdadeiro relatório</strong>..</p>
+
+<p>Há <a href="https://judithcurry.com/2021/08/09/ipcc-ar6-wg1-discussion-thread/">várias observações</a> espalhadas por aí, e inclusive encontrei alguns pequenos erros eu mesmo, mas nada que deve estar na versão definitiva que será logo divulgada.</p>
+
+<p>Por exemplo, no capítulo 12:</p>
+
+<blockquote lang="en"><span title="No Brasil, as enchentes estão se tornando mais (menos) frequentes e intensas nas regiões úmidas (mais secas).">In Brazil, floods are becoming <strong><em>more (less)</em></strong> frequent and intense in wet (drier) regions (Bartiko et al., 2019; [...]</span>
+</blockquote>
+
+<p>E em <span lang="en"><em>Atlas.9.3 Assessment of model performance</em></span></p>
+
+<blockquote lang="en"><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">RCMs tend to produce more (less) precipitation over mountains (the coastal plains) (Cerezo-Mota et al., 2015) [...]</span>
+</blockquote>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Ou é <em>menos</em> ou é <em>mais</em>, os cientistas não podem estar tão confusos assim, ou será que estão esperando os comentários e pareceres dos políticos e cientistas para corrigir conforme na edição final?</span>
+</p>
+
+<h2><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Conferência Internacional do Clima</span>
+</h2>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Dediquei um bom tempo vendo quase todas as <a href="https://www.youtube.com/user/HeartlandTube/videos">palestras da Conferência Internacional do Clima</a> patrocinado pela <a href="https://www.heartland.org/index.html">Heartland Institute</a>. Lá, reuniram-se grandes nomes científicos do estudo do clima na terra, como Willie Soon, Lord Monckton, Patrick Moore e muitos outros.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Eu fui particularmente tocado pela apresentação de introdução e a homenagem aos cientistas que se foram nos últimos anos. Eram realmente bons cientistas e iluminaram nosso conhecimento a respeito das forças naturais que governam o clima aqui na Terra.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Logo, teremos a <strong>COP26</strong> e é bom ficarmos atentos e assistirmos a todos os painéis possíveis para ficarmos atualizados sobre as decisões que serão tomadas pela elite política nos próximos anos e décadas..</span>
+</p>
+
+<h2><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Corte na verba de pesquisa do CNPq</span>
+</h2>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Uma hora dessas eu deveria escrever melhor minha crítica a respeito do corte de verbas do CNPq para pesquisa no Brasil. Garanto que não é uma opinião popular mas talvez seja a crítica mais contundente a respeito do fluxo do dinheiro das pesquisas.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Na USP, andando pelos corredores do Instituto de Química, ouvi diversas vezes professores dizendo que <q>eram muito foda</q>. Acho feio eles ou qualquer um dizer isso, a não ser que esteja querendo dizer que está no cio!</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Também, lá na USP, ouvi diversos relatos de alunos explicando costumes e tradições em os professores muitas vezes não conseguiriam ensinar pois existiria um grande abismo de conhecimento entre eles e os alunos.. Sempre me indignei com essas histórias e outras parecidas. Na minha visão, falta simplesmente <em>didática</em> e <em>paciência</em> (que é um <em>pá de ciência</em>) dos professores com os alunos.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">O salário de professores de carreira de universidades públicas que conheço no Paraná e São Paulo, começam com uns 16 mil reais e vão até uns 24 mil aqui no Paraná. Em São Paulo é mais. A maior parte dos recursos destinados às universidades vão para folha de pagamento de professores. Se encabeçam um projeto, ganham bônus no salário, se se tornam chefes de departamento, recebem bônus no salário..</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">É até prejudicial que professores ganhem tanto, já que deveriam ser pessoas humildes!</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Olha só quem está falando de <a href="https://filosofia-facil.blogspot.com/2009/05/humildade.html">humildade</a> aqui, euzinho mesmo! Uma hora deveria escrever melhor a respeito desta <em>virtude secundária</em>, como expõe André Comte-Sponville em <a href="https://www.recantodasletras.com.br/resenhasdelivros/3325331">Pequeno Tratado das Grandes Virtudes</a>.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">De qualquer forma, não há <em>razão</em> para professores públicos terem <em>super</em>-salários.. Não é a toa que nas áreas de ciências sociais nunca houve muito dinheiro para pesquisa mas para o salário dos docentes..</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">O tripé da universidade, ensino, pesquisa e extensão, há muito se equilibra praticamente em duas pernas somente (ensino e pesquisa). Agora deverá se equilibrar com somente a perna da educação. Minha opinião é que a <em>educação</em> terá pouco a perder com o corte de verbas na pesquisa. Na verdade, os professores/pesquisadores poderiam aproveitar essa crise e torná-la em oportunidade para ensinarem melhor os alunos, muitos que chegam com muitas dificuldades intelectuais do ensino médio.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Um outro problema grande no Brasil é a falta de divisão entre ensino superior e pesquisa. Temos poucos institutos dedicados a pesquisa e as universidade acabam ficando com esse ônus em excesso. Mas esta é uma outra discussão..</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Por fim, todo esse dinheiro cortado do CNPq seria muito melhor utilizado na educação básica. Já que os alunos chegam tão deficitários no ensino superior público, seria muito importante enaltecermos os professores do ensino básico (fundamental e médio). Veja que os professores de ensino médio, por exemplo, recebem em torno de 16 reais a hora/aula, já com o vale o transporte pelo <a href="https://www.compartilhenoticias.com/2021/09/pss-seed-pr-2021-edital-com-700-vagas.html">PSS</a>.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Então como um professor recém formado vai se entusiasmar e se dedicar à educação do ensino básico? Na verdade, são muito menosprezados justamente por aqueles que os formam: os professores universitários.</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Não me comovem as ameaças de que alguns pesquisadores devem deixar o país. A maioria deles não vão já que é muito cômodo para eles ficarem por aqui mesmo..</span>
+</p>
+
+<p><span title="Os MCRs tendem a produzir mais (menos) precipitação sobre as montanhas (planícies costeiras).">Me comove a grande parcela da população brasileira que não teve seu potencial intelectual aproveitado por nossa nação.</span>
+</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#19 Plano de Estudos</title>
+<pubDate>Mon, 13 Sep 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/19/</link>
+<dc:language>pt</dc:language>
+<category>amigo/conselho</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+038ddee5-b549-58f0-a6fc-262952dba97b</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="19">#19 Plano de Estudos</h1>
+<time class="dt-published" datetime="2021-09-13">13/Sep/2021</time>
+<nav><a href="19/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Meu amigo, Xin Gyu, me falou simplesmente que temos que ter um plano de estudos.</p>
+
+<p>Força de vontade acontace só com muito planejamento..</p>
+
+<p>Curtas palavras de sabedoria!</p>
+
+<p>É só isso nesse post.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#18 Pensando nas Formigas</title>
+<pubDate>Mon, 13 Sep 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/18/</link>
+<dc:language>pt</dc:language>
+<category>vida/filosofia</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+60cd2b4f-3255-5071-af3b-6363932e3068</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="18">#18 Pensando nas Formigas</h1>
+<time class="dt-published" datetime="2021-09-13">13/Sep/2021</time>
+<nav><a href="18/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Este post é para as formiguinhas.</p>
+
+<p>Há várias aqui em casa, e contanto que não entrem para tentar pegar nossa comida na cozinha e não façam tocas florescentes nas beiradas do jardim, tento mantê-las bem.</p>
+
+<p>Que vida a delas!</p>
+
+<p>...</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#17 Autorização Concursos do IBAMA e
+ICMBio</title>
+<pubDate>Sat, 11 Sep 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/17/</link>
+<dc:language>pt</dc:language>
+<category>edital/liberação/espectativa</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+4f0ce2e8-efb2-5b10-96a4-d4239f7bd78e</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="17">#17 Autorização Concursos do IBAMA e ICMBio</h1>
+<time class="dt-published" datetime="2021-09-11">11/Sep/2021</time>
+<nav><a href="17/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Boa notícias! Como disse o vice-presidente Mourão há algum tempo, por volta de 740 vagas com relação ao meio ambiente seriam liberadas em concursos.</p>
+
+<p>Resta esperarmos os editais sairem dentro de no máximo seis meses..</p>
+
+<p>Espero que o caro leitor esteja se preparando e se adiantando nos estudos. Eu ainda ando meio enrolado nos estudos de leis, mas vou ver se pego firme semana que começa amanhã..</p>
+
+<ul>
+<li><a href="https://www.oantagonista.com/brasil/governo-autoriza-concursos-com-568-vagas-no-ibama-e-171-no-icmbio/">Governo autoriza concursos com 568 vagas no Ibama e 171 no ICMBio</a>
+</li>
+
+<li><a href="https://www.direcaoconcursos.com.br/noticias/concurso-icmbio-autorizado/">Concurso ICMBio: edital autorizado para 171 vagas; 110 para nível médio!</a>
+</li>
+</ul>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#16 Planejamento</title>
+<pubDate>Fri, 13 Aug 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/16/</link>
+<dc:language>pt</dc:language>
+<category>notas/cronograma</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+f90d65ca-036b-5e5b-ae46-3f68d1d67706</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="16">#16 Planejamento</h1>
+<time class="dt-published" datetime="2021-08-13">13/Aug/2021</time>
+<nav><a href="16/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Lista das leis que devo começar a estudar logo..</p>
+
+<p>Haverá um <a href="https://www.ribeiraopreto.sp.gov.br/concurso/prefeitura">concurso legal em Ribeirão Preto</a> para o final do ano, lá é uma cidade bem legal que conheço...</p>
+
+<ul>
+<li>Constituição</li>
+
+<li>CLT</li>
+
+<li>Código Florestal</li>
+
+<li>...</li>
+</ul>
+
+<p>Método preferido para estudos é ter uma cópia física (em papel) e grifar as partes mais importantes, além de adicionar anotações nas bordas das páginas.</p>
+
+<p>Tendo em vista que, pelo menos no momento, não posso dispensar o dinheiro para impressão das leis que preciso estudar, além de muito material como resumos de leis com anotações de professores, que são bem extensos, decidi que vou arrumar um editor de pdf que me possibilite fazer <mark>grifamentos</mark> e <code>anotações</code>. Talvez um visualisador de pdf com ampla funcionalidade dará conta..</p>
+
+<p>Para os que já estão estudando as leis propriamente, meus parabéns!</p>
+
+<p>Nas últimas semanas, e nos últimos dias mais focadamente, tenho lido alguns artigos e assistido muitas palestras de professores sobre o aquecimento global e os fenômenos que o governa, especialmente sobre ciclos solares, inércia oceânica, assim como uns estudos das eras do Hadeano e Arqueano. São fascinantes!</p>
+
+<p>Mas preciso focar nas leis..</p>
+
+<blockquote lang="en">
+<p title="Se você está esperando por alguém é por que está dando para trás!">If you are waiting on anybody you're backing up!</p>
+
+<p title="Eu faço as minhas coisas, você as suas.">I do me, you do you. Keep up or you're lost.</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp; --<a href="https://www.youtube.com/watch?v=XV3SHVKkkZ8">Rusty78609</a></p>
+</blockquote>
+
+<p>PS: existem vários editores com múltiplas funções de edição de PDF para Linux, mas o único que pode fazer as anotações e grifamentos que quero e encontrei (open source) é o <a title="The Universal Document Viewer" href="https://okular.kde.org/"><code>Okular</code></a></p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#15 John McAfee Se Foi</title>
+<pubDate>Fri, 25 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/15/</link>
+<dc:language>pt</dc:language>
+<category>obituário/esperança/ídolo/homenagem</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+dea30a63-9091-54fa-b523-77bc24d1b4bc</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="15">#15 John McAfee Se Foi</h1>
+<time class="dt-published" datetime="2021-06-25">25/Jun/2021</time>
+<nav><a href="15/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Ontem de manhã acordei e, vendo meu <span lang="en">Google News</span>, havia uma notícia de 14 horas anteriores sobre a morte do John McAfee.</p>
+
+<p>Tenho seguido o John mais de perto pelo seu twitter nos últimos dois ou três anos. Ele é um cara fantástico e se tornou um grande ídolo meu em pouco tempo.</p>
+
+<p>Lembro que ano retrasado eu fiquei um pouco decepcionado com ele pois havia feito um pouco de esquema de <span title="pump &amp; dump">bombear e largar</span> de algumas <span title="shitcoins">moedas de merda</span>, mas a reposta dele depois foi que ele estava se divertindo e fazendo piadas&hellip;</p>
+
+<p>Bom, eu estava levando tudo muito a sério o que ele dizia! Mas no fundo, eu já deveria saber que ele é um fanfarrão. Já que ele tem mais de hum milhão de inscritos no Twitter, qualquer coisa que ele diga pode ser interpretada de formas diferentes pelos seguidores, que, assim como eu, ainda não conheciam essa personalidade tão bem.</p>
+
+<p>Mas eu perdôo ele, especialmente por que <em>eu</em> não levei nenhum golpe <em>por causa dele</em> e agora conheço melhor essa figura..</p>
+
+<p>Fiquei muito mal ontem por causa da morte dele. Acompanhei os <a hreflang="en" lang="en" href="15/mcafeeTweets.txt">tweets</a> dele durante todo o período anterior, em que ele usava calcinhas como máscaras, e o período de prisão que acabou com o assassinato dele.</p>
+
+<figure><img src="15/mcafeeMensagem.png" alt="mensagem de texto citando John McAfee" width="500" height="440">
+<figcaption>Fig 1. Homenagem ao John McAfee com uma singela mensagem sua a respeito dos sentimentos humanos e o poder.</figcaption>
+</figure>
+
+<p>Em um dos últimos áudios dele gravados na prisão, ele falou para <strong>continuarmos a luta contra as mazelas e perversidade do governo</strong>.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#14 Espectativa do Concurso Ibama, Cai
+Ministro do MA</title>
+<pubDate>Thu, 24 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/14/</link>
+<dc:language>pt</dc:language>
+<category>ibama/concurso/liberação</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+07b3b829-3f37-545a-8c5b-c30ac08c5703</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="14">#14 Espectativa do Concurso Ibama, Cai Ministro do MA</h1>
+<time class="dt-published" datetime="2021-06-24">24/Jun/2021</time>
+<nav><a href="14/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Encontrei esse site do estratéfia concursos que resumiu bem alguma sinformações dos últimos concursos do Ibama.</p>
+
+<dl>
+<dt><a href="https://www.estrategiaconcursos.com.br/blog/concurso-ibama/">Concurso IBAMA: ex-ministro afirma concurso com mil vagas</a>
+</dt>
+
+<dd>Durante coletiva de imprensa anunciado sua demissão, o ex-ministro do meio ambiente, Ricardo Salles, disse que na próxima semana deve ser anunciado a abertura de concurso público com cerca de mil vagas entre IBAMA e ICMBio!</dd>
+</dl>
+
+<p>Estou de olho em uma dessas <strong>970 vagas</strong> para <em>Analista Ambiental</em>. Acho que me enquadro melhor no <strong>Tema 3</strong>.</p>
+
+<hr>
+
+<p><strong>PS</strong>: segue mais alguns links que eu achei interessante e fazem parte do contexto do blog que achei nos <span lang="en">tweets</span> recentes do <a href="https://twitter.com/vcqebiologo">Mauro Rebelo</a>.</p>
+
+<dl>
+<dt><a href="https://g1.globo.com/google/amp/ciencia-e-saude/noticia/2021/05/30/com-merito-mas-sem-bolsa-a-frustracao-de-quem-recorre-a-bicos-e-ajuda-da-familia-para-fazer-ciencia-no-brasil.ghtml?__twitter_impression=true">'Com mérito', mas sem bolsa: a frustração de quem recorre a 'bicos' e ajuda da família para fazer ciência no Brasil</a>
+</dt>
+
+<dd>Corte de verbas para a ciência e tecnologia no país afeta pesquisadores brasileiros e futuro tecnológico do país. Em último edital, CNPq concedeu bolsas somente a 13% dos projetos aprovados por especialistas.</dd>
+
+<dt><a href="https://www.bbc.com/portuguese/brasil-57035017.amp">Desemprego no Brasil da pandemia: Doutor em engenharia espacial vende doces</a>
+</dt>
+
+<dd>Número de subutilizados com ensino superior cresceu 43% entre 2019 e 2020.
+<br>
+Porém, também concordo com o Mauro Rebelo que diz que parte da culpa desse cara não conseguir emprego na área é por que ele está procurando oportunidades em outras áreas, talvez deixando de lado a área que ele se formou de lado...</dd>
+
+<dt><a hreflang="en" href="https://sahillavingia.com/work">No Meetings, No Deadlines, No Full-Time Employees</a>
+</dt>
+
+<dd><span lang="en">I started Gumroad in 2011. In 2015, we reached a peak of 23 full-time employees.</span>
+<br>
+Uma história de empreendedorismo diferente e bem-sucedida. Bem interessante.</dd>
+
+<dt><a lang="en" hreflang="en" href="https://www.theatlantic.com/business/archive/2013/02/how-many-phds-actually-get-to-become-college-professors/273434/">How Many Ph.D.'s Actually Get to Become College Professors?</a>
+</dt>
+
+<dd lang="en">Not every Ph.D. student aspires to a career as a tenured college professor. But in plenty of fields, particularly the humanities, spending your life buried up to your elbow patches in books and papers is the gold standard of success. So while breaking down the National Science Foundation's data for my</dd>
+
+<dt><a lang="en" hreflang="en" href="https://www.theatlantic.com/business/archive/2013/02/the-phd-bust-americas-awful-market-for-young-scientists-in-7-charts/273339/">The Ph.D Bust: America's Awful Market for Young Scientists - 7 Charts</a>
+</dt>
+
+<dd lang="en">Perhaps it's time to start talking about a STEM surplus?</dd>
+
+<dt><a lang="en" hreflang="en" href="https://www.theatlantic.com/business/archive/2013/02/the-phd-bust-pt-ii-how-bad-is-the-job-market-for-young-american-born-scientists/273377/">The Ph.D. Bust, Pt. II: How Bad Is the Job Market for Young American-Born Scientists?</a>
+</dt>
+
+<dd lang="en">Unfortunately, I left a big question unanswered. Many of today's science Ph.D.'s aren't Americans.&nbsp;</dd>
+</dl>
+
+<p>Sobre o Mauro Rebelo, recomendo segui-lo pois tem postado várias referências legais no <span lang="en">Twttr</span>. Um <em>alerta de segurança</em>: as tentativas dele de meter as patas em cripto não me parecem estar seguindo o caminho mais correto, ou seja, usando tecnologias de <span title="shitcoins">moedas de merda</span>, ou seja, outras tecnologias menos confiáveis para projetos redundantes ou bizarros..</p>
+
+<p>Mas tudo bem, ele pode se divertir com cripto e financiar os projeto como e que quiser. Não vejo nenhuma maldade nele 🙃 ..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#13 Sem Motivação</title>
+<pubDate>Tue, 22 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/13/</link>
+<dc:language>pt</dc:language>
+<category>propósito/meta/objetivo/decisão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3766dc98-6b60-53d9-b29b-ef661f7f62ae</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="13">#13 Sem Motivação</h1>
+<time class="dt-published" datetime="2021-06-22">22/Jun/2021</time>
+<nav><a href="13/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Tenho pensado no que fazer profissionalmente e me encontro sem motivação.</p>
+
+<p>No começo deste ano, fui trabalhar em uma empresa de melhoramentos genéticos (soja, milho e algodão) e foi uma experiência conturbada. Aprendi muito naquela empresa, profissionalmenye falando. A empresa é grande, toda rigorosa e foi uma experiência única ver os funcionários gostarem de trabalhar lá.</p>
+
+<p>Infelizmente, já na primeira semana encontrei alguns problemas que não pude contornar pois diziam a respeito do meu despreparo físico (sedentarismo) para as colheitas manuais realizadas debaixo do sol.</p>
+
+<p>Como não durei mais do que uma semana no emprego temporário, acabei saindo de lá com uma sensação de derrota e impotência. Tirando as coisas boas, saí com menos vontade de trabalhar do que quando lá cheguei.</p>
+
+<h2>Ócio</h2>
+
+<p>O ócio é uma coisa boa.</p>
+
+<p>Até hoje, já li frases grandes pensadores que diziam sobre o poder do ócio e como ele pode ser o condutor da criatividade. Pessoalmente, não gosto daquela velha frase que <q>o ócio é a oficina do diabo</q>, reproduzida por muitos e por religiosos.</p>
+
+<p>Mas entendo que o ócio também pode gerar sensações desagradáveis. Pode ser que a mente vague dentre os mares do <em>existencialismo</em>.</p>
+
+<p>O ócio não deve ter um propósito. Por exemplo, usar o tempo para se preparar para alguma meta destrói o ócio, nega-se o ócio e então vira <strong>negócio</strong>.</p>
+
+<h2>Trabalho</h2>
+
+<p>Trabalhar é importante. Como disse o Comendador na reprise, o trabalho vai te fazer sentir mais confiante e seguro.</p>
+
+<p>Quem precisa do trabalho para comprar alimentos para sí e para família, bancar escola, pagar aluguel e fazer manutenção na casa não tem muitas escolhas imediatas. Podem nem mesmo ter a escolha de um trabalho que o faça feliz.</p>
+
+<p>Privilegiados como eu, do qual os pais tiveram uma oportunidade e seguiram carreiras que os renderem um dinheiro suficiente, suficiente inclusive para me manterem todos esses anos, me darem os estudos, casa e comida, podemos ficar um pouco confusos.</p>
+
+<p>Especialmente quando não temos mais nenhuma ambição para realizar na vida, em uma família onde tudo está bem e todos estão saudáveis e ainda temos o vislumbre (ou sonhos) de retornos de investimentos feitos por mim nos últimos anos..</p>
+
+<h2>Propósito</h2>
+
+<p>Muito provavelmente eu não formarei uma nova família e não terei filhos. Com isso, as ambições comuns como uma casa grande, carro para levar os filhos para escola, despesas com saúde e educação dos dependentes deixam de ser uma preocupação.</p>
+
+<p>O que resta?</p>
+
+<p>Fazer viagens pelo mundo uma vez por ano <em>era</em> um sonho. Eu já viajei para o outro lado do planeta Terra e cursei um ano e meio em uma escola tradicional no Japão. De alguns anos para cá, viajar mais ainda pelo mundo já não mais me seduz tanto. Inclusive, quero ver quem vai viajar comigo para me dar coragem de ambarcar em um avião novamente! Um medo irracional que adquiri de alguns anos para cá, talvez de tanto não viajar de avião..</p>
+
+<p>Então parece que resta pouco para me manter motivado profissionalmente. Sei que, se e quando eu acabar ficando sozinho nesse mundo, conseguirei me divertir muito com um computador e internet. Casa? Um pequeno ap<em>e</em>rtamento com paz já basta. Meus maiores mimos são os meus computadores e livros.</p>
+
+<p>Demais pertences materiais? Desde minha infância quando convivi com uma japonesa pianista gênia mal-compreendida, que vivia como Sócrates, entre cultura e livros, em uma casinha caindo aos pedaços, no meio dos cachorros adotados da rua, usando roupas antigas fora de moda, com muito pouco dinheiro e luxo, mentalizo que as aparências não são muito importantes. O material não é importante, <em>o importante é imaterial</em>!</p>
+
+<p>Não sou uma pessoa elegante, visto-me mal mais frequentemente do que bem. Vestir-se bem é um outro assunto, mas no geral, eu não me importo com isso, tão pouco acho necessário. Porém, acho válido vestir-se de forma que se sinta confortável!</p>
+
+<p>Como eu já fui assaltado cinco vezes, sinto-me muito mais seguro em sair na rua com roupas bem básicas e que chamem muito pouco a atenção. Mas enfim, é um longo assunto e, com certeza, as pessoas te julgam pelo que você veste ou como se sente e transparece.</p>
+
+<p>Até certo ponto, um pré-julgamento ou preconceito pode ser útil e até mesmo nos salvar a vida, mas também pode ser prejudicial.</p>
+
+<h2>Trabalhar para quem?</h2>
+
+<p>Afastando todos os pontos acima expostos e em uma posição de raciocínio bem mais confortável agora, resta averiguar para quem devemos trabalhar?</p>
+
+<p>Nada mais justo que uma pessoa trabalhe em uma empresa que tenha os mesmos <em>valores</em> e <em>visão</em>. Assim, estará ajudando as pessoas mais do que o dever ou que a necessidade requer. Do contrário, deveria-se trabalhar para sí mesmo, abrir uma firma e oferecer os serviços que façam bem.</p>
+
+<p>Esse é um ponto bem complicado. Há mais oportunidades para uma empresa faturar oferecendo alguns tipos de serviços menos necessários para a sociedade ou do que o conhecimento e experiência da cabeça/fundador da empresa teria para oferecer.</p>
+
+<p>Instituições do governo na minha área de formação são boas opções no quesito de ajudar a população nos mais diversas dificuldades da área. Mas vendo a ciência e o pensamento ambientalista tão errados, acredito que seria um trabalho com muitas frustrações. Como eu poderia ajudar na questão ambiental se não concordo com tantas bobagens que acreditam e muitas que são mesmo <em>leis</em>?</p>
+
+<p>De todas essas opções, talvez o magistério seja a profissão que mais poderá ajudar as pessoas da nação diretamente com um valor incomensurável: o conhecimento.</p>
+
+<p>Porém, também, tanto no ensino básico quanto no superior, há inúmeras oportunidades para se <em>ganhar poder</em> e <em>perder a dignidade</em>.</p>
+
+<h2>Conversa vai e vem</h2>
+
+<p>Conversando hoje com um amigo com características similares às minhas, acabei ficando melhor e estou saindo da fossa motivacional em que caí na última semana.</p>
+
+<p>Basicamente, vou tentar afastar essas questões existenciais e focar em metas mais próximas e mais tangíveis e ir decidindo as escolhas e resolvendo os problemas conforme forem aparecendo.</p>
+
+<p>Estou meio enrrolado com os estudos, como podem ser testemunhas.</p>
+
+<p>O passo é lento.</p>
+
+<p>Direção é mais importante que velocidade.</p>
+
+<p>PS: acho que fui um pouco injusto comigo mesmo neste <em>post</em>, porém essas escritas também tem a função de promover uma autoanálise. Muitos pontos aqui descritos já foram superados ou estão em processo. Também percebi que para eu ser feliz, não basta somente tão pouco como escrevi aqui.. Por exemplo, materialmente acredito que realmente precise somente do necessário, mas espiritualmente é necessário o engajamento com outras pessoas e conseguirmos nos unir para produzir mudanças boas para a sociedade -- através da política (sentido filosófico). Mas deixemos essas coisas para outra hora!</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#12 Vacinação da Covid para Biólogos?</title>
+<pubDate>Wed, 16 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/12/</link>
+<dc:language>pt</dc:language>
+<category>convocação/cortando fila/egoísmo/injustiça</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+02986f02-32a3-514c-94fd-a7a7af031dde</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="12">#12 Vacinação da Covid para Biólogos?</h1>
+<time class="dt-published" datetime="2021-06-16">16/Jun/2021</time>
+<nav><a href="12/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Ontem eu andei olhando um e-mail que recebi do CRBio da sétima região e fiquei chocado.</p>
+
+<p>Segue abaixo parte do e-mail.</p>
+
+<blockquote>
+<p>Biólogos de Curitiba com registro no Conselho Regional serão vacinados contra a covid-19</p>
+
+<p>A Secretaria Municipal da Saúde de Curitiba está agendando pelo aplicativo Saúde Já a vacinação dos profissionais Biólogos registrados no Conselho Regional de Biologia da 7ª Região - CRBio-07 que ainda não receberam a primeira dose do imunizante contra a covid-19.</p>
+
+<p><em>Todos os profissionais registrados, que estão na lista encaminhada pelo Conselho à Prefeitura de Curitiba, serão vacinados</em>. O atendimento acontece exclusivamente no Pavilhão da Cura, do Parque Barigui [&hellip;]</p>
+</blockquote>
+
+<p>Em itálico foi marcado uma frase muito importante. Se meu português ainda anda razoável, o sentido do período dentre as vírgulas em <q>, que estão na lista encaminhada pelo Conselho à Prefeitura de Curitiba,</q> é de que <q>todos os profissionais registrados</q> estão na lista da vacina e não somente um subgrupo dos profissionais registrados <strong>e</strong> que estão na dita lista!</p>
+
+<p>Ou seja, a vacina foi liberada para toda a categoria.</p>
+
+<p>Em um impulso turbinado pelo <em>horror</em>, escrevi-lhes um e-mail escancarando o quão ruim é essa medida. Os motivos listo abaixo.</p>
+
+<ol>
+<li>Não existem imunizantes o suficiente</li>
+
+<li>Pessoas específicas (professores, profissionais de saúde e outros) ainda precisam ser vacinadas e revacinadas</li>
+
+<li>A proposta de imunização dos biólogos é heterogenia</li>
+
+<li>Este evento irá produzir uma viagem em massa de biólogos do meu estado para a capital</li>
+
+<li>Dentro de alguns meses, grande parte da população estará vacinada seguindo-se o esquema por grupo etário normal</li>
+</ol>
+
+<p>Com relação ao ponto três, somente uma pequena parte dos biólogos vivem em Curitiba e aqueles que tem algum vínculo ou residência na cidade, mesmo morando em outra, poderá receber as vacinas. Não ficou claro no e-mail do CRBio se somente os biólogos que morarem em Ctba ou se todos que estiverem em Ctba poderão tomar a vacina, porém e de qualquer forma, esse requisito é muito fácil de burlar, basta ter um parente ou amigo residente na capital.</p>
+
+<p>Mas sinceramente, muito me estranham esses requisitos. Penso que os funcionários do CRBio de Curitiba, eles próprios vão se encaixar nos requisitos melhor do que ninguém. Ou seja, não é justo que biólogos que trabalham em um escritório com burocracia tomem a vacina adiantada!</p>
+
+<p>Outro ponto importante é escrevi no e-mail é de que a batalha do CFBio e do CRBio devem ser para <em>defender</em> a profissão do biólogo e vagas nos concursos, e não para tentar cortar fila e adquirir <em>direitos</em> mesquinhos e egoístas.</p>
+
+<p>Tudo bem que os biólogos profissionais da saúde devessem mesmo ter o direito de receber a vacina, mas isso já havia sido definido no começo deste ano, quando os biólogos foram encaixados no grupo de profissionais da saúde com esse direito.</p>
+
+<p>Vi uma palestra esses dias em que um presidente ou conselheiro do CFBio disse que a missão do conselho é:</p>
+
+<ol>
+<li>Defender</li>
+
+<li>Disciplinar</li>
+
+<li>Fiscalizar</li>
+</ol>
+
+<p>Então entendo que garantir a vacinação para biólogos de saúde e professores é uma defesa do profissional, mas além disso é um descalabro. Pouco me importa se até os médicos veterinários conseguiram esse <em>direito</em>, talvez não devessem usar-se dele. O CRBio precisa ser <em>disciplinado</em>.</p>
+
+<p>No começo deste ano, eu <em>suspendi</em> minha inscrição no CRBio pois não estou empregado na área e não estava usando o registro para nada, mas mesmo que eu estivesse em dia, não iria tomar a vacina antes do meu grupo etário.</p>
+
+<h2>Biólogos vs. agrônomos</h2>
+
+<p>Não me lembro qual dos dois concursos do Instituto Água e Terras (<abbr title="Instituto Água e Terras">IAT</abbr>) abaixo eu usei para fazer essa pequena análise pois já faz alguns meses, mas vamos aos fatos.</p>
+
+<ul>
+<li><a href="https://www.ibfc.org.br/concurso/concurso_selecionado/367">https://www.ibfc.org.br/concurso/concurso_selecionado/367</a>
+</li>
+
+<li><a href="https://www.fundacaofafipa.org.br/informacoes/3740/">https://www.fundacaofafipa.org.br/informacoes/3740/</a>
+</li>
+</ul>
+
+<p>Vamos comparar o número de <em>atos administrativos</em> a serem estudados para as vagas de biólogo e engenheiro agrônomo nesse concurso.</p>
+
+<table id="t04" class="tborder tbcollapse center">
+<caption>Tabela 1. Comparação de atos administrativos para estudo do concurso do IAT 2020</caption>
+
+<tr>
+<th>Ato</th>
+<th>Biólogo</th>
+<th>Agrônomo</th>
+</tr>
+
+<tr>
+<td>Lei</td>
+<td>7</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Decreto</td>
+<td>6</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Norma</td>
+<td>9</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Resolução</td>
+<td>5</td>
+<td>11</td>
+</tr>
+
+<tr>
+<td>Portaria</td>
+<td>8</td>
+<td>5</td>
+</tr>
+</table>
+
+<p>A ordem de importância e dificuldade dos atos administrativos é: lei, decreto, norma, resolução e portaria.</p>
+
+<p>Notamos que os biólogos tem muito mais atos administrativos difíceis e longos para estudar do que agrônomos. Enquanto temos que estudar mais leis, decretos e normas, os agrônomos tem mais resoluções e portarias devido ao fato dos engenheiros serem mais <em>técnicos</em> e não precisarem de tantas leis (?)&hellip;</p>
+
+<p>Não estou reclamando que temos que estudar um monte, mas sim da parcialidade que se tratam esses profissionais de áreas muito similares.</p>
+
+<p>É desnecessário mencionar que geralmente há mais vagas para engenheiros agrônomos, florestais, gestores de água e veterinários do que para biólogos.</p>
+
+<p>Por que temos tanta dificuldade comparado com essas outras categorias profissionais?</p>
+
+<h2>Recomendações</h2>
+
+<p>Não recomendo que ninguém perca a cabeça como eu ontem de manhã. Isso por que a secretária responsável que recebe esses e-mails é razoavelmente legal e sempre entrarei em contato com ela caso precise de algo do CRBio da minha região. Ou seja, melhor não se queimar por pouca bosta.</p>
+
+<p>Não escrevi xingamentos pois não é direcionado a ninguém em específico mas fui grosseiro. Essa grosseria vem de alguns anos, mais especificamente a partir de 2013, quando já havia acumulado frustrações e injustiças demais na minha vida, tanto pessoal quanto intelectual e científica. Desde que coloquei o dedo nessa ferida ano passado, tenho trabalhado para ser menos grosseiro e acalmar minha raiva contra o mundo. Já melhorei, mas de vez em quando ainda escapa!</p>
+
+<p>Porém, é justo e próprio que uma pessoa de bem possa exprimir-se diante da presença de um <em>horror</em>. Portanto, não me arrependo muito de ter-lhes escrito falando do mal-estar que me foi ocasionado por tal notícia, mas recomendaria ao meu caro leitor ou que não se queime ou que use uma linguagem moderada que possa incitar uma reflexão de quem a lê.</p>
+
+<p>Duvido muito que mesmo uma mensagem moderada e com palavras escolhidas cuidadosamente possa fazer algum efeito mas sei que não é impossível, mesmo quando quem a escreve não ser representante de uma instituição ou movimento de autoridade.</p>
+
+<p>Amanhã eu irei ajudar uma amiga com a mudança de casa dela. Espero começar a pegar mais firme no estudo das leis em si semana que vem.. Assim espero!</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#11 Onde Estudar</title>
+<pubDate>Tue, 15 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/11/</link>
+<dc:language>pt</dc:language>
+<category>referências/método/escolhas/resolução</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+371c92c1-7ca3-5d06-9336-35fe572757a5</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="11">#11 Onde Estudar</h1>
+<time class="dt-published" datetime="2021-06-15">15/Jun/2021</time>
+<nav><a href="11/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Desde que li <a href="8/">as dicas da Rayane</a>, tenho pensdo onde estudar.</p>
+
+<p>Até fui passear na universidade em uma cidade grande aqui perto, que comentei em post anterior, e estudei um pouco. Foi bom, mas pensando mais demoradamente sobre o assunto e cheguei à conclusão de que não me faria bem ficar estudando mais lá.</p>
+
+<p>Aquela universidade faz parte de um passado não tão distante de uma parte da minha vida muito sofrida. Inclusive, passei maus bocados com as pessoas dessa universidade que me machucaram muito em duas ocasiões. Essas ocasiões são do passado e preciso deixá-las enterradas pois o ódio e a sede de vingança são sentimentos que só fazem mal para nós mesmos..</p>
+
+<h2>Mudanças</h2>
+
+<p>Então, não havendo mais lugares de estudo disponíveis ou que sejam saudáveis, preciso somente acalmar os <span title="ânimos">espíritos</span> e achar uma rotina na minha própria casa (com minha mãe) que seja agradável para os estudos.</p>
+
+<p>Especificamente, passei os últimos dois anos e meio em um escritório que montei em uma antiga sala na frente da casa que moramos. Passei muito tempo bom e muito tempo ruim aqui e <a title="Mude, mas comece. Declamado por Abujamra" href="https://www.youtube.com/watch?v=A2hk9jtL7WA">desejo mudar</a> para que o ensejo não me leve à mesma rotina e alguns hábitos ruins passados, como sair para tomar umas ao final do dia.</p>
+
+<p>Não acredito que uma <em>mudança interior</em> somente possa fazer milagres. O meio influencia muito. Como meu caso não é <em>extremo</em>, vou fazer o que puder, tanto mudar interiormente (o que acredito já foi mudado) e exteriormente, também.</p>
+
+<h2>Ricos e pobreza</h2>
+
+<p>Como já podem ter notado, eu sou contra gastar bilhões de dólares (eles querem que seja 5% do PIB <em>mundial</em> até 2030) contra mudanças climáticas sendo que há problemas muito mais graves que assolam a população.</p>
+
+<p>Os artigos abaixo esclarecem-me uma questão que venho pensando há tempos: por que a oligarquia (ricos e, até mesmo classe média) não deseja acabar com a <strong>pobreza mundial</strong>?</p>
+
+<dl>
+<dt><a lang="en" hreflang="en" href="https://www.nytimes.com/2021/06/13/opinion/stimulus-unemployment-republicans-poverty.html">What the Rich Don’t Want to Admit About the Poor - The New York Times</a>
+</dt>
+
+<dd>Why do we leave millions of people in poverty? The answer should make us uncomfortable.</dd>
+
+<dt><a href="https://economia.uol.com.br/noticias/bbc/2021/06/14/china-por-que-ser-podre-de-rico-deixou-de-ser-bem-visto.htm">China: Por que ser 'podre de rico' deixou de ser bem visto no país</a>
+</dt>
+
+<dd>Vida de ostentação dos novos ricos da China tem sido alvo de críticas em um país com grandes desigualdades sociais.</dd>
+</dl>
+
+<h2>Mais algumas dicas de bio</h2>
+
+<p>Tenho pesquisado bastante dicas de biólogos atuando profissionalmente ou mesmo pessoais, para tentar recapturar a <em>magia</em> e a <em>admiração</em> pelas ciências e aquela sede que nos levou até ela.</p>
+
+<p>Decidi que não vou ficar postando muito mais referências de vídeos do YouTube aqui pois é fácil de achá-las para quem está atrás.</p>
+
+<p>Uma dica para fazer uma varredura nas buscas do Google, DuckDuckGo, Bing e tal é ir mudando as palavras-chaves aos poucos durante alguns dias, semanas e ir revendo os resultados das pesquisas que com certeza achará muitas referências legais.</p>
+
+<p>Pessoalmente, gosto muito de usar a busca por <em>limite de datas</em>, em que posso resgatar referências e sites antigos que de certa forma me aprazem mais do que essa bobagem moderna.</p>
+
+<p>Também tenho uma cópia de uma parte da <em>Usenet</em>, mas é verdade que tenho feito poucas pesquisas no arquivo sobre biologia.. É uma boa explorar isso. Da última vez, procurei sobre corona vírus e achei umas matérias muito legais de jornais internacionais famosos na época do surto de ~2003.</p>
+
+<p>Apesar que pode ser difícil achar uma única referência específica para o que precisa&hellip;</p>
+
+<p>Abaixo, mais algumas referências legais que andei vendo esses dias e alguns sites de biólogos legais.</p>
+
+<dl>
+<dt><a href="https://m.youtube.com/watch?v=NAFUsYlNjlE">Profissão Biólogo - YT</a>
+</dt>
+
+<dd>Hoje (3/set) é um dia muito especial, e por isso fiz esse vídeo falando um pouco sobre essa profissão tão maravilhosa. Por Sérgio Rangel.</dd>
+
+<dt><a href="https://m.youtube.com/watch?v=HNVuaRf9O7k">Profissional Biólogo no Canadá - YT</a>
+</dt>
+
+<dd>Uma doutora e professora de bióloga molecular que foi para o Canadá com o marido, dá umas dicas e uma visão de como o mercado de trabalho para os biólogos no Canadá.</dd>
+
+<dt><a href="https://www.uol.com.br/universa/noticias/redacao/2021/06/14/de-reporter-a-cientista-de-dados-estudei-de-graca-e-hoje-ganho-o-triplo.htm">Como mudei de carreira e me tornei cientista de dados</a>
+</dt>
+
+<dd>Comecei pesquisando sobre as áreas da tecnologia e descobri que como cientista poderia usar a criatividade e levantar as coisas do zero.</dd>
+</dl>
+
+<dl>
+<dt><a href="https://www.blogs.unicamp.br/vqeb2/">Você que é Biólogo - A vida como 'o cientista vê' que ela é</a>
+</dt>
+
+<dd>Blog com publicações que se estenderam por muitos anos e perfaz a trajetória de um cientista e professor de universidade pública, o <a href="https://twitter.com/vcqebiologo">Mauro Rebelo</a>.</dd>
+
+<dt><a href="https://danielbiologo.wordpress.com/">Danielbiologo's Blog</a>
+</dt>
+
+<dd>Blog interessante do Daniel de A. Costa</dd>
+
+<dt><a href="https://danielbiologo2.wordpress.com/">danielbiologo2</a>
+</dt>
+
+<dd>Continuação do bog do Daniel Costa.</dd>
+</dl>
+
+<p>Abaixo, uma lista rápida de algumas confissões de biólogos&hellip; Tem muitos relatos confidenciários, na realidade, e é fácil achá-los na internet!</p>
+
+<p>Lembrando que se você precisa acessar artigos atrás de <span lang="en">paywalls</span> (muro de pagamentos), use o <a href="https://sci-hub.st/">Sci-Hub</a>.</p>
+
+<ul lang="en">
+<li><a hreflang="en" href="https://www.nature.com/articles/308794a0">Confessions of a biologist | Nature</a>
+</li>
+
+<li><a hreflang="en" href="https://blogs.scientificamerican.com/guest-blog/confessions-of-a-wasteful-scientist/">Confessions of a Wasteful Scientist - Scientific American Blog Network</a>
+</li>
+
+<li><a hreflang="en" href="https://amp.theguardian.com/science/occams-corner/2016/feb/12/confessions-of-a-scientist-mum">Confessions of a scientist mum | Science | The Guardian</a>
+</li>
+
+<li><a hreflang="en" href="https://www.americanscientist.org/blog/macroscope/confessions-of-a-herbarium-savvy-field-biologist">Confessions of a Herbarium-Savvy Field Biologist | American Scientist</a>
+</li>
+
+<li><a hreflang="en" href="https://www.goodreads.com/book/show/35684721-confessions-of-a-scientist">Confessions of a Scientist by Raymond Lee Ditmars</a>
+</li>
+
+<li><a hreflang="en" href="https://sciall.org/portfolio/confessions-of-a-marine-biologist-collision-course-with-the-hilton/">Confessions of a Marine Biologist: Collision Course with The Hilton | SciAll.org</a>
+</li>
+
+<li><a hreflang="en" href="https://www.metanexus.net/confessions-evolutionary-biologist/">Confessions of an Evolutionary Biologist - Metanexus</a>
+</li>
+
+<li><a hreflang="en" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7348.1986.tb07643.x">Confessions of a narrow‐minded applied biologist, or why do interdisciplinary research? (1986) Wiley Online Library</a>
+</li>
+
+<li><a hreflang="en" href="https://www.sciencemag.org/careers/2003/05/confessions-science-junky">Confessions of a Science Junky | Science Mag</a>
+</li>
+
+<li><a hreflang="en" href="https://repository.si.edu/handle/10088/18300">Stinging Trees and Wait-a-Whiles. Confessions of a Rainforest Biologist</a>
+</li>
+
+<li><a hreflang="en" href="https://mentalfloss.atavist.com/true-confessions-of-a-bat-biologist">True Confessions of a Bat Biologist</a>
+</li>
+
+<li><a hreflang="en" href="https://briantissot.com/2016/05/18/chasing-the-wild-abalone-confessions-of-a-field-biologist/amp/">Chasing the Wild Abalone: Confessions of a Field Biologist - Dr Abalone</a>
+</li>
+</ul>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#10 Áreas de Atuação</title>
+<pubDate>Sun, 13 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/10/</link>
+<dc:language>pt</dc:language>
+<category>lista/profissão/carreira/opções</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+c3d96bc0-266d-5350-8b47-55432824cfd4</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="10">#10 Áreas de Atuação</h1>
+<time class="dt-published" datetime="2021-06-13">13/Jun/2021</time>
+<nav><a href="10/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p><a title="CFBIO - Áreas de Atuação" href="https://cfbio.gov.br/areas-de-atuacao/">Achei esta lista</a> do <abbr title="Conselho Federal de Biologia">CFBio</abbr> bem interessante e confiável. Há várias outras listas espalhadas pela internet, muitos conslehos regionais de bio também tem suas próprias listas.</p>
+
+<p>O CFBIo separa as áreas de atuação em três grandes grupos que se sobrepõe.</p>
+
+<ol>
+<li>Áreas de Atuação do Biólogo em Meio Ambiente e Biodiversidade</li>
+
+<li>Áreas de Atuação do Biólogo em Saúde</li>
+
+<li>Áreas de Atuação do Biólogo em Biotecnologia e Produção</li>
+</ol>
+
+<p><a title="Quais as principais áreas de atuação de um biólogo?" href="http://blogunigranead.com/graduacao/biologia/quais-as-principais-areas-de-atuacao-de-um-biologo/">Uma reportagem</a> dizia que havia mais de 80 áreas para o biólogo. Porém, depois de puxar todos os itens listados pelo CFBio e <em>remover as duplicatas</em>, restaram 78 itens listados abaixo.</p>
+
+<details style="margin:1em;">
+<summary><u style="color:midnightblue;">Clique para expandir a lista</u>
+</summary>
+
+<ol>
+<li>Aconselhamento Genético</li>
+
+<li>Análises, Bioensaios e Testes em Animais</li>
+
+<li>Análises Citogenéticas</li>
+
+<li>Análises Citopatológicas</li>
+
+<li>Análises Clínicas <small>*Esta Resolução em nada altera o disposto nas Resoluções nº 12/93 e nº 10/2003</small></li>
+
+<li>Análises de Histocompatibilidade</li>
+
+<li>Análises e Diagnósticos Biomoleculares</li>
+
+<li>Análises Histopatológicas</li>
+
+<li>Análises, Processos e Pesquisas em Banco de Leite Humano</li>
+
+<li>Análises, Processos e Pesquisas em Banco de Órgãos e Tecidos</li>
+
+<li>Análises, Processos e Pesquisas em Banco de Sangue e Hemoderivados</li>
+
+<li>Análises, Processos e Pesquisas em Banco de Sêmen, Óvulos e Embriões</li>
+
+<li>Aquicultura: Gestão e Produção</li>
+
+<li>Arborização Urbana</li>
+
+<li>Auditoria Ambiental</li>
+
+<li>Biodegradação</li>
+
+<li>Bioespeleologia</li>
+
+<li>Bioética</li>
+
+<li>Bioinformática</li>
+
+<li>Biologia Molecular</li>
+
+<li>Biomonitoramento</li>
+
+<li>Bioprospecção</li>
+
+<li>Biorremediação</li>
+
+<li>Biossegurança</li>
+
+<li>Controle de Vetores e Pragas</li>
+
+<li>Cultura de Células e Tecidos</li>
+
+<li>Curadoria e Gestão de Coleções Biológicas, Científicas e Didáticas</li>
+
+<li>Desenvolvimento e Produção de Organismos Geneticamente Modificados (OGMs)</li>
+
+<li>Desenvolvimento, Produção e Comercialização de Materiais, Equipamentos e Kits Biológicos</li>
+
+<li>Diagnóstico, Controle e Monitoramento Ambiental</li>
+
+<li>Ecodesign</li>
+
+<li>Ecoturismo</li>
+
+<li>Educação Ambiental</li>
+
+<li>Engenharia Genética/Bioengenharia</li>
+
+<li>Fiscalização/Vigilância Ambiental</li>
+
+<li>Gestão Ambiental</li>
+
+<li>Gestão, Controle e Monitoramento em Ecotoxicologia</li>
+
+<li>Gestão da Qualidade</li>
+
+<li>Gestão de Bancos de Células e Material Genético</li>
+
+<li>Gestão de Bancos de Germoplasma</li>
+
+<li>Gestão de Biotérios</li>
+
+<li>Gestão de Jardins Botânicos</li>
+
+<li>Gestão de Jardins Zoológicos</li>
+
+<li>Gestão de Museus</li>
+
+<li>Gestão de Recursos Hídricos e Bacias Hidrográficas</li>
+
+<li>Gestão de Recursos Pesqueiros</li>
+
+<li>Gestão e Tratamento de Efluentes e Resíduos</li>
+
+<li>Inventário, Manejo e Comercialização de Microrganismos</li>
+
+<li>Inventário, Manejo e Conservação da <em>Fauna</em></li>
+
+<li>Inventário, Manejo e Conservação da Vegetação e da <em>Flora</em></li>
+
+<li>Inventário, Manejo e Conservação de Ecossistemas Aquáticos: Límnicos, Estuarinos e Marinhos</li>
+
+<li>Inventário, Manejo e Conservação do Patrimônio Fossilífero</li>
+
+<li>Inventário, Manejo e Produção de Espécies da <em>Fauna</em> Silvestre Nativa e Exótica</li>
+
+<li>Inventário, Manejo e Produção de Espécies da <em>Flora</em> Nativa e Exótica</li>
+
+<li>Inventário, Manejo, Produção e Comercialização de Fungos</li>
+
+<li>Licenciamento Ambiental</li>
+
+<li>Mecanismos de Desenvolvimento Limpo (MDL)</li>
+
+<li>Melhoramento Genético</li>
+
+<li>Microbiologia Ambiental</li>
+
+<li>Mudanças Climáticas</li>
+
+<li>Paisagismo</li>
+
+<li>Perícia/Biologia Forense</li>
+
+<li>Perícia e Biologia Forense</li>
+
+<li>Perícia Forense Ambiental/Biologia Forense</li>
+
+<li>Planejamento, Criação e Gestão de Unidades de Conservação (UC)/Áreas Protegidas</li>
+
+<li>Processos Biológicos de Fermentação e Transformação</li>
+
+<li>Reprodução Humana Assistida</li>
+
+<li>Responsabilidade Socioambiental</li>
+
+<li>Restauração/Recuperação de Áreas Degradadas e Contaminadas</li>
+
+<li>Saneamento Ambiental</li>
+
+<li>Saneamento Saúde Pública/Fiscalização Sanitária</li>
+
+<li>Saúde Pública/Vigilância Ambiental</li>
+
+<li>Saúde Pública/Vigilância Epidemiológica</li>
+
+<li>Saúde Pública/Vigilância Sanitária</li>
+
+<li>Terapia Gênica e Celular</li>
+
+<li>Treinamento e Ensino em Biotecnologia e Produção</li>
+
+<li>Treinamento e Ensino na Área de Meio Ambiente e Biodiversidade</li>
+
+<li>Treinamento e Ensino na Área de Saúde</li>
+</ol>
+</details>
+
+<p>Muitos dessas órbitas se sobrepõe pois são definições feitas pelos humanos para melhor estudar e analisar as partes de um corpo chamado Ciências. Inclusive, muitas outros profssionais como médicos veterinários, engenheiros agrônomos, florestais e civis podem atuar nessas esferas.</p>
+
+<p>Infelizmente, em muitos editais os tipos engenheiros acima citados são preferidos às vagas.</p>
+
+<p>Qualquer hora dessas vou fazer reproduzir uma análise simples que fiz de alguns editais há alguns anos em que comparei o número de <em>leis</em>, <em>decretos</em>, <em>normas</em>, <em>resoluções</em> e <em>portarias</em> que o <em>biólogo</em> vs. <em>agrônomo</em> precisam estudar para concorrer às mesmas vagas ou similares. Adianto que o <strong>biólogo</strong> tem que <strong>estudar muito mais</strong> leis e matérias que agrônomos. Assim que encontrar esses dados eu os reproduzo ou, eventualmente, faremos uma nova análise simples aqui.</p>
+
+<p><strong>PS</strong>: achei <a href="https://www.euquerobiologia.com.br/2019/09/concurso-ibamahtml">um artigo do Guellity Marcel</a> com dicas de estudo para o Ibama. Achei esse cara fascinante. Não pesquisei muito sobre ele mas ele passou a infância na roça até que foi estudar biologia em Campo Grande (MS) e agora trabalha em uma empresa <a href="https://ecosev.com.br/">Ecosev</a> de lincenciamento ambiental. Não procurei a ponto de descobrir detalhes mas tudo indica que ele é sócio. Além disso, o site dele <abbr title="Eu Quero Biologia"><a href="https://www.euquerobiologia.com.br/sobre-o-blog">EQB</a></abbr> tem um ideal e visão bem bacana e a gente se surpreeende com a história do cara.</p>
+
+<p>Para não deixar de mencionar outro biólogo interessante, há também <a href="https://www.youtube.com/channel/UCO8_ElrT8MXmr_42hQ6oJNg">o BiologoZero</a> que fundou sua própria empresa de controle de pragas, a <a href="https://www.zeroinset.com.br/">ZeroInset</a>, de Fabiano Soares.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#9 Revendo os Editais Ibama 2002, 2005, 2008 e
+2012</title>
+<pubDate>Sat, 12 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/9/</link>
+<dc:language>pt</dc:language>
+<category>análise/comparação/estudo</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+85ca30cc-ec9d-590b-94be-797eea7591e2</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="9">#9 Revendo os Editais Ibama 2002, 2005, 2008 e 2012</h1>
+<time class="dt-published" datetime="2021-06-12">12/Jun/2021</time>
+<nav><a href="9/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Finalmente encontrei as minhas cópias impressas dos editais anteriores do Ibama para <em>Analista ambiental</em> (<abbr title="Analista ambiental">AA</abbr>). É sempre bom ter acesso, digital e, opcionalmente, impresso para não depender de informações avulsas encontradas na internet.</p>
+
+<p>Por exemplo, a prova do edital de 2012 ocorreu somente em 2013. Deste fato surgem alguns equívocos em alguns sites, então <strong>atenção</strong> e <em>sempre faça sua própria pesquisa</em>!</p>
+
+<p>Destes editais, gostaria de extrair algumas informações úteis. Será mais fácil pois são cópias que estão anotadas desde há alguns anos, após me formar no mestrado e começar a estudar para concursos. Logo em seguida, porém, engavetei tudo sabendo que uma hora elas me seriam úteis quando retornasse para os estudos da lei.</p>
+
+<div style="overflow-x:auto;">
+<table id="t03" class="tborder tbcollapse center">
+<caption>Tabela 1. Comparando algumas informações dos últimos editais do Ibama</caption>
+
+<tr>
+<th>Ano</th>
+<th>Re<wbr>mu<wbr>ne<wbr>ra<wbr>ção</th>
+<th>Va<wbr>gas</th>
+<th>Tema 1.1</th>
+<th>Tema 1.2</th>
+<th>Tema 2</th>
+<th>Tema 3</th>
+<th>Tema 4</th>
+<th>Tema 5</th>
+<th>Tema 6</th>
+</tr>
+
+<tr>
+<td><a href="http://www.cespe.unb.br/concursos/_antigos/2002/ibama/">2002</a>
+</td>
+<td>2548,00</td>
+<td>610</td>
+<td colspan="2">Aspectos gerais <small>(química, eco, hidrogeo ...)</small></td>
+<td>Legislação</td>
+<td>Fauna <small>(taxonomia, biodiversidade)</small></td>
+<td>Gestão e manejo dos recursos ambientais</td>
+<td colspan="2">Aspectos socioeconômicos</td>
+</tr>
+
+<tr>
+<td><a href="http://www.cespe.unb.br/concursos/_antigos/2005/IBAMA2005/">2005</a>
+</td>
+<td>2573,86</td>
+<td>610</td>
+<td colspan="2">Regulação, controle, fiscalização, licenciamento e auditoria ambiental</td>
+<td>Monitoramento ambiental</td>
+<td>Gestão, proteção e controle da qualidade ambiental</td>
+<td>Ordenamento dos recursos florestais e pesqueiros</td>
+<td>Conservação de ecossistemas e suas espécies <small>(incluindo manejo e proteção)</small></td>
+<td>Estímulo de difusão de tecnologias, informação e educação ambiental</td>
+</tr>
+
+<tr>
+<td><a href="http://www.cespe.unb.br/concursos/_antigos/2008/IBAMA2008/">2008</a>
+</td>
+<td>4115,37</td>
+<td>225</td>
+<td>Licenciamento e auditoria ambiental</td>
+<td>Regulação, controle e fiscalização ambiental</td>
+<td>Gestão, proteção e controle da qualidade ambiental</td>
+<td>Ordenamento dos recursos florestais e pesqueiros</td>
+<td>Conservação , manejo e proteção das espécies da fauna</td>
+<td colspan="2">Estímulo e difusão de tecnologias</td>
+</tr>
+
+<tr>
+<td><a href="http://www.cespe.unb.br/concursos/IBAMA_12_ANALISTA_AMBIENTAL/">2012</a>
+</td>
+<td>5441,24</td>
+<td>108</td>
+<td colspan="2">Licenciamento almbiental</td>
+<td>Monitoramento, regulação, controle, fiscalização e auditoria ambiental</td>
+<td colspan="4">Gestão, proteção e controle da qualidade ambiental</td>
+</tr>
+</table>
+</div>
+
+<h2>Observaçõe gerais</h2>
+
+<p>As vagas para os concursos de <em>analista ambiental</em> do Ibama caíram no decorrentes concursos.</p>
+
+<p>Também podemos observar que ao longo do tempo, há um aumento da quantidade de leis e matérias para as questões específicas.</p>
+
+<p>O edital de 2012 não oferece vagas no meu estado, então esse é um ponto a ser levado em consideração.</p>
+
+<h2>Remuneração e inflação</h2>
+
+<p>O salário inicial foi aumentando de maneira mais ou menos proporcional à inflação no Brasil.</p>
+
+<p><a title="Veja função no meu GitHub!" href="https://github.com/mountaineerbr/markets/blob/master/mkt_func.sh">Tenho uma função em <span lang="en">shell</span></a> chamada <code>ipcab</code> que faz os cálculos da inflação brasieira ao longo dos anos.</p>
+
+<p>Os dados são baixados do <span lang="en">api</span> de <a href="https://servicodados.ibge.gov.br/api/docs">serviço de dados do <abbr title="Instituto Brasileiro de Geografia e Estatística">IBGE</abbr></a>.</p>
+
+<p>Calculando-se qual seria o salário inicial em um eventual edital lançado neste mês com correção da taxa <abbr title="Índice Nacional de Preços ao Consumidor Amplo">IPCA</abbr> de maio/2021, chega-se ao valor de R$ 7997,55 com referência do ano 2002 e R$ 8841,97 com referência de 2012 para analista ambiental.</p>
+
+<p>Nem preciso dizer, salários ótimos. Tenho um amigo que trabalha no Ministério do Meio Ambiente em Brasília que ganha mais de 16 mil reais e trabalha lá faz somente uns 7 anos.. Mas ele está deslumbrado com Brasília e eu testemunhei a ocorrência de uma espécie de lavagem nele nos meses que seguiram até perdermos o contato há cerca de um ano..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#8 Dicas de Como Estudar da Rayane
+Oliveira</title>
+<pubDate>Sun, 06 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/8/</link>
+<dc:language>pt</dc:language>
+<category>método/sistema/video/lista/pontos</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+9c3a84c3-cf23-58fd-ae71-6af593ca89a3</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="8">#8 Dicas de Como Estudar da Rayane Oliveira</h1>
+<time class="dt-published" datetime="2021-06-06">06/Jun/2021</time>
+<nav><a href="8/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>O seguinte vídeo da Rayane Oliveira tem dicas muito legais de como se preparar e realizar os estudos.</p>
+
+<p>Gostei tanto que vou fazer uma tabela a baixo com os pontos que ela cita. Vale a pena ver o vídeo pois é um complemento a uma outra reportagem do <a href="2/">post #2</a> em que o <a lang="pt-BR" hreflang="pt-BR" href="http://g1.globo.com/concursos-e-emprego/noticia/2014/10/jovem-de-22-anos-e-aprovado-em-4-concursos-em-3-anos.html">Diogo Machado (22 anos) foi aprovado em 4 concursos em 3 anos</a>.</p>
+
+<p>Um ponto importante para se lembrar da reportagem do jovem de 22 anos é que ele diz que o tempo entre a publicação do edital e a prova, de geralmente um a dois meses, não é suficiente para estudar para um concurso.</p>
+
+<p>Abaixo então, o vídeo da Rayane e sua lista.</p>
+
+<dl>
+<dt><a href="https://m.youtube.com/watch?v=TthnZOUjB6c">Como Estudar Para Concurso e Por Onde Começar | Eu Fiz Isso e Fui Aprovada em 5 Meses</a>
+</dt>
+
+<dd>Neste vídeo compartilho todos os passos que segui pra obter aprovação no meu concurso e que deu certo. Te ajudo com aquelas dúvidas: 'por onde começar a estudar'...</dd>
+</dl>
+
+<dl>
+<dt>1. Definir o curso que se quer</dt>
+
+<dd>Se for concursos da mesma área, pode estudar para vários ao mesmo tempo.</dd>
+
+<dt>2. Leia todo o edital do concurso escolhido</dt>
+
+<dd>Certifique-se se você se adequa a todos os requisitos para não quebrar a cara na hora da efetivação.</dd>
+
+<dt>3. Definir como irá estudar</dt>
+
+<dd>Sozinho, cursinho, presencial ou online? Ver financeiro.</dd>
+
+<dt>4. Planejar sua vida</dt>
+
+<dd>Ver com a namorada ou esposa como organizar a rotina para somente estudar ou conciliar com o trabalho, parar de sair com os amigos, etc.</dd>
+
+<dt>5. Começar a estudar</dt>
+
+<dd>Para organizar sua rotina de estudos, nada melhor do que começar a estudar e se organizar vendo cada tópico das matérias</dd>
+
+<dt>6. Definir local de estudos</dt>
+
+<dd>Um local ou vários? Em casa? Na cama, na cadeira, no quarto ou na sala? Biblioteca?</dd>
+
+<dt>7. Descobrir sua forma de aprender as matérias</dt>
+
+<dd>Ler múltiplas vezes? Assistir e ouvir vídeo ou podcasts de aulas? Escrever resumos? Escrever com caneta ou digitar no computador? Pode-se tentar várias formas até achar a sua preferida.</dd>
+
+<dt>8. Fazer provas anteriores</dt>
+
+<dd>Para entender como é o estilo e o ritmo das provas do concurso.</dd>
+
+<dt>9. Motivação</dt>
+
+<dd>O sonho é seu e pode não haver ninguém para te animar ou ainda pode haver pessoas que vão tentar desanimar, dizendo que ninguém passa na primeira, que demora vários naos, etc.. Música (de louvores), versículos? Um site de uma pessoa legal? Uma frase.. Busque uma motivação!</dd>
+
+<dt>10. Lembre-se que você só precisa de uma vaga!</dt>
+
+<dd>Para de olhar para o resto das pessoas.</dd>
+
+<dt>11. Não olhar para o amiguinho do lado</dt>
+
+<dd>Não ficar se comparando aos outros, cada um tem o seu tempo para conseguir estudar e passar, 5 meses sou 5 anos. Não fique com raiva de quem passou.</dd>
+</dl>
+
+<p>No caso, a Rayane fez cursinho presencial. Acho bem legal, inclusive uma professora do meu mestrado que havia acabado de passar no concurso para cargo efetivo, me disse que também havia feito cursinho para concursos e o programa havia a ajudado muito.</p>
+
+<p>Pessoalmente, acredito que até a dica #5 eu tenha conseguido começar a fazer funcionar, mas o ponto #6, achar um lugar bom para os estudos, é um problema.</p>
+
+<p>Não só esse, mas também estou precisando largar alguns hábitos ruins e focar na saúde (e nos estudos). Estou curtindo ainda um pouco mais do que tenho em planos mas estou me encaminhando para trilhar um caminho sem tantos vícios, em especial a cerveja e o tabaco, além de perder um quilinhos a mais.</p>
+
+<p>Mas voltando ao ponto #6, aqui em casa até é possível estudar sem ser muito interrompido. Mas infelizmente, como não tenho vínculo com nenhuma instituição de ensino e nesta cidadezinha que estou morando não tem uma boa universidade pública que conheço para poder usar as estruturas físicas para o estudo, não tem um segundo lugar que eu posso ir para espairecer e estudar de forma mais focada&hellip;</p>
+
+<p>Na realidade, quase todo fim de semana vou até uma cidade grande há uns 40KM da minha cidade ver amigos e parentes, e aproveito para passear na universidade estadual pública em que me formei na graduação, minha <em>alma mater</em>.</p>
+
+<p>Como ainda tenho acesso a internet lá (é uma longa história mas resumindo eu consegui convencer um cara da TI a me liberar o acesso à internet da universidade para, justamente, estudar), e tem tomadas, água para tomar e banheiro, eu costumava passar a tarde inteira, usando o laptop ou o celular e estudando sobre mercado financeiro até recentemente, ou vendo vídeos no YouTube.. Um programa meio solitário mas bem tranquilo.</p>
+
+<p>Quando minha mãe e eu morávamos há alguns minutos dessa universidade até há quase 3 anos e eu estava começando os estudos para concursos públicos (antes de entrar pro mercado financeiro), eu costumava ir todo dia de manhã para a universidade e os meus estudos rendiam bem, melhor do que se tivesse ficado em casa tentando estudar.</p>
+
+<p>Agora, não tão perto, não tenho esse luxo e não posso ir para lá <em>todos os dias</em>.</p>
+
+<p>Se não estivéssemos no outono, poderia considerar passar uma semana ou uns dez dias em um acampamento com internet. Mas também seria só uma forma de dar uma partida a frio nos estudos.</p>
+
+<p>Com a pandemia, não é uma boa ideia ir estudar na biblioteca pública da cidade, também..</p>
+
+<h2>Mais alguns bons: INCRA e MAPA</h2>
+
+<p>O vídeo a seguir é relativamente recente e contém boas dicas.</p>
+
+<dl>
+<dt><a href="https://m.youtube.com/watch?v=orGPx47gH6A">Editais 2021: IBAMA, FUNAI, ICMBIO e INCRA?</a>
+</dt>
+
+<dd>Dicas do Prof. Arthur Lima, 2020</dd>
+</dl>
+
+<p>Dois órgãos que eu ainda não tinha colocado na lista para ficar de olho é o INCRA e o também o MAPA. Vou atualizar a tabela de instituições <a href="4/">que fiz no post #4</a>.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#7 Indexação do Site</title>
+<pubDate>Sat, 05 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/7/</link>
+<dc:language>pt</dc:language>
+<category>mecanismo de
+busca/bing/google/público/visibilidade/webmasters</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+a0713bfc-bc17-5f87-9c69-bf4b8a04d1ce</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="7">#7 Indexação do Site</h1>
+<time class="dt-published" datetime="2021-06-05">05/Jun/2021</time>
+<nav><a href="7/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Estava tentando já há alguns dias indexar este site com o mecanismo de busca do Google.</p>
+
+<p>Consegui adicioná-lo facilmente no <a href="https://www.bing.com/webmasters/home"><span lang="en">Bing Webmaster Tools</span></a> mas quando ia adicionar o <span lang="en">sitemap</span> (mapa do site), dizia que havia um problema na captura.</p>
+
+<p>Felizmente achei <a title="Google Search Console: &quot;Couldn't&quot; Fetch Error" hreflang="en" href="https://support.wix.com/en/article/google-search-console-couldnt-fetch-error">uma resposta</a> que dizia, como eu já suspeitava, de que o problema iria se resolver sozinho em alguns dias visto que as configurações do meu site estão todas OK.</p>
+
+<p>descobri que há um recurso em que posso submeter <abbr title="Uniform Resource Identifier">URI</abbr>s individualmente para indexação enquanto esse problema não se resolve automaticamente nas próximas semanas.</p>
+
+<h2>Produção de Sites</h2>
+
+<p>Hoje rendi na produção de sites. Meu <em>velho</em> precisa de um site para o escritório dele e eu estou fazendo-o com bastante meta-etiquetas e um código bem alinhado e estruturado de HTML para que os mecanismos de busca gostem e coloquem-no dentre os primeiros resultados.</p>
+
+<p>Também já coloquei o site do escritório dele para indexação pois é uma das primeiras coisas que um <span title="Mestre da rede, administrado de sítio" lang="en">webmaster</span> deve fazer pois os mecanismos de busca podem demorar até fazerem a primera varredura.</p>
+
+<p>Estou usando <a href="https://www.w3schools.com/w3css/w3css_templates.asp">um modelo do W3.CSS</a> para o site do meu <em>velho</em> e <a hreflang="en" href="http://www.csszengarden.com/">modelo do CSS Garden</a> para minha prima.</p>
+
+<p>Nem preciso dizer que uma boa página tem várias <span title="Meta-etiquetas" lang="en">meta tags</span> (meta-etiquetas) na cabeça para os mecanismos de busca.. Importantíssimas!</p>
+
+<p>Estou inserindo agora até as etiquetas do <a href="https://ogp.me/" hreflang="en">Open Graph</a> para que os links fiquem legais e bonitos quando forem compartilhados em redes sociais.</p>
+
+<p>A página da minha prima será mais uma vitrine ou cardápio ou <span lang="en">portifolio</span>. Ela tem estado meio desanimada e perdida com relação à carreira. Quero estimular uma grande paixão dela: a gastronomia.</p>
+
+<p>Acredito que o site deva atrair clientes e dar um guaribada nos espíritos dela!</p>
+
+<p>Uma observação técnica para <span lang="en">webmasters</span>: nem o W3.CSS ou o <span lang="en">CSS Garden</span> permite uma formataçã 100% estrutural no HTML em baixo da formatação de apresentação (muitas vezes visual) ditadas pelas regras em CSS.</p>
+
+<p>Espero nas próximas postagens voltar a focar nos estudos das leis ambientais. Como podem perceber, é uma meta ainda a ser mais focada.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#6 Reportagens que Culpam o Homem</title>
+<pubDate>Thu, 03 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/6/</link>
+<dc:language>pt</dc:language>
+<category>fatos/notícias/mentiras/mudanças climáticas</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+8c99e2aa-fc20-5e2f-b22c-bde16f21bdb7</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="6">#6 Reportagens que Culpam o Homem</h1>
+<time class="dt-published" datetime="2021-06-03">03/Jun/2021</time>
+<nav><a href="6/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Há uns dois dias, achei essa reportagem no sítio do UOL. Abaixo, a cuja reportagem dramática do UOL, depois uma reportagem sobre o mesmo estudo pelo jornal da USP e por último o artigo original que eu puxei pelo <a href="https://sci-hub.st/">Sci-Hub</a>.</p>
+
+<dl>
+<dt><a href="https://www.uol.com.br/ecoa/ultimas-noticias/2021/06/02/planta-recem-identificada-ja-esta-em-risco-de-desaparecer-na-bahia.htm">Recém descoberta, plantinha em risco é pista para origem da Mata Atlântica</a>
+</dt>
+
+<dd>O mundo ficou sabendo no ano passado, mas a pesquisa vinha desde 2009: cientistas identificaram um novo tipo de planta que pode revelar como surgiu a vegetação da Mata Atlântica há milhares de anos, mas é preciso correr contra o tempo.</dd>
+
+<dt><a href="https://jornal.usp.br/ciencias/cientistas-identificam-novo-grupo-de-arvores-e-arbustos-do-genero-dryades/">Da Grécia Antiga para a Mata Atlântica: um novo grupo de árvores e arbustos do gênero "Dryades"</a>
+</dt>
+
+<dd>Reportagem mais séria a respeito da pesquisa.</dd>
+
+<dt><a hreflang="en" href="6/groppo2020.pdf">A tree nymph of the Brazilian Atlantic Forest: Dryades (Galipeinae, Rutaceae), a new neotropical genus segregated from Conchocarpus</a>
+</dt>
+
+<dd>Artigo original do grupo de estudos (<a title="Pode haver restrição de acesso pela editora." hreflang="en" href="https://www.sciencedirect.com/science/article/abs/pii/S1055790320302438?via%3Dihub">ref original</a>).</dd>
+</dl>
+
+<p>Esse tipo de reportagem é tão comum que faz parte de um <em>tipo</em>.</p>
+
+<p>A reportagem do UOL, para variar, é muito tendenciosa. Já associa esse trabalho com <strong>extinção</strong>.</p>
+
+<p>A reportagem, no fundo, fala de um assunto legal e vem descrever uma resolução na filogenia das <em>Dryades</em> que antes eram classificadas como plantas do gênero <em>Conchocarpus</em>.</p>
+
+<p>A filogenia estuda e organiza as linhagens dos seres vivos. A filogenia por marcadores genéticos é o padrão ouro atualmente. Antigamente, utilizavam-se medição morfológicas, anatomia, caracteres únicos e/ou marcadores moleculares não genéticos. É muito comum que algumas espécies ou mesmo gêneros mudem de classificação ao longo dos anos quando os pesquisadores acabam resolvendo com maiores detalhes a história evolutiva dos seres vivos.</p>
+
+<p>O estudo é uma pequena vitória dos pesquisadores que conseguiram esclarecer um pouco melhor a história dos vegetais da mata atlântica.</p>
+
+<p>Porém, se for ler toda a reportagem do UOL, desde o comecinho tentam associar coisas negativas. A reportagem diz que a plantinha já está em extinção!</p>
+
+<p>As reportagem do jornal USP é muito mais sóbria. O artigo original é o mais sóbrio e técnico de todos.</p>
+
+<p>Veja bem, uma planta difícil de ser analisada e classificada corretamente ao longo de muitas décadas não está necessariamente em vias de extinção. Na realidade, todas as espécies no universo estão em <em>grave risco de extinção</em>, visto que os ambientes mudam constantemente e oferecem muitas ameaças a qualquer ser vivo.</p>
+<!-- `cristal' animado
+(posso empregar a terminologia do
+[Schrodinger](https://sapientia.pucsp.br/handle/handle/13327)
+aqui, em que o estado de matéria sólida é sinônimo de cristais
+em contraponto aos líquidos e gases, que são um mesmo estado de matéria). -->
+
+<p>A limitação do ser humano é evidente tanto na identificação quanto na procura por determinadas espécies específicas de interesse.</p>
+
+<p>Além disso, é muito <em>incomum</em> ver alguém, mesmo os ditos `cientistas', discriminando <em>raridade</em> e <em>risco de extinção</em>. Pelo que me consta, eles quase não percebem essa diferença..</p>
+
+<p>Parece que o intuito da reportagem é mais de dizer que os seres humanos destruíram a mata atlântica e que <em>nós</em> colocamos essas planta em risco de extinção. Qualquer um termina de ler essa reportagem com um grande peso de culpa nas costas.</p>
+
+<p>Na minha concepção, as <em>Dryades</em> podem:</p>
+
+<ul>
+<li>a. não estarem adaptadas aos novos ambientes</li>
+
+<li>b. serem raras</li>
+
+<li>c. serem difíceis de localizar</li>
+</ul>
+
+<p>Um ponto importante que é mais difícil de saber com exatidão, é sobre o que os pesquisadores falaram para os repórteres, ou seja, as afirmações que não foram incluídas ao longo do artigo e nem em sua conclusão.</p>
+
+<p>Apesar do artigo original técnico, essas informações extras das reportagens devem ter sido caracterizadas pelos próprios pesquisadores durante as entrevistas.</p>
+
+<p>Ou seja, há os fatos da pesquisa e uma interpretação paralela. Como não estão no artigo, as interpretações paralelas são difíceis de verificar e devem ser consideradas <em>opiniões</em>.</p>
+
+<p>Os jornais, então, se aproveitam de efeitos linguísticos e ambiguidade para gerar dúvida e insinuar que os seres humanos são os responsáveis por colocarem essa planta na lista de risco de extinção.</p>
+
+<p>Tenho visto que qualquer pessoa agora tiram suas próprias conclusões sobre o meio ambiente e acham que sabem sobre ecologia. Só vou falar uma coisa, ecologia não tem uma lógica comum, ou seja, não tem como derivar certos conceitos de forma intelectual somente. Fatos contra-intuitivos, descobertos através de pesquisas nessa disciplina, devem ser compreendidos e considerados.</p>
+
+<h2>Mudanças climáticas</h2>
+
+<p>Desde o ano aqui no Brasil estamos sentindo uma mudança de tempo climático diferente do que estávamos acostumados.</p>
+
+<p>Na verdade, isso não me deixa encucado pois tenho seguido muitos pesquisadores de clima bons de verdade, tanto nacionais quanto internacionais, e eles já previram que entraremos em um ciclo de grande mínimo solar que deve durar até ~2050.</p>
+
+<p>Isso fará com que os <a title="Palestra 'Diagnósticos e tendências do clima nos próximos 10 Anos', realizada em Abril de 2018, na sede do Sistema Faeb, em Salvador, Prof. Dr. Luiz Carlos Molion" href="https://www.youtube.com/watch?v=JRNoMFJ4bag">ciclos na Terra sofram alterações</a>. Por exemplo, esperamos que o Nordeste fique bem mais úmido enquanto que as regiões sudeste e sul ficarão mais seca.</p>
+
+<p>Já se tratando de um fato diferente mas que também acabam por culpar os seres humanos, direta ou indiretamente, são algumas notícias recente sobre a baixa dos reservatórios das usinas de energia hidrelétrica.</p>
+
+<dl>
+<dt><a href="https://www.oantagonista.com/brasil/ministro-de-minas-e-energia-diz-que-crise-hidrica-e-culpa-da-mudanca-climatica/">Bento Albuquerque Diz Que Crise Hídrica é Culpa da "Mudança Climática"</a>
+</dt>
+
+<dd>O ministro de Minas e Energia, Bento Albuquerque, acha que a crise hídrica que atinge o Brasil decorre de mudanças climáticas no planeta...</dd>
+
+<dt><a href="https://www.oantagonista.com/brasil/ministro-culpa-la-nina-pela-crise-hidrica/">Ministro culpa La Niña pela crise hídrica</a>
+</dt>
+
+<dd>O ministro de Minas e Energia, Bento Albuquerque, deu uma entrevista à Folha para descartar risco apagão e racionamento, em meio à pior crise hídrica dos últimos 91 anos... &nbsp;</dd>
+<!-- <dt><a href="https://www.oantagonista.com/brasil/crise-hidrica-afeta-inflacao-e-preco-de-alimentos-diz-presidente-do-bc/">Crise hídrica afeta inflação e preço de alimentos, diz presidente do BC</a></dt>
+  <dd>O presindete do Banco Central, Roberto Campos Neto, disse nesta quarta-feira (2) que a crise hídrica deve afetar a inflação. Segundo ele, as mudanças climáticas estão cada vez mais no radar da instituição...</dd> -->
+</dl>
+
+<p>Este é um caso comum em que os governantes tentam colocar a culpa nas <em>mudanças climáticas</em>, ou seja por tabela, <em>os seres humanos</em>.</p>
+
+<p>Os governantes deixam de lado a falta de investimento e manutenção da estrutura energética do país, assim como a falta de previsão e programação de longo prazo.</p>
+
+<p>Então, sinceramente, aqui nem é necessário fazer muito mais pesquisa para termos certeza de que se trata de incompetência do governo e não de mudanças climáticas causadas pelo homem.</p>
+
+<p>Espero falar mais sobre essa polêmica do aquecimento global causado pelo ser humano em outros tópicos. Deixo aqui mais algumas referências de como a ciência climática está indo por água abaixo. O Trump retirou alguns sites do governo do ar e agora o Biden os recolocaram <em>com modificações</em>, especialmente retiraram dos registros os dados mais antigos (do começo da década passada) para forjar indicadores de ondas de calor e fogos selvagens que só aumentam.</p>
+
+<p>As agências governamentais são a Environmental Protection Agency (<abbr title="Environmental Protection Agency">EPA</abbr>) e a National Fire Center dos Estados Unidos.</p>
+
+<dl>
+<dt><a href="https://www.youtube.com/watch?v=-BqLEL8uLNw">National Fire Center desaparece com dados</a>
+</dt>
+
+<dd>Dados da National Fire Center, dos EUA, elidem o começo da série histórica de dados.</dd>
+
+<dt><a lang="en" hreflang="en" href="https://www.youtube.com/watch?v=o-_9q4-9rwY">Joe Biden's EPA Hides Damning Climate Data</a>
+</dt>
+
+<dd lang="en">The U.S. Environmental Protection Agency (EPA) brought back its Climate Change Indicators platform last week under the new Biden administration. In the new web presentation, EPA has simply disappeared data that was inconvenient to the narrative that humans are causing dangerous climate change.</dd>
+
+<dt><a lang="en" hreflang="en" href="https://apnews.com/article/donald-trump-climate-climate-change-technology-environment-and-nature-c7de29113f4255857be12de1be54b0e1">Revamped EPA website shows increased climate change risks</a>
+</dt>
+
+<dd lang="en">After a gap of more than four years, the Environmental Protection Agency is relaunching a website highlighting evidence of climate change in the United States, including rising temperatures, increased ocean acidity, sea level rise, river flooding, droughts, heat waves and wildfires...</dd>
+</dl>
+
+<p>Não precisamos de super computadores e sim de uma longa série de dados.</p>
+
+<p>Abaixo, alguns nomes que descobri recentemente que tratam de mudanças climáticas. Especialmente, dou atenção ao que os físicos solares dizem a respeito do sol, pois o sol é negligenciado por <strong>todos</strong> os alarmistas!</p>
+
+<ul>
+<li>Prof Henrik Svensmark</li>
+
+<li>Prof Valentina Zharkova</li>
+
+<li>Nicolas Scafetta</li>
+
+<li>Prof Nir Shaviv</li>
+
+<li>Tim Ball</li>
+</ul>
+
+<p>O canal do <a href="https://www.youtube.com/channel/UCDpOqqU-myLWFp26CiPba4A/videos">Hügo Krüger</a> tem umas entrevistas muito legais.</p>
+
+<p>Analisar o clima via fenômenos que ocorrem na Terra é legal para entender o sistema aqui emq ue vivemos, como os sistemas se grudam e interagem, enfim, ruído. Nada mais limpo e discrenível do que estudar mudanças climáticas pelo viés da nossa estrela..</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#5 Definindo Temas e Tópicos de Estudo</title>
+<pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/5/</link>
+<dc:language>pt</dc:language>
+<category>estudos/assuntos/reportagens/editais</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+2bf6a4af-0922-571a-b7d8-d13a781c2bff</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="5">#5 Definindo Temas e Tópicos de Estudo</h1>
+<time class="dt-published" datetime="2021-06-01">01/Jun/2021</time>
+<nav><a href="5/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p><a href="https://blog.alfaconcursos.com.br/concurso-ibama-autorizado-novo-edital-para-1-659-vagas-ate-r-41-mil/">Sabemos que o novo concurso</a> do Ibama com 1659 vagas serão para postos temporários. Há <a title="Concurso Ibama 2021: sem novo edital déficit pode subir para 3 mil" href="https://folhadirigida.com.br/concursos/noticias/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais/concurso-ibama-2021-sem-novo-edital-deficit-pode-subir-para-3-mil">pelo menos 3000 cargos vagos no Ibama</a>. Notícias apontam que já em 2020 havia mais cargos vagos do que ocupados dentro da instituição.</p>
+
+<p>Estou achando que não serão concursos grandes por enquanto, já que mesmo o <a title="Delegado que denunciou 'ação ilegal' de Salles estima em 129 milhões valor de madeira apreendida" href="https://www.oantagonista.com/brasil/delegado-que-denunciou-acao-ilegal-de-salles-estima-em-129-milhoes-valor-de-madeira-apreendida/">ministro do meio ambiente</a> parece estar envolvido com corrupção brava.</p>
+
+<p>Minha amiga bem informada do <strong>PT</strong> (mas isso não vem ao caso, o caso é que ela é bem informada), me falou ontem que os Estados Unidos estão mandando madeiras ilegais de volta para o Brasil <a title="Embaixada dos EUA informa à PF sobre apreensão de madeira exportada ilegalmente" href="https://g1.globo.com/politica/noticia/2021/05/21/embaixada-dos-eua-informa-a-pf-sobre-aprensao-de-madeira-exportada-ilegalmente.ghtml">depois de terem detectado documentos requentados ou falsos</a> de exportação das madeiras pelo próprio governo.</p>
+
+<p>Por exemplo, alguns documentos diziam que algumas madeiras era comuns enquanto que na realidade eram madeiras muito boas de espécies de árvores com restrição para corte.</p>
+
+<p>Sou a favor do gerenciamento das florestas e isso incluem também o desbastamento das florestas. Se muito combustível se acumular nas florestas, os incêndios serão muito intensos nessas áreas.</p>
+
+<p>O gerenciamento significaria talvez uma negociação com as pessoas oriundas dessas terras, ou seja, os madeireiros, para que seja determinada espécies que eles podem cortar para fins de construção e por que não de exportação, ajudando inclusive no desbastamento da floresta. Por exemplo, muitas áreas poderiam te 0,5% das árvores desbastadas com certeza. Acredito que 0,5% seja um número que ainda poderia ser aumentado um pouco mais..</p>
+
+<p>Porém, poderei entrar nesse debate quem sabe em um outro post pois me preocupa muito o nosso futuro daqui a 500 anos.. Ou seja, mesmo que uma política de desbaste de 0,5% de certas áreas, com uma estrutura de governo fraca e que não mantenha estabilidade de manejo em no mínimo algumas <strong>décadas</strong>, pode ser muito arriscado já que logo essa porcentagem arbitrária que propus pode ser aumentada em excesso e inconsequentemente.</p>
+
+<p>Mas chega desse tipo de assunto polêmico por hoje..</p>
+
+<h2>Dos últimos concursos do Ibama</h2>
+
+<p>O último concurso do Ibama foi feito pela <a title="Homepage do concurso de 2013" href="http://www.cespe.unb.br/concursos/IBAMA_12_ANALISTA_AMBIENTAL/">Cespe-Unb</a>.</p>
+
+<p>Como já mencionei, eu tenho impresso vários concursos anteriores do Ibama impressos. Preciso pegar eles do meu armário e reanalisá-los com calma para pegar as referências de estudo anteriores. Bem melhor do que ficar confiando em sites da internet que oferecem os tópicos de estudos mastigados mas não podemos confiar que eles fizeram o dever de casa certinho.</p>
+
+<p>Vou confirmar, mas pelo que estou vendo e me relembrando, o concurso para <em>Analista Ambiental</em>, que é a posição que pretendo, só tinha vagas para postos no Distrito Federal..</p>
+
+<p>E sinceramente, com minha idade, apesar de jovem, perdi um pouco do espírito aventureiro de ir morar em um local tão longe do meu estado onde se encontram meus amigos e parentes.</p>
+
+<p>Esse é um ponto muito importante sobre o qual tenho pensado ultimamente e preciso enfrentar. Acho que ainda sou jovem, de certa forma, e ainda tenho a possibilidade de fazer coisas incríveis em outros lugares longe da federação, e quem sabe até internacionais, por um período de tempo..</p>
+
+<p>Espero em outro posto falar mais sobre isso e como deve ser incrível para um biólogo, ou outro profissional da área, atuar em uma missão a favor do meio ambiente em alguma região clássica e famosa do Brasil como a Hiléia, o Cerrado e o Pantanal..</p>
+Como disse, vou verificar os editais originais de novo, mas a seguinte tabela <a title="Concurso IBAMA: como foi o último edital? Novo certame em breve, 2020" href="https://www.direcaoconcursos.com.br/noticias/edital-ibama/">em um site de concursos</a> do edital de 2013 parece-me boa e já vou incluí-la aqui.
+
+<table id="t02" class="tborder tbcollapse center">
+<caption>Tabela 1. Extraído do edital para o cargo efetivo de <em>Analista Ambiental</em> do concurso do Ibama de 2013, promovido pela banca Cespe</caption>
+
+<tr>
+<th colspan="2">Tema</th>
+<th>UF de vaga</th>
+<th>Geral</th>
+<th>Com deficiência</th>
+<th>Total</th>
+</tr>
+
+<tr>
+<td rowspan="2">1.</td>
+<td rowspan="2">Licenciamento Almbiental</td>
+<td>Distrito Federal</td>
+<td>42</td>
+<td>3</td>
+<td>45</td>
+</tr>
+
+<tr>
+<td>Rio de Janeiro</td>
+<td style="text-align:center;">14</td>
+<td>1</td>
+<td>15</td>
+</tr>
+
+<tr>
+<td>2.</td>
+<td>Monitoramento, Regulação, Controle, Fiscalização e Auditoria Ambiental</td>
+<td>Distrito Federal</td>
+<td>25</td>
+<td>2</td>
+<td>27</td>
+</tr>
+
+<tr>
+<td>3.</td>
+<td>Gestão, Proteção e Controle da Qualidade Ambiental</td>
+<td>Distrito Federal</td>
+<td>19</td>
+<td>2</td>
+<td>21</td>
+</tr>
+</table>
+
+<h2>Atrasado</h2>
+
+<p>Cheguei hoje à conclusão de que estou, no mínimo, hum ano atrasado nos meus estudos de leis ambientais.. Isso já descontando várias decisões e acontecimentos pessoais que acabaram me distanciando desses estudos mas por razões que ainda hoje considero que valeram a pena até certo ponto (e esse ponto é <em>este momento!</em>).</p>
+
+<h2>Dificuldades do Ibama</h2>
+
+<p>Estou lendo <a title="As dificuldades do Ibama, 2018 (CÓPIA ABERTA)" href="5/asDificuldadesDoIbama.html">esta opinião no Estadão</a> (<a title="Pode haver restrições para leitura do artigo original no site do Estadão" href="https://opiniao.estadao.com.br/noticias/geral,as-dificuldades-do-ibama,70002568462">original</a>) levante alguns pontos interessantes.</p>
+
+<p>A reportagem exalta o fato de que garimpeiros destruíram e atearam fogo em veículos do Ibama e do <abbr title="Ministério do Meio Ambiente">MMA</abbr> (Ministério do Meio Ambiente).</p>
+
+<p>Por outro lado, a política atual é para que quando os fiscais ambientais e a <abbr title="Polícia Federal">PF</abbr> encontrem garimpos ilegais, também ateiem fogo nos equipamentos dos garimpeiros, que muitas vezes são alugados por preços muito altos, e também nos seus acampamentos.</p>
+
+<p>É uma política muito triste, como comentei em um post anterior. Não aceite este tipo de coisa pois precisamos lembrar que a maioria dos garimpeiros são brasileiros e pagam valores em dinheiro, por exemplo R$ 3.000 a cada 10 dias, nas reunião que os índios fazem com chá de <em>cipó mariri</em> durante os trabalhos dos garimpeiros.</p>
+
+<p>Não acho errado nem os índios que precisam do dinheiro e nem os garimpeiros pequenos que lutam para sobreviver fazendo a única coisa que sabem e são, no entanto, impedidos de alimentarem-se no seio de sua terra por <em>políticas públicas</em> <strong>ruins</strong>! Ruins não, <strong><em>péssimas</em></strong>, diga-se de passagem!</p>
+
+<p>Mas entendo que é um outro assunto <em>difícil</em> e que existe um perigo de se liberar a exploração da terra, mesmo que necessária, sem que o povo da nossa nação seja educado em diversas questões relacionadas ao compromisso a longo prazo com o meio ambiente.</p>
+
+<p>Acredito que todas essas questões precisam de uma política melhor de manejo, que ainda não temos e temo que muitos cientistas e estudos que norteiam as leis estejam redondamente enganados em certos aspectos importantes sobre o meio ambiente.</p>
+
+<p>Por exemplo, a <a href="https://brasilescola.uol.com.br/biologia/hipotese-gaia.htm">Hipótese de Gaia</a> do James Lovelock é uma <em>grande bobagem</em> em que claramente quem fala mais alto é o coração e o seu <em>pequeno ego</em>.</p>
+
+<p>Precisamos ter vencido a ingenuidade para realizar uma análise mais séria sobre <em>a Vida</em>.</p>
+
+<p>Parece ser fundamental <em>um ensino básico melhor</em> para todos os brasileiros. Só assim poderemos estabilizar as condutas que forem boas por muitas décadas nos cidadãos de nossa nação.</p>
+
+<p>Para finalizar, o último parágrafo da matéria de opinião do Estadão:</p>
+
+<blockquote cite="https://opiniao.estadao.com.br/noticias/geral,as-dificuldades-do-ibama,70002568462">Independentemente das controvérsias sobre o alcance e o modo da atuação do Ibama, uma coisa é certa: o órgão pode ter sua política revista com a chegada de um novo governo, o que é comum na democracia. Mas, por sua importância, em hipótese alguma pode ser asfixiado.</blockquote>
+
+<p>Apesar de que o governo atual reverbera alguns fatos relevantes sobre o meio ambiente que os ambientalistas detestam e não conseguem entender ou admitir, o governo deturpa esses fatos reais em nome de uma causa suja e egoísta.</p>
+
+<p>De forma que não posso garantir que nem sequer um caco da fala do governo atual seja verdade e fico infeliz que tenham destruído até bons argumentos, muitas vezes que já eram impopulares ou desprezadas que eu mesmo utilizo para explicar minhas ideias.. Grande desfavor, agora precisaremos de mais esforço para esclarecer a <em>questão ambiental</em>.</p></article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#4 De olho em Ibama, ICMBio, Funai e
+Mais</title>
+<pubDate>Sun, 30 May 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/4/</link>
+<dc:language>pt</dc:language>
+<category>concursos
+públicos/anúncio/previsão/esperança/mourão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+ebe927dc-f2d0-572d-ad3e-7ae226c6d5e1</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="4">#4 De olho em Ibama, ICMBio, Funai e Mais</h1>
+<time class="dt-published" datetime="2021-05-30">30/May/2021</time>
+<nav><a href="4/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Começamos com uma notícia importante. Já tinha visto mas vale a pena registar aqui.</p>
+
+<ul>
+<li><a href="https://folhadirigida.com.br/concursos/noticias/instituto-brasileiro-do-meio-ambiente-e-dos-recursos-naturais/concursos-ibama-icm-bio-2021-hamilton-mourao">'Tem que abrir os concursos Ibama e ICMBio [e Funai]', diz Mourão</a>
+</li>
+</ul>
+
+<p>Durante meu mestrado, certa vez conheci um cara que estava comprando alguns materiais de laboratório em uma loja especializada de Maringá-PR.</p>
+
+<p>Senhor legal. A gente conversou um pouco e ele falou que tinha entrado no concurso da Funai há muito tempo, e que era uma boa oportunidade que podia estar meio escondida, ou pelo menos essa foi a impressão que tive.</p>
+
+<p>Algum tempo antes desse encontro, tinha acabado de ocorrer um concurso da Funai. De qualquer forma, naquela época, eu não conseguiria focar para tal concurso pois estava na reta final do meu curso de pós-graduação.</p>
+
+<p>Talvez não tenha tanto <span lang="en">glamour</span> quanto trabalhar no Ibama.. Parece-me que o salário é um pouco inferior, por exemplo, se um Analista Ambiental do Ibama ganhar uns R$ 8.500, salário de cargo similar na Funai sairia por R$ 6.500, se é que posso fazer tal comparação..</p>
+
+<p>Talvez uma comparação injusta pois cada instituição tem uma certa tradição e um alvo, mesmo que o atual presidrentre da república esteja tentando fundir o ICMBio e o Ibama dizendo que há muitas áreas de atuação duplicadas.</p>
+
+<h2>Algumas definições</h2>
+
+<p>Para me lembrar melhor do que cada nome das instituições significam, resolvi fazer uma pequena tabela.</p>
+
+<table id="t01" class="center">
+<caption>Tabela 1. O que cada acrônimo ou abreviação de cada instituição significa.</caption>
+
+<tr>
+<th>Logo</th>
+<th>Acrônimo</th>
+<th>Expansão</th>
+</tr>
+
+<tr>
+<td><img src="gfx/ibama-2.png" alt="Logo do Ibama" width="128" height="128">
+</td>
+<td>IBAMA</td>
+<td>Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis</td>
+</tr>
+
+<tr>
+<td><img src="gfx/icmbio-2.png" alt="Logo do ICMBio" width="124" height="128">
+</td>
+<td>ICMBio</td>
+<td>Instituto Chico Mendes de Conservação da Biodiversidade</td>
+</tr>
+
+<tr>
+<td><img src="gfx/funai-2.png" alt="Logo da Funai" width="83" height="128">
+</td>
+<td>FUNAI</td>
+<td>Fundação Nacional do Índio</td>
+</tr>
+
+<tr>
+<td><img src="gfx/incra-2.png" alt="Logo do INCRA" width="193" height="128">
+</td>
+<td>INCRA</td>
+<td>Instituto Nacional de Colonização e Reforma Agrária</td>
+</tr>
+
+<tr>
+<td><img src="gfx/mapa-2.png" alt="Logo do MAPA" width="158" height="128">
+</td>
+<td>MAPA</td>
+<td>Ministério da Agricultura, Pecuária e Abastecimento</td>
+</tr>
+
+<tr>
+<td><img src="gfx/Embrapa-3.png" alt="Logo da Embrapa" width="167" height="128">
+</td>
+<td>Embrapa</td>
+<td>Empresa Brasileira de Pesquisa Agropecuária</td>
+</tr>
+
+<tr>
+<td><img src="gfx/sanepar-2.png" alt="Logo da Embrapa" width="179" height="128">
+</td>
+<td>Sanepar</td>
+<td>Companhia de Saneamento do Paraná</td>
+</tr>
+
+<tr>
+<td><img src="gfx/itaipu-2.png" alt="Logo da Embrapa" width="142" height="128">
+</td>
+<td>Itaipú</td>
+<td>Usina Hidrelétrica de Itaipu</td>
+</tr>
+</table>
+
+<p><em>PS</em>: adicionei INCRA e MAPA de vídeo referenciado <a href="8/">no post #8</a>.</p>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#3 Mexendo nos Meus Sistemas de Blog</title>
+<pubDate>Sat, 29 May 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/3/</link>
+<dc:language>pt</dc:language>
+<category>foco/shell scripting/diversão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+7b130857-9d3e-5fb1-b431-3ac908309067</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="3">#3 Mexendo nos Meus Sistemas de Blog</h1>
+<time class="dt-published" datetime="2021-05-29">29/May/2021</time>
+<nav><a href="3/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p><strong><em>Pois é, Zé..</em></strong>
+</p>
+
+<p>Uma vez eu falei a frase acima quando estava andando sozinho por Curitiba. Ou pensei que estava sozinho, quando olho para uma casa de dois andares e havia dois homens na varanda, sendo que um havia <em>começado a cascar o bico</em> com minha <em>frasinha ridícula</em>.. Rs..</p>
+
+<p>Ainda estou fazendo uns <span lang="en">tweaks</span>, ou mexidas no meu sistema de blog que foi escrito em <strong><span lang="en">shell scripting</span></strong>.</p>
+
+<p>Descobri uns problemas com umas modificações <em>recentes</em> que havia introduzido no código e que não estão funcionando de acordo com o previsto. A decisão correta e que eu tomei foi a de remover todas essas novas mudanças, pois mais do que novas funcionalidades, eu quero que meu sisteminha de blog em <span lang="en">shell</span> seja <strong>estável</strong>.</p>
+
+<p>Além do mais, eu estava tentando implementar uma opção para deixar o autor (no caso <em>eu</em>) converter automaticamente um texto escrito em <code lang="en">markdown</code> para <code lang="en">markup</code> automaticamente do escrito original, mas isso estava causando um monte de problemas. Para implementar isso, seria mais fácil escrever outro sistema de blogagem só que bem mais simples que o qual estou usando agora..</p>
+
+<p>O bom é que eu descobri que no <code>vim</code> basta selecionar as linhas que tu escreveu em <span lang="en">markdown</span> no modo visual, apertar <code>:!markdown [ENTER]</code> que ele irá fazer essa conversão dentro do próprio <code>vim</code>.</p>
+
+<p>Obviamente, o usuário precisa ter instalado o pacote <code>markdown</code> no sistema, mas verifiquei que nos repos padrão da minha <em>distro</em> possui e imagino que se não essa implementação, alguma outra qualquer deve haver nos repos oficiais da maioria das outras <em>distros</em>.</p>
+
+<p>Além do mais, um pouco de <code>HTML</code> não faz mal a ninguém e é legal.. Para quem não conhece, o clássico programa <code>emmets</code> é uma grande mão na roda para escrever em <code>HTML</code>.</p>
+
+<p>Ainda, uma coisa boa desse trabalho todo de escrever código e apagar é que corrigi alguns bugs do sistema antigo que eram importantes. Agora estou com um sistema bem estável e que espero não precisará de muita mais manutenção..</p>
+
+<h2>Condutas Ambientais</h2>
+
+<p>Ainda estou procurando reportagens sobre o Ibama e tem muita coisa para analisar.. Há muitas reportagens triste falando da péssima situação do atual Ibama, tanto por causa de falta de <em>recursos estruturais</em> quanto de <em>humanos</em>.</p>
+
+<p>Ainda fico pensando como é trabalhar em instituições desse nível, tipo níveis federal e estadual.. Tem muitas coisas que acredito estão má compreendidas pelos cientistas e fico imaginando como essas leis que devemos seguir, porém <em>erradas</em> em muitos casos, vão poder nos dar segurança.</p>
+
+<p>Segurança financeira para o desenvolvimento do Brasil.</p>
+
+<p>Para começar, precisamos mesmo fiscalizar melhor a Amazônia e outras tantas regiões ecologicamente importantes do país.</p>
+
+<p>Não só de fiscais do Ibama, precisamos vigiar a longa fronteira que existe entre o Brasil e os outros países da América Latina que escoram o Brasil desde o Pantanal, passando pela Amazônia e fazer bonito frente a guarda fronteiriça da Guiana Francesa, ou seja, Bolívia, Peru, Colômbia, Venezuela, Guiana, Suriname e a própria Guiana Francesa.</p>
+
+<p>O exército brasileiro em conjunto com a Polícia Federal, o Ibama e o MMA, são o corpo mais competente para esta tarefa por causa da extensão a ser coberta.</p>
+
+<p>Para falar a verdade, apesar que a Fronteira com o Paraguai trás muita importância e riqueza para o Paraná, seria bom também toda essa fronteira melhor equipada, mas essa é uma outra história..</p>
+
+<p>Também acho muito feio ver os servidores do Ibama, exército e PF queimando as máquinas e as habitações dos garimpeiros. A grande maioria desse povo é brasileira, que nasceu por distintas regiões do país mas que levam a vida de ciganos e viajam por esse país todo. Aquilo que os uni é o garimpo, é a febre do ouro.</p>
+
+<p>A riqueza de nossa terra deve ir para as pessoas, principalmente, que são donas dessa terra, ou seja, os brasileiros.</p>
+
+<p>Quem não compra um anel de ouro para o casamento? Quem não usa uma máquina fotográfica <a href="https://www.zoom.com.br/camera-digital/deumzoom/o-que-e-uma-camera-dslr">DSLR</a> ou um celular? Um carro ou mesmo painéis solares? Pelo amor dos <strong><em>deuses</em></strong>!!</p>
+
+<p>Essa hipocrisia é muito difícil de engolir, os minerais são necessários para nossa vida e devem ser utilizados.</p>
+
+<p>Eu sigo alguns garimpeiros do YouTube.</p>
+
+<ul>
+<li><a href="https://www.youtube.com/channel/UCMUB0BzBEWy-yLFiiK6Umxg">Adriano - Precious Stones</a>
+</li>
+
+<li><a href="https://www.youtube.com/channel/UCTOLGI6IW-Hi1dmzhec1IoA">Sy e Miguel</a>
+</li>
+
+<li><a href="https://www.youtube.com/channel/UCcnq2d3rWsfu3T1DUlczClw">Andrea pedras preciosas</a>
+</li>
+
+<li><a href="https://www.youtube.com/channel/UC-ZSo2v1dwLKdhIdkWOy-wA">Detectorismo Paraná Brasil</a>
+</li>
+
+<li><a href="https://www.youtube.com/channel/UCs3Jwj2S1RecN4M8BWdDdKA">A-PP DETECTORISMO SELVAGEM</a>
+</li>
+</ul>
+
+<p>Nenhum deles é favor da destruição da natureza, todos querem preservar e utilizar o meio. Garimpo não é fácil, galera.</p>
+
+<p>Mas é necessário. Toda a tecnologia depende dos <strong>minerais</strong>!</p>
+
+<p>Por hoje é <em>só</em>!</p>
+
+<ul>
+<li><a href="https://folhadirigida.com.br/concursos/noticias/icmbio-mig-instituto-chico-mendes-de-conservacao-da-biodiversid/fusao-ibama-e-icmbio-e-desmonte-de-politicas-ambientais-diz-ascema">Fusão Ibama e ICMBio é 'desmonte de políticas ambientais'</a>
+</li>
+
+<li><a href="https://acasadoconcurseiro.com.br/blog/2021-os-principais-concursos-publicos-do-ano/amp/">2021: Os principais concursos públicos do ano</a>
+</li>
+</ul>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#2 Links Sobre Ibama até 2014</title>
+<pubDate>Fri, 28 May 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/2/</link>
+<dc:language>pt</dc:language>
+<category>referências/ibama/notícias</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+cf849aab-7c29-5464-9a55-893f89c8261f</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="2">#2 Links Sobre Ibama até 2014</h1>
+<time class="dt-published" datetime="2021-05-28">28/May/2021</time>
+<nav><a href="2/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Alguns links interessantes que achei em uma pesquisa que estou fazendo com o DuckDuckGo e o Google.</p>
+
+<p>Gosto de fazer algumas pesquisas limitando o espaço de tempo dos resultados. Neste caso de hoje, limitei os resultados para até 2014, somente.</p>
+
+<p>é incríuvel como há resultados antigos muito relevantes (ou interesantes) que os mecanismos de busca nem <em>tchum</em>..</p>
+
+<dl>
+<dt><a lang="pt-BR" hreflang="pt-BR" href="http://g1.globo.com/concursos-e-emprego/noticia/2014/10/jovem-de-22-anos-e-aprovado-em-4-concursos-em-3-anos.html">Jovem de 22 anos é aprovado em 4 concursos em 3 anos</a>
+</dt>
+
+<dd>Diogo Machado começou a estudar para concursos com 19 anos e tem várias dicas super boas para os concurseiros.</dd>
+
+<dt><a lang="pt-BR" hreflang="pt-BR" href="https://www.cremepe.org.br/2010/03/17/ibama-mantem-jacare-em-lago-de-hospital/">Ibama mantém jacaré em lago de hospital</a>
+</dt>
+
+<dd>O Ibama emitiu ontem parecer desfavorável à remoção dos jacarés existentes num lago do Hospital Barão de Lucena, na Zona Oeste do Recife, um dos maiores da rede pública no Estado.</dd>
+
+<dt><a lang="pt-BR" hreflang="pt-BR" href="https://kolbe.adv.br/concursospublicos/midia-k/o-sonho-de-ser-servidor-publico-pode-virar-pesadelo/">O sonho de ser servidor público pode virar pesadelo</a>
+</dt>
+
+<dd>Artigo bem interesante com alguns exemplos de casos reais relatados por uma advogado.</dd>
+
+<dt><a lang="pt-BR" hreflang="pt-BR" href="http://faunanews.blogspot.com/2012/03/ibama-sem-estrutura-orgao-tem-de-contar.html?m=1">Ibama: sem estrutura, órgão tem de contar com a boa vontade da população</a>
+</dt>
+
+<dd>Relato de como anda(va) a estrutura do pessoal do Ibama.</dd>
+</dl>
+</article> ]]>
+</description>
+</item>
+<item>
+<title xml:lang="pt">#1 De Olho no Concurso do Ibama</title>
+<pubDate>Thu, 27 May 2021 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/1/</link>
+<dc:language>pt</dc:language>
+<category>concurso público/monitoramento</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+c3693624-3e89-5e68-b667-16a62b948e87</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="1">#1 De Olho no Concurso do Ibama</h1>
+<time class="dt-published" datetime="2021-05-27">27/May/2021</time>
+<nav><a href="1/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+<!-- MAIN TEXT  -->
+
+<p>Saiu no começo deste mês que um concurso público para vagas temporárias pro Ibama está em vias de ser aberto.</p>
+
+<p>Acho que muitos já sabem mas o número de pessoal do Ibama está defasado, já que muitos já se aposentaram ou estão perto da aposentadoria. O último concurso para pessoal efetivo parece-me que foi em 2013 ou por aí..</p>
+
+<p>Então estamos de olho.</p>
+
+<p>Para variar, já estou em cerca de 20 dias <em>atrasado</em>. Na verdade, faz 20 dias desde que saíram as primeiras notícias mas um pouco menos de tempo que tomei conhecimento do concurso. Eu estava tentando por um fim nas minhas redes sociais (tinha um canal no YouTube e visitava muitas vezes por dia o <a href="https://plus.diolinux.com.br/c/linux/7">DioLinux</a> e o <a href="https://www.vivaolinux.com.br/perguntas/">VivaoLinux</a> ) e parar de ficar atualizando o <a href="https://mountaineerbr.github.io/">meu antigo site</a> (agora fora de manutenção) e <a href="https://github.com/mountaineerbr/scripts">meus scripts do GitHub</a>.</p>
+
+<p>Agora tento focar nesses estudos de leis de biologia para ver se consigo aprovação em um bom concurso público nos próximos meses ou anos..</p>
+
+<h2>O que estudar para o concurso IBAMA?</h2>
+
+<p><a href="https://www.concursosnobrasil.com.br/concursos/br/concurso-ibama.html">Achei essa pequena lista</a> para começar os estudos. Obviamente, <strong>conhecimentos específicos</strong> é um tópico muito extenso mas os demais tópicos também merecem um pouco de dedicação.</p>
+
+<ul>
+<li>Língua Portuguesa</li>
+
+<li>Atualidades</li>
+
+<li>Informática</li>
+
+<li>Matemática</li>
+
+<li>Raciocínio Lógico</li>
+
+<li>Conhecimentos Específicos</li>
+</ul>
+
+<p>Com relação às leis, quero começar dando uma revisada na <a href="http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm">Constituição da República</a>.</p>
+
+<p>Só para ser claro, em outras oportunidades estudei para outros concursos antes mas como estava estudando mercado financeiro concomitantemente, os estudos dos concursos acabaram ficando mais de lado.</p>
+
+<p>Espero nos próximos dias/semanas entrar a fundo nos estudos e ir postando aqui..</p>
+</article> ]]>
+</description>
+</item>
+</channel>
+</rss>

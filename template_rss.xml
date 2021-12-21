@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/css" href="css/style_rss_oreilly.css"?>
+<rss version='2.0'
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+	<!--
+	  Hey!
+	  This web page is actually a data file that is meant to be
+	   read by RSS reader programmes.
+	-->
+	<channel>
+		<lastBuildDate><!-- CURRENT TIME RFC5322 --></lastBuildDate>
+		<title>Notas de Biologia</title>
+		<description>Current at <!-- CURRENT TIME RFC5322 --></description>
+		<link>https://bionota.github.io/</link>
+		<language>pt</language>
+		<category>Biologia/Ciência/Pessoal</category>
+		<webMaster>jamilbio20@gmail.com (JSN)</webMaster>
+		<atom:link href="https://bionota.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+		<image>
+			<title>Notas de Biologia</title>
+			<url>https://bionota.github.io/gfx/sherlockb_big.png</url>
+			<link>https://bionota.github.io/</link>
+		</image>
+		<copyright>
+			Copyright ©2021 JSN.
+			Verbatim copying and distribution of this entire article is
+			permitted in any medium, provided this notice is preserved.
+		</copyright>
+		<generator>A Poor Man's Own RSS Generator in Shell Scripting</generator>
+		
+		<!-- RSS ITEM -->
+
+	</channel>
+
+
+</rss>
+

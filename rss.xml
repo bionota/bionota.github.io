@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/css" href="css/style_rss_oreilly.css"?>
+<rss version='2.0' xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<!--
+          Hey!
+          This web page is actually a data file that is meant to be
+           read by RSS reader programmes.
+        -->
+<channel>
+<lastBuildDate>Mon, 20 Dec 2021 15:10:19 -0300</lastBuildDate>
+<title>Notas de Biologia</title>
+<description>Current at Mon, 20 Dec 2021 15:10:19
+-0300</description>
+<link>https://bionota.github.io/</link>
+<language>pt</language>
+<category>Biologia/Ciência/Pessoal</category>
+<webMaster>jamilbio20@gmail.com (JSN)</webMaster>
+<atom:link href="https://bionota.github.io/rss.xml" rel="self"
+type="application/rss+xml" />
+<image>
+<title>Notas de Biologia</title>
+<url>https://bionota.github.io/gfx/sherlockb_big.png</url>
+<link>https://bionota.github.io/</link>
+</image>
+<copyright>Copyright ©2021 JSN. Verbatim copying and distribution
+of this entire article is permitted in any medium, provided this
+notice is preserved.</copyright>
+<generator>A Poor Man's Own RSS Generator in Shell
+Scripting</generator>
+<item>
+<title xml:lang="pt">#29 Robôs Escolhendo Currículos</title>
+<pubDate>Mon, 20 Dec 2021 00:00:00 -0300</pubDate>
+<description>Somente uma notícia interessante que deixo a
+referência aqui.</description>
+<link>https://bionota.github.io/29/</link>
+<dc:language>pt</dc:language>
+<category>notícia/seleção de vagas/emprego</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+bc3cd587-c3e6-57dc-bf8f-a11292879158</guid>
+</item>
+<item>
+<title xml:lang="pt">#28 Animais Mortos no Pantanal 2020</title>
+<pubDate>Sat, 18 Dec 2021 00:00:00 -0300</pubDate>
+<description>Verifico um estudo que virou notícia na BBC dizendo
+que 17 milhões de animais foram mortos devido aos incêndios do
+Pantanal em 2020. Será mesmo?</description>
+<link>https://bionota.github.io/28/</link>
+<dc:language>pt</dc:language>
+<category>taxa basal de geração de
+carcaça/ecosistema/vertebrados</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+0e191746-01ba-5f43-8e56-94dffd0c586e</guid>
+</item>
+<item>
+<title xml:lang="pt">#27 Ocupado com a Diversidade</title>
+<pubDate>Thu, 16 Dec 2021 00:00:00 -0300</pubDate>
+<description>Um jornaista me pediu um texto sobre o tema de
+biodiversidade e fui a fundo. Foi bom pois isso coroa minha mudança
+de foco das outras áreas que estive envolvido para
+biologia.</description>
+<link>https://bionota.github.io/27/</link>
+<dc:language>pt</dc:language>
+<category>pesquisa científica/ecologia de
+comunidades/amizade</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+0318275f-68ed-54fc-be10-a3c3894d2c85</guid>
+</item>
+<item>
+<title xml:lang="pt">#26 Lucidez de James Lovelock e Teoria de
+Gaia</title>
+<pubDate>Mon, 29 Nov 2021 00:00:00 -0300</pubDate>
+<description>Descobri que o James Lovelock parece ser um cara
+realmente lúcido cientificamente e resolvi conferir... E não é
+mesmo que ele merece todo meu respeito?</description>
+<link>https://bionota.github.io/26/</link>
+<dc:language>pt</dc:language>
+<category>atitude/ciência/saber</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3af70684-e318-53f8-a9e4-f545ef34616e</guid>
+<enclosure url="https://bionota.github.io/26/james_comments_small.png"
+length="173676" type="image/png" />
+</item>
+<item>
+<title xml:lang="pt">#25 Currículos no Último Ano, Richard
+Jakubaszko e Clima</title>
+<pubDate>Sat, 20 Nov 2021 00:00:00 -0300</pubDate>
+<description>Fazendo uma perspectiva sobre meu empenho no último
+ano a respeito do de trabalho. Também, escrevi para o Richard
+jornalista e fiquei muito surpreso..</description>
+<link>https://bionota.github.io/25/</link>
+<dc:language>pt</dc:language>
+<category>comunicação/distribuição de
+currículos/e-mail/telefonemas/emprego</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+6b29059c-905f-5351-b242-2d13d9aab964</guid>
+</item>
+<item>
+<title xml:lang="pt">#24 Conferência do Blá Blá Blá</title>
+<pubDate>Wed, 03 Nov 2021 00:00:00 -0300</pubDate>
+<description>Não há motivos para tirarmos sarro da Greta Thunberg
+desta vez, ela mesma diz que a COP26 é uma bobagem..</description>
+<link>https://bionota.github.io/24/</link>
+<dc:language>pt</dc:language>
+<category>Greta
+Thunberg/Schwarzenegger/cop26/CFACT/clima/greenwashing/cúpula
+climática/Nações Unidas</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3501e490-5cfc-53b6-9a79-c026bbde6795</guid>
+<enclosure url="https://bionota.github.io/24/greenwashing_small.jpg"
+length="115438" type="image/jpg" />
+</item>
+<item>
+<title xml:lang="pt">#23 Crisálida e Cogumelos</title>
+<pubDate>Tue, 02 Nov 2021 00:00:00 -0300</pubDate>
+<description>Saí andando pela rodovia e procurei cogumelos azuis,
+enquanto isso, minha crisálida abria em casa..</description>
+<link>https://bionota.github.io/23/</link>
+<dc:language>pt</dc:language>
+<category>zebu/borboleta/pupa/caminhada</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+26f6b3ba-8992-5afb-b36c-79395898164d</guid>
+<enclosure url="https://bionota.github.io/23/campo.jpg"
+length="214850" type="image/jpg" />
+</item>
+<item>
+<title xml:lang="pt">#22 Biólogo Henrique Entrevista Renato
+Gaiga</title>
+<pubDate>Mon, 01 Nov 2021 00:00:00 -0300</pubDate>
+<description>Recomendação de entrevista com biólogo Renato Gaiga e
+comentários.</description>
+<link>https://bionota.github.io/22/</link>
+<dc:language>pt</dc:language>
+<category>profissão/carreira/consultoria
+ambiental/herpetologia</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+ae67df3b-e1f9-5549-b940-8b8453b7de82</guid>
+<enclosure url="https://bionota.github.io/22/renato_gaiga_small.jpg"
+length="84793" type="image/jpg" />
+</item>
+<item>
+<title xml:lang="pt">#21 Analista do ICMBio e Vini do Papo de
+Biólogo</title>
+<pubDate>Sun, 31 Oct 2021 00:00:00 -0300</pubDate>
+<description>(Mais) alguns vídeos legais que achei no youtube a
+respeito de biologia e profissão..</description>
+<link>https://bionota.github.io/21/</link>
+<dc:language>pt</dc:language>
+<category>vídeos/canais do youtube/motivação</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+65529525-0fca-5628-a1e3-c89ee9c6ad66</guid>
+</item>
+<item>
+<title xml:lang="pt">#20 Arrumando as Coisas</title>
+<pubDate>Wed, 27 Oct 2021 00:00:00 -0300</pubDate>
+<description>Estivemos longe por algum tempo. Eu estava tentando me
+arrumar..</description>
+<link>https://bionota.github.io/20/</link>
+<dc:language>pt</dc:language>
+<category>corte de
+verbas/ciência/CNPq/universidade/clima/arrumação/longe</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+542d2004-0229-567b-bd80-816cec9cbda1</guid>
+</item>
+<item>
+<title xml:lang="pt">#19 Plano de Estudos</title>
+<pubDate>Mon, 13 Sep 2021 00:00:00 -0300</pubDate>
+<description>Um bom conselho pode valer muita
+reflexão..</description>
+<link>https://bionota.github.io/19/</link>
+<dc:language>pt</dc:language>
+<category>amigo/conselho</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+038ddee5-b549-58f0-a6fc-262952dba97b</guid>
+</item>
+<item>
+<title xml:lang="pt">#18 Pensando nas Formigas</title>
+<pubDate>Mon, 13 Sep 2021 00:00:00 -0300</pubDate>
+<description>Somos as formigas, de certa forma. Seres coletivos,
+dóceis.</description>
+<link>https://bionota.github.io/18/</link>
+<dc:language>pt</dc:language>
+<category>vida/filosofia</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+60cd2b4f-3255-5071-af3b-6363932e3068</guid>
+</item>
+<item>
+<title xml:lang="pt">#17 Autorização Concursos do IBAMA e
+ICMBio</title>
+<pubDate>Sat, 11 Sep 2021 00:00:00 -0300</pubDate>
+<description>Parece que uma primeira leva dos concursos esperados
+foram liberados, aguardemos o edital..</description>
+<link>https://bionota.github.io/17/</link>
+<dc:language>pt</dc:language>
+<category>edital/liberação/espectativa</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+4f0ce2e8-efb2-5b10-96a4-d4239f7bd78e</guid>
+</item>
+<item>
+<title xml:lang="pt">#16 Planejamento</title>
+<pubDate>Fri, 13 Aug 2021 00:00:00 -0300</pubDate>
+<description>Notas de planejamento das matérias, leis que devo
+começar a estudar..</description>
+<link>https://bionota.github.io/16/</link>
+<dc:language>pt</dc:language>
+<category>notas/cronograma</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+f90d65ca-036b-5e5b-ae46-3f68d1d67706</guid>
+</item>
+<item>
+<title xml:lang="pt">#15 John McAfee Se Foi</title>
+<pubDate>Fri, 25 Jun 2021 00:00:00 -0300</pubDate>
+<description>Lamento muito que McAfee, meu ídolo, se foi. Uma
+mensagem de esperança ainda resta.</description>
+<link>https://bionota.github.io/15/</link>
+<dc:language>pt</dc:language>
+<category>obituário/esperança/ídolo/homenagem</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+dea30a63-9091-54fa-b523-77bc24d1b4bc</guid>
+<enclosure url="https://bionota.github.io/15/mcafeeMensagem.png"
+length="161128" type="image/png" />
+</item>
+<item>
+<title xml:lang="pt">#14 Espectativa do Concurso Ibama, Cai
+Ministro do MA</title>
+<pubDate>Thu, 24 Jun 2021 00:00:00 -0300</pubDate>
+<description>Na demissão de Ricardo Salles, ele falou que o
+concurso do Ibama deve ser liberado semana que vem.. Vamos ver o
+que vai acontecer.</description>
+<link>https://bionota.github.io/14/</link>
+<dc:language>pt</dc:language>
+<category>ibama/concurso/liberação</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+07b3b829-3f37-545a-8c5b-c30ac08c5703</guid>
+</item>
+<item>
+<title xml:lang="pt">#13 Sem Motivação</title>
+<pubDate>Tue, 22 Jun 2021 00:00:00 -0300</pubDate>
+<description>Crises motivacionais são a minha cara.</description>
+<link>https://bionota.github.io/13/</link>
+<dc:language>pt</dc:language>
+<category>propósito/meta/objetivo/decisão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3766dc98-6b60-53d9-b29b-ef661f7f62ae</guid>
+</item>
+<item>
+<title xml:lang="pt">#12 Vacinação da Covid para Biólogos?</title>
+<pubDate>Wed, 16 Jun 2021 00:00:00 -0300</pubDate>
+<description>O CRBio-7 está convocando todos os biólogos
+registrados no conselho para vacinação em Curitiba.
+Justo?</description>
+<link>https://bionota.github.io/12/</link>
+<dc:language>pt</dc:language>
+<category>convocação/cortando fila/egoísmo/injustiça</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+02986f02-32a3-514c-94fd-a7a7af031dde</guid>
+</item>
+<item>
+<title xml:lang="pt">#11 Onde Estudar</title>
+<pubDate>Tue, 15 Jun 2021 00:00:00 -0300</pubDate>
+<description>Ainda tenho quebrado a cabeça sobre onde estudar e
+mais algumas questões a serem decididas para cair de cabeça nos
+estudos..</description>
+<link>https://bionota.github.io/11/</link>
+<dc:language>pt</dc:language>
+<category>referências/método/escolhas/resolução</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+371c92c1-7ca3-5d06-9336-35fe572757a5</guid>
+</item>
+<item>
+<title xml:lang="pt">#10 Áreas de Atuação</title>
+<pubDate>Sun, 13 Jun 2021 00:00:00 -0300</pubDate>
+<description>Mais uma lista das áreas de atuação do
+biólogo.</description>
+<link>https://bionota.github.io/10/</link>
+<dc:language>pt</dc:language>
+<category>lista/profissão/carreira/opções</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+c3d96bc0-266d-5350-8b47-55432824cfd4</guid>
+</item>
+<item>
+<title xml:lang="pt">#9 Revendo os Editais Ibama 2002, 2005, 2008 e
+2012</title>
+<pubDate>Sat, 12 Jun 2021 00:00:00 -0300</pubDate>
+<description>Minhas cópias dos editais estavam guardadas desde que
+há alguns anos quando os li e os anotei com cuidado.</description>
+<link>https://bionota.github.io/9/</link>
+<dc:language>pt</dc:language>
+<category>análise/comparação/estudo</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+85ca30cc-ec9d-590b-94be-797eea7591e2</guid>
+</item>
+<item>
+<title xml:lang="pt">#8 Dicas de Como Estudar da Rayane
+Oliveira</title>
+<pubDate>Sun, 06 Jun 2021 00:00:00 -0300</pubDate>
+<description>Achei um vídeo muito bom que tem várias dicas para nos
+ajudar a montar um método de estudos.</description>
+<link>https://bionota.github.io/8/</link>
+<dc:language>pt</dc:language>
+<category>método/sistema/video/lista/pontos</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+9c3a84c3-cf23-58fd-ae71-6af593ca89a3</guid>
+</item>
+<item>
+<title xml:lang="pt">#7 Indexação do Site</title>
+<pubDate>Sat, 05 Jun 2021 00:00:00 -0300</pubDate>
+<description>Falando rapidamente de alguns problemas na indexação
+do site no Google.</description>
+<link>https://bionota.github.io/7/</link>
+<dc:language>pt</dc:language>
+<category>mecanismo de
+busca/bing/google/público/visibilidade/webmasters</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+a0713bfc-bc17-5f87-9c69-bf4b8a04d1ce</guid>
+</item>
+<item>
+<title xml:lang="pt">#6 Reportagens que Culpam o Homem</title>
+<pubDate>Thu, 03 Jun 2021 00:00:00 -0300</pubDate>
+<description>Muitas reportagens são pessimistas demais quando falam
+da Natureza e eu não me sinto confirtável com esse tipo de atitude
+dos `cientistas&apos; e jornais.</description>
+<link>https://bionota.github.io/6/</link>
+<dc:language>pt</dc:language>
+<category>fatos/notícias/mentiras/mudanças climáticas</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+8c99e2aa-fc20-5e2f-b22c-bde16f21bdb7</guid>
+</item>
+<item>
+<title xml:lang="pt">#5 Definindo Temas e Tópicos de Estudo</title>
+<pubDate>Tue, 01 Jun 2021 00:00:00 -0300</pubDate>
+<description>Vendo mais algumas reportagens sobre os últimos e o
+atual concurso do Ibama para me localizar melhor nos
+estudos.</description>
+<link>https://bionota.github.io/5/</link>
+<dc:language>pt</dc:language>
+<category>estudos/assuntos/reportagens/editais</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+2bf6a4af-0922-571a-b7d8-d13a781c2bff</guid>
+</item>
+<item>
+<title xml:lang="pt">#4 De olho em Ibama, ICMBio, Funai e
+Mais</title>
+<pubDate>Sun, 30 May 2021 00:00:00 -0300</pubDate>
+<description>Importantes concursos que devem ser liberados em
+breve. Não sei se em levas, mas de qualque forma é legal ficar
+antenado!</description>
+<link>https://bionota.github.io/4/</link>
+<dc:language>pt</dc:language>
+<category>concursos
+públicos/anúncio/previsão/esperança/mourão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+ebe927dc-f2d0-572d-ad3e-7ae226c6d5e1</guid>
+<enclosure url="https://bionota.github.io/gfx/ibama-2.png"
+length="40751" type="image/png" />
+</item>
+<item>
+<title xml:lang="pt">#3 Mexendo nos Meus Sistemas de Blog</title>
+<pubDate>Sat, 29 May 2021 00:00:00 -0300</pubDate>
+<description>Ainda estou mexendo/aperfeiçoando meu sistema de blogs
+sendo que deveria estar focando em outras coisas já..</description>
+<link>https://bionota.github.io/3/</link>
+<dc:language>pt</dc:language>
+<category>foco/shell scripting/diversão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+7b130857-9d3e-5fb1-b431-3ac908309067</guid>
+</item>
+<item>
+<title xml:lang="pt">#2 Links Sobre Ibama até 2014</title>
+<pubDate>Fri, 28 May 2021 00:00:00 -0300</pubDate>
+<description>Alguns links que achei em uma busca.</description>
+<link>https://bionota.github.io/2/</link>
+<dc:language>pt</dc:language>
+<category>referências/ibama/notícias</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+cf849aab-7c29-5464-9a55-893f89c8261f</guid>
+</item>
+<item>
+<title xml:lang="pt">#1 De Olho no Concurso do Ibama</title>
+<pubDate>Thu, 27 May 2021 00:00:00 -0300</pubDate>
+<description>Saiu a notícia que um concurso público temporário pro
+IBAMA é iminente..</description>
+<link>https://bionota.github.io/1/</link>
+<dc:language>pt</dc:language>
+<category>concurso público/monitoramento</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+c3693624-3e89-5e68-b667-16a62b948e87</guid>
+</item>
+</channel>
+</rss>

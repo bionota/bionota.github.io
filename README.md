@@ -1,2 +1,2 @@
 # bionota.github.io
-Notas de estudo de biologia.
+notas dos estudos de biologia

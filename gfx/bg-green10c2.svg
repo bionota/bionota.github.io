@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="1280px"
+   height="1024px"
+   id="svg123"
+   sodipodi:docname="bg-green10b.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:x="adobe:ns:meta/"
+   xmlns:xapRights="http://ns.adobe.com/xap/1.0/rights/">
+  <sodipodi:namedview
+     id="namedview125"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.52050781"
+     inkscape:cx="768.4803"
+     inkscape:cy="421.70356"
+     inkscape:window-width="1337"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg123" />
+  <metadata
+     id="metadata91">
+<?xpacket begin="" id=""?>    <x:xmpmeta>
+      <metadata>
+        <rdf:RDF>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:Marked>True</xapRights:Marked>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:WebStatement
+               rdf:resource="http://www.xmple.com/wallpaper/turquoise-3d-cubes-violet-azure-1280x1024-c3-7564a0-648da0-64a079-l-281-a-60-f-11-image/" />
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <xapRights:UsageTerms>
+              <rdf:Alt>
+                <rdf:li
+                   xml:lang="en">This work is licensed under a &lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License&lt;/a&gt;.</rdf:li>
+              </rdf:Alt>
+            </xapRights:UsageTerms>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <dc:title>
+              <rdf:Alt>
+                <rdf:li
+                   xml:lang="en">turquoise 3d cubes violet azure 1280x1024 #7564a0 #648da0 #64a079 60° 281px</rdf:li>
+              </rdf:Alt>
+            </dc:title>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:license
+               rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:attributionName>xmple.com</cc:attributionName>
+          </rdf:Description>
+          <rdf:Description
+             rdf:about="">
+            <cc:morePermissions
+               rdf:resource="http://www.xmple.com" />
+          </rdf:Description>
+          <cc:Work
+             rdf:about="">
+            <dc:title>turquoise 3d cubes violet azure 1280x1024 #7564a0 #648da0 #64a079 60° 281px</dc:title>
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </x:xmpmeta>
+<?xpacket end="r"?>  </metadata>
+  <title
+     id="title93">turquoise 3d cubes violet azure 1280x1024 #7564a0 #648da0 #64a079 60° 281px</title>
+  <desc
+     id="desc95">turquoise 3d cubes violet azure 1280x1024 #7564a0 #648da0 #64a079 60° 281px</desc>
+  <style
+     type="text/css"
+     id="style97"><![CDATA[.x{font:20px verdana;fill:#fff;stroke:#555;stroke-width:20px;opacity:0.35;}.o{stroke:none;opacity:0.01;}]]></style>
+  <defs
+     id="defs104">
+    <pattern
+       id="p1"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="486.70627692717"
+       height="843"
+       patternTransform="translate(640,512) rotate(300 0 0)">
+      <path
+         fill="#648da0"
+         d="M243.35313846218 0L486.70627692717 140.5v281L243.35313846218 281zM0 421.5l243.35313846218 140.5v281l-243.35313846218 -140.5z"
+         id="path99" />
+      <path
+         fill="#64a079"
+         d="M243.35313846218 0v281l-243.35313846218 140.5V140.5zM486.70627692717 421.5v281l-243.35313846218 140.5v-281z"
+         id="path101" />
+    </pattern>
+  </defs>
+  <rect
+     width="1280"
+     height="1024"
+     x="0"
+     y="0"
+     fill="#7564a0"
+     id="rect106" />
+  <rect
+     width="1280"
+     height="1024"
+     x="0"
+     y="0"
+     fill="url(#p1)"
+     id="rect108" />
+  <path
+     class="x o"
+     d="M5 5h2v1H6v1h1v1H5zM4 3h4v1h1v5H8v1H4V9H3V4h1v5h4V4H4zm7 1h1v2h1V4h1v2h-1v1h1v2h-1V7h-1v2h-1V7h1V6h-1zm4 0h5v5h-1V5h-1v4h-1V5h-1v4h-1zm6 0h3l-1 1h-1v3h1V5l1-1v5h-2v2h-1zm4-2h1v6h1v1h-2zm3 2h3l-1 1h-1v1h1V5l1-1v3h-2v1h2v1h-3V4zm4 4h1v1h-1zm2-4h3v1h-2v3h2v1h-3zm4 0h3v5h-3l1-1h1V5h-1v3l-1 1zm4 0h5v5h-1V5h-1v4h-1V5h-1v4h-1z"
+     id="path110" />
+  <text
+     x="4"
+     y="1018"
+     class="x o"
+     id="text112">© xmple.com</text>
+  <a
+     xlink:href="https://www.xmple.com"
+     id="a116">
+    <text
+       text-anchor="end"
+       x="1270"
+       y="22"
+       class="x o"
+       id="text114">xmple.com</text>
+  </a>
+</svg>
