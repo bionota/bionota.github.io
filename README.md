@@ -1,2 +1,3 @@
 # bionota.github.io
-notas dos estudos de biologia
+
+Notas dos meus estudos de biologia.
