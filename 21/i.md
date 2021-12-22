@@ -134,13 +134,17 @@ esta semana mas aguardamos confirmação..
 Consulta e exames no veterinário já custaram uma boa grana,
 mas felizmente minha mãe pode pagar e a gatinha (chama-se *Mimi*) merece.
 
-Por fim, ontem decidi subir e hospedar
+Por fim, ontem decidi subir e (re)hospedar
 <a id="0" title="O site do mountaineerbr.github.io, agora fora do ar no endereço original"
-href="https://mountaineerbr.github.io/">meu site antigo</a>,
-agora arquivado definitivamente, aqui mesmo nesse presente endereço!
-Não me interessa hospedá-lo novamente no endereço original do Github por
+href="https://mountaineerbr.github.io/" hreflang="en">meu site antigo</a>,
+agora arquivado definitivamente!
+
+<!-- Não me interessa hospedá-lo novamente no endereço original do Github por
 alguns motivos e vontades pessoais, mas é importante eu mantê-lo ao alcance
-caso precise de alguma informação arquivada lá.. Só lembrando que o
-meu blog antigo é majoritariamente em *inglês*..
+caso precise de alguma informação arquivada lá.. -->
+
+Só lembrando que o meu blog antigo é majoritariamente em *inglês*,
+mas o <a hreflang="pt" href="https://mountaineerbr.github.io/blog/#podcast">podcast</a>
+e vlog são em bom *português*..
 
 
