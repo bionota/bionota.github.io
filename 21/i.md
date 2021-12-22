@@ -136,7 +136,7 @@ mas felizmente minha mãe pode pagar e a gatinha (chama-se *Mimi*) merece.
 
 Por fim, ontem decidi subir e hospedar
 <a id="0" title="O site do mountaineerbr.github.io, agora fora do ar no endereço original"
-href="../0/">meu site antigo</a>,
+href="https://mountaineerbr.github.io/">meu site antigo</a>,
 agora arquivado definitivamente, aqui mesmo nesse presente endereço!
 Não me interessa hospedá-lo novamente no endereço original do Github por
 alguns motivos e vontades pessoais, mas é importante eu mantê-lo ao alcance

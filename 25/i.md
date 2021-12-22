@@ -22,7 +22,7 @@ tentar arranjar um trabalho voluntário contra a Covid19. Enviei repetidos
 e-mails para várias divisões da saúde aqui do Paraná e de São Paulo, também.
 
 Obtive somente algumas respostas de obrigado. Uma em destaque, foi a [resposta
-do João Doria](../0/blog/19) para mim (através da secretária dele, é claro).
+do João Doria](https://mountaineerbr.github.io/blog/19) para mim (através da secretária dele, é claro).
 
 
 ## <span lang="en">Networking</span> do clima
@@ -223,7 +223,8 @@ meus serviços profissionais também estariam disponíveis.
 
 Ao total, uma empresa de melhoramentos genéticos me contratou no começo do ano,
 mas para um trabalho temporário, e que eu infelizmente não estava preparado
-fisicamente e descrito em outros posts ([aqui](../0/blog/26), [aqui](../0/blog/27) e [aqui](../0/blog/28)).
+fisicamente e descrito em outros posts ([aqui](https://mountaineerbr.github.io/blog/26),
+[aqui](https://mountaineerbr.github.io/blog/27) e [aqui](https://mountaineerbr.github.io/blog/28)).
 
 Gostei de trabalhar na TMG, mesmo que tenha sido uma experiência muito curta
 e que, infelizmente, não tenha conseguido completar. Foi um fruto do esforço
