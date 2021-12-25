@@ -9,9 +9,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 
         -->
 <channel>
-<lastBuildDate>Sat, 25 Dec 2021 20:12:41 -0300</lastBuildDate>
+<lastBuildDate>Sat, 25 Dec 2021 20:15:36 -0300</lastBuildDate>
 <title>Notas de Biologia (alt)</title>
-<description>Current at Sat, 25 Dec 2021 20:12:41
+<description>Current at Sat, 25 Dec 2021 20:15:36
 -0300</description>
 <link>https://bionota.github.io/</link>
 <category>Biologia/Ciência/Pessoal</category>
@@ -67,7 +67,7 @@ sagan</category>
 <hr>
 
 <figure>
-<figcaption>Figura 1. <span title="O nascer da Terra" lang="en">Earthrise</span>. Primeira foto da Terra tirada da Lua pela <span lang="en">Lunar Orbiter</span> em 1966.</figcaption>
+<figcaption>Figura 1. <a href="https://en.wikipedia.org/wiki/Earthrise" title="O nascer da Terra" lang="en">Earthrise</a>. Primeira foto da Terra tirada da Lua pela <span lang="en">Lunar Orbiter</span> em 1966.</figcaption>
 <img src="30/earthFromMoonSmall.jpg" alt="Nascer da Terra." width="420" height="167">
 </figure>
 
@@ -90,7 +90,7 @@ sagan</category>
 </figure>
 
 <figure>
-<figcaption>Figura 4. Vista da face distante da Lua cruzando a Terra, fotografada pela nave espacial DSCOVR.</figcaption>
+<figcaption>Figura 4. <a href="https://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth">Animação da face distante da Lua cruzando a Terra</a>, fotografada pela nave espacial DSCOVR em 2015.</figcaption>
 <img src="30/moonCrossSmall.gif" alt="Moon crosses Earth face">
 </figure>
 
