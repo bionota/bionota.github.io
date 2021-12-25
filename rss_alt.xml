@@ -9,9 +9,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 
         -->
 <channel>
-<lastBuildDate>Sat, 25 Dec 2021 20:15:36 -0300</lastBuildDate>
+<lastBuildDate>Sat, 25 Dec 2021 20:45:54 -0300</lastBuildDate>
 <title>Notas de Biologia (alt)</title>
-<description>Current at Sat, 25 Dec 2021 20:15:36
+<description>Current at Sat, 25 Dec 2021 20:45:54
 -0300</description>
 <link>https://bionota.github.io/</link>
 <category>Biologia/Ciência/Pessoal</category>
@@ -86,12 +86,12 @@ sagan</category>
 
 <figure>
 <figcaption>Figura 3. <a hreflang="en" href="https://www.nasa.gov/feature/jpl/earth-and-its-moon-as-seen-from-mars">Fotografia da Terra</a> da órbita de marte por HiRISE em novembro de 2016.</figcaption>
-<img src="30/earthFromMarsSmall.jpg" alt="View of Earth and Moon from Mars">
+<img src="30/earthFromMarsSmall.jpg" alt="View of Earth and Moon from Mars" width="420" height="236">
 </figure>
 
 <figure>
 <figcaption>Figura 4. <a href="https://www.nasa.gov/feature/goddard/from-a-million-miles-away-nasa-camera-shows-moon-crossing-face-of-earth">Animação da face distante da Lua cruzando a Terra</a>, fotografada pela nave espacial DSCOVR em 2015.</figcaption>
-<img src="30/moonCrossSmall.gif" alt="Moon crosses Earth face">
+<img src="30/moonCrossSmall.gif" alt="Moon crosses Earth face" width="420" height="236">
 </figure>
 
 <p>De forma que o pálido e pequeno ponto azul foi uma fotografia que distorceu a realidade e a distanciou da verdade. A Terra não é um sistema termodinamicamente fechado e sua órbita é regulada por inúmeros corpos celestes que se acompanham.</p>
