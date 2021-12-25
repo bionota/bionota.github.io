@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Tue, 21 Dec 2021 21:22:14 -0300</lastBuildDate>
+<lastBuildDate>Sat, 25 Dec 2021 01:55:39 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Tue, 21 Dec 2021 21:22:14
+<description>Current at Sat, 25 Dec 2021 01:55:39
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,18 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#30 Biologia Para Cínicos 1</title>
+<pubDate>Sat, 25 Dec 2021 00:00:00 -0300</pubDate>
+<description>Alguns preceitos importantes para entendimento da
+teoria de Gaia.</description>
+<link>https://bionota.github.io/30/</link>
+<dc:language>pt</dc:language>
+<category>homeostase/paraíso/matricídio/gaia</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+1388f85e-75b7-5157-a30b-3bfb47215140</guid>
+</item>
 <item>
 <title xml:lang="pt">#29 Robôs Escolhendo Currículos</title>
 <pubDate>Mon, 20 Dec 2021 00:00:00 -0300</pubDate>
