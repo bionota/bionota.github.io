@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sat, 25 Dec 2021 02:02:34 -0300</lastBuildDate>
+<lastBuildDate>Sat, 25 Dec 2021 20:09:18 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sat, 25 Dec 2021 02:02:34
+<description>Current at Sat, 25 Dec 2021 20:09:18
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -39,6 +39,8 @@ teoria de Gaia.</description>
 <author>jamilbio20@gmail.com (JSN)</author>
 <guid isPermaLink="false">
 1388f85e-75b7-5157-a30b-3bfb47215140</guid>
+<enclosure url="https://bionota.github.io/30/earthFromMoonSmall.jpg"
+length="47636" type="image/jpg" />
 </item>
 <item>
 <title xml:lang="pt">#29 Robôs Escolhendo Currículos</title>
