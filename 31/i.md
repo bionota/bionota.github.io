@@ -54,7 +54,7 @@ Há poucos trabalhos de ecologia de estorninhos que encontrei (procurei pouco,
 somente para fazer este pequeno post).
 
 O estorninho forrageia em pastos abertos e procura por uma dieta variada
-para sua cria, um dos motivos pelo qual o estoninho sempre está procurando
+para sua cria, um dos motivos pelo qual o estorninho sempre está procurando
 novos lugares com fontes de presas e alimentos 
 diversos para seus filhotes.
 
@@ -65,7 +65,7 @@ minhoca (*Lumbricus spp.*).
 
 Algumas referências:
 
-1. [TINBERGEN, J. M. Foraging Decisions in Starlings ( Sturnus vulgaris L.). Ardea, v. 38–90, p. 1–67, jan. 2002.](https://bioone.org/journals/Ardea/volume-55/issue-1%E2%80%932/arde.v69.p1/Foraging-Decisions-in-Starlings-iSturnus-vulgarisi-L/10.5253/arde.v69.p1.pdf)
+1. [TINBERGEN, J. M. Foraging Decisions in Starlings (*Sturnus vulgaris* L.). Ardea, v. 38–90, p. 1–67, jan. 2002.](https://bioone.org/journals/Ardea/volume-55/issue-1%E2%80%932/arde.v69.p1/Foraging-Decisions-in-Starlings-iSturnus-vulgarisi-L/10.5253/arde.v69.p1.pdf)
 2. [WHITEHEAD, S. C.; COLLEGE, W. Foraging behaviour and habitat use in the European Starling, Sturnus vulgaris, in an agricultural environment. p. 181, \[s.d.\].](https://ora.ox.ac.uk/objects/uuid:74a0c54e-86a0-4cf4-ab26-d82b305febc6)
 
 
@@ -73,7 +73,7 @@ Algumas referências:
 He contended that this searching image
 enhanced visual detection of the prey, but only
 when encounter rate with that prey species was
-above a thre·shold. This would explain why a prey
+above a threshold. This would explain why a prey
 species was igrwredwhen at low densities, and
 why it suddenly· would enter the diet in spec-
 tacular fashion at intermediate densities; Tin-
