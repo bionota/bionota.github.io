@@ -42,11 +42,13 @@ Por exemplo, quem sabe aquela
 [nuvem de gafanhotos do ano passado](https://www.canalrural.com.br/noticias/agricultura/aconteceu-em-2020-gafanhoto/)
 não ocorra de forma massiva novamente no Brasil..... 
 
-Muitas vezes essas *espécies são *sintoma** de alguma outra coisa, retirando
-ela, a gente ficará *sem saber* qual a **real causa** dela ter se estabelecido.
+Muitas vezes essas *espécies são *sintoma** de alguma outra coisa.
+Retirando-as, ficaremos *sem saber* qual a **real causa** de terem se estabelecido.
 
 Acredito nisso depois de ter iniciado meus estudos sobre
-*agroecologia* ou *agricultura regenerativa*.
+*agroecologia* ou *agricultura regenerativa* com os grandes
+ecólogos [Ana Primavesi](https://www.youtube.com/c/AnaPrimavesiAcervo/videos) e 
+[Ernst](https://www.youtube.com/channel/UCf9s-yeskYZweEuKyq1ia6w) [Götsch](https://www.youtube.com/channel/UCf9s-yeskYZweEuKyq1ia6w).
 
 ---
 
