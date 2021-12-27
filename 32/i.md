@@ -71,7 +71,7 @@ ora essas..
 Olhando O Antagonista, achei esta reportagem (qual link parece ter sido <span title="ou atualizado??">removido</span>):
 
 > [Após 3 anos, Bolsonaro ainda não conseguiu substituir Mais Médicos](https://www.oantagonista.com/brasil/apos-3-anos-bolsonaro-ainda-nao-conseguiu-substituir-mais-medicos/)<br>
-> 27.12.21 08:54 [$$ 4]<br>
+> 27.12.21 08:54 [$$ 3]<br>
 > Redação O Antagonista
 >
 > Apesar das promessas, o governo Jair Bolsonaro (foto) ainda não conseguiu dar efetividade ao programa Médicos pelo Brasil
