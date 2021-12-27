@@ -73,7 +73,9 @@ Olhando O Antagonista, achei esta reportagem (qual link parece ter sido <span ti
 > [Após 3 anos, Bolsonaro ainda não conseguiu substituir Mais Médicos](https://www.oantagonista.com/brasil/apos-3-anos-bolsonaro-ainda-nao-conseguiu-substituir-mais-medicos/)<br>
 > 27.12.21 08:54 [$$ 3]<br>
 > Redação O Antagonista
->
+> 
+> <!-- [ Ao todo, pelo menos 3,3 mil vagas estão ociosas em todo o Brasil e o governo federal ainda não conseguiu substituir profissionais cubanos] -->
+> 
 > Apesar das promessas, o governo Jair Bolsonaro (foto) ainda não conseguiu dar efetividade ao programa Médicos pelo Brasil
 > , o substituto do Mais Médicos.
 >
