@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sun, 26 Dec 2021 18:57:10 -0300</lastBuildDate>
+<lastBuildDate>Mon, 27 Dec 2021 19:25:57 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sun, 26 Dec 2021 18:57:10
+<description>Current at Mon, 27 Dec 2021 19:25:57
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,17 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#32 Médico e Fronteiras</title>
+<pubDate>Mon, 27 Dec 2021 00:00:00 -0300</pubDate>
+<description>Médicos do Brasil são gente comum.</description>
+<link>https://bionota.github.io/32/</link>
+<dc:language>pt</dc:language>
+<category>salário/carreira/decisões</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+416fc65b-14f4-59b1-83ff-211749b8d9cb</guid>
+</item>
 <item>
 <title xml:lang="pt">#31 Espécies Exóticas Alienígenas</title>
 <pubDate>Sun, 26 Dec 2021 00:00:00 -0300</pubDate>

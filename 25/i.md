@@ -194,7 +194,7 @@ Não sei se haverá mais e-mails do Richard por enquanto, mas depois que eu ler 
 > abs
 > Richard
 
-As respostas dos e-mails seguintes em que o Richard faz várias colocações a respeiot dos pontos que eu citei no meu e-mail inicial podem ser lidas [aqui](email_Richard_replies.txt).
+As respostas dos e-mails seguintes em que o Richard faz várias colocações a respeito dos pontos que eu citei no meu e-mail inicial podem ser lidas [aqui](email_Richard_replies.txt).
 
 
 ### Livro
