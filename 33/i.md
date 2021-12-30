@@ -24,7 +24,9 @@ expuseram a confusão com unidades de medida protagonizada por cientistas do IPC
 
 
 > Os climatologistas erraram quando tomaram emprestada a matemática de feedback da teoria de controle sem entendê-la bem. Eles usaram uma variante de equação de ganho do sistema de retroalimentação que dependia exclusivamente de pequenas mudanças na temperatura de referência (antes do feedback) e na temperatura de equilíbrio (após o feedback). Mas a equação convencional que eles pegaram emprestado da teoria de controle usa temperaturas inteiras, absolutas em Kelvin, não apenas mudanças de temperatura.
+> 
 > &nbsp;&nbsp; [Climatology’s startling error – an update](https://wattsupwiththat.com/2018/07/30/climatologys-startling-error-an-update/)
+> 
 > &nbsp;&nbsp; [Climatology’s startling error of physics: answers to comments](https://wattsupwiththat.com/2018/08/15/climatologys-startling-error-of-physics-answers-to-comments/), Lord Monckton
 
 
