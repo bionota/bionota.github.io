@@ -3,14 +3,10 @@ User-agent: *
 Disallow: */js/*
 Disallow: */bin/*
 Disallow: */thumb/*
-Disallow: /0/blog/a/
-Disallow: */0/cvsum.html
-Disallow: */0/repo/*/*
-Disallow: */0/vlog/media/*
-Disallow: */0/vlog/thumb/*
+Disallow: */cv.html
+Disallow: */cvsum.html
 
 #all robots read the sitemap file
 #this should be a full url
 Sitemap: https://bionota.github.io/sitemap.xml
-Sitemap: https://bionota.github.io/0/sitemap.xml
 
