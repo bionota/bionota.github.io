@@ -9,4 +9,5 @@ Disallow: */cvsum.html
 #all robots read the sitemap file
 #this should be a full url
 Sitemap: https://bionota.github.io/sitemap.xml
+Sitemap: https://bionota.github.io/sitemap.txt
 
