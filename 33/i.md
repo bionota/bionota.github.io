@@ -25,15 +25,15 @@ expuseram a confusão com unidades de medida protagonizada por cientistas do IPC
 
 > Os climatologistas erraram quando tomaram emprestada a matemática de feedback da teoria de controle sem entendê-la bem. Eles usaram uma variante de equação de ganho do sistema de retroalimentação que dependia exclusivamente de pequenas mudanças na temperatura de referência (antes do feedback) e na temperatura de equilíbrio (após o feedback). Mas a equação convencional que eles pegaram emprestado da teoria de controle usa temperaturas inteiras, absolutas em Kelvin, não apenas mudanças de temperatura.
 > 
-> &nbsp;&nbsp; [Climatology’s startling error – an update](https://wattsupwiththat.com/2018/07/30/climatologys-startling-error-an-update/)
+> [Climatology’s startling error – an update](https://wattsupwiththat.com/2018/07/30/climatologys-startling-error-an-update/)
 > 
-> &nbsp;&nbsp; [Climatology’s startling error of physics: answers to comments](https://wattsupwiththat.com/2018/08/15/climatologys-startling-error-of-physics-answers-to-comments/), Lord Monckton
+> [Climatology’s startling error of physics: answers to comments](https://wattsupwiththat.com/2018/08/15/climatologys-startling-error-of-physics-answers-to-comments/), Lord Monckton
 
 
 Como ambos são matemáticos, me parece muito importante que pelo menos
-para eles, as unidades de medidade de temperatura e escalas
+para eles, as unidades de medida de temperatura e escalas
 que os cientistas do
-IPCC tem usado intercambialvemente e sem escrúpulos nenhum pelas leis
+IPCC tem usado intercambiavelmente e sem escrúpulos nenhum pelas leis
 da física, não passou por eles batido.
 
 Eles apontam erros graves nas fórmulas matemáticas empregados em vários
@@ -61,19 +61,19 @@ com uma boa pesquisa no internet. De qualquer forma a mensagem é muito clara
 e compreensível.
 
 O negócio é o seguinte, se fizerem os cálculos econômicos completos,
-poderá ser observado que os cosumidores comuns que aderem
+poderá ser observado que os consumidores comuns que aderem
 à tais *energias limpas* como a solar fotovoltaica e eólica só percebem
-benefício na conta de luz pois são subsidados pelo governo em várias
+benefício na conta de luz pois são subsidiados pelo governo em várias
 taxas. Esse subsídio, é depois, repassado aos outros consumidores de
 energia não renováveis que utilizam a rede elétrica.
 
 Somente pessoas muito ricas ou fanáticas tem condições de comprar
-placas fotovoltáicas e arcar com todos os custos de tempo e manutenção!
+placas fotovoltaicas e arcar com todos os custos de tempo e manutenção!
 
 Além disso, produção de energia renovável em alta escala como as citadas
 anteriormente, tão pouco são vantajosas economicamente quando se leva
 em consideração as despesas para suprimento de energia quando as renováveis
 estiverem em intermitência na rede. Por exemplo, as turbinas eólicas só conseguem
-gerar energia por volta de 30% do tempo, mesmo nas melhores localizades
+gerar energia por volta de 30% do tempo, mesmo nas melhores localidades
 ventosas.
 
