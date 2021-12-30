@@ -31,6 +31,7 @@ https://bionota.github.io/29/
 https://bionota.github.io/30/
 https://bionota.github.io/31/
 https://bionota.github.io/32/
+https://bionota.github.io/33/
 https://bionota.github.io/about.html
 https://bionota.github.io/cat.html
 https://bionota.github.io/rss.xml

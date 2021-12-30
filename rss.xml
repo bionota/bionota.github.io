@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Mon, 27 Dec 2021 19:37:16 -0300</lastBuildDate>
+<lastBuildDate>Thu, 30 Dec 2021 10:26:02 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Mon, 27 Dec 2021 19:37:16
+<description>Current at Thu, 30 Dec 2021 10:26:02
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,20 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#33 Temperatura Kelvin e Energias
+Renováveis</title>
+<pubDate>Thu, 30 Dec 2021 00:00:00 -0300</pubDate>
+<description>Nota sobre o uso (ou não uso) da temperatura padrão
+Kelvin nos modelos e cálculos climáticos e sobre o custo das
+energias renováveis.</description>
+<link>https://bionota.github.io/33/</link>
+<dc:language>pt</dc:language>
+<category>matemática/meio ambiente/ciência</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+7e65794a-a08b-5085-922d-6edca358d501</guid>
+</item>
 <item>
 <title xml:lang="pt">#32 Médico e Fronteiras</title>
 <pubDate>Mon, 27 Dec 2021 00:00:00 -0300</pubDate>
