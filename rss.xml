@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Thu, 30 Dec 2021 10:44:10 -0300</lastBuildDate>
+<lastBuildDate>Fri, 31 Dec 2021 08:48:51 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Thu, 30 Dec 2021 10:44:10
+<description>Current at Fri, 31 Dec 2021 08:48:51
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,22 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#34 Pesticidas Naturais e Alimentação</title>
+<pubDate>Fri, 31 Dec 2021 00:00:00 -0300</pubDate>
+<description>Concentrações ínfimas de moléculas tóxicas na nossa
+dieta não parecem deter o avanço da expectativa de vida mundial e
+brasileira.</description>
+<link>https://bionota.github.io/34/</link>
+<dc:language>pt</dc:language>
+<category>defensivos agrícolas/espectativa de
+vida/agrotóxicos/produtos químicos</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+214f524b-611e-5131-9f4e-550dbbf3292b</guid>
+<enclosure url="https://bionota.github.io/34/bruce_ppt1.png"
+length="257432" type="image/png" />
+</item>
 <item>
 <title xml:lang="pt">#33 Temperatura Kelvin e Energias
 Renováveis</title>
