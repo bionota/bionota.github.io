@@ -48,7 +48,7 @@ Assim, adormeci novamente e acordei um ciclo de sono depois, exatamente
 
 ---
 
-Quando eu [trabalhava na TMG](),
+Quando eu [trabalhava na TMG](https://mountaineerbr.github.io/blog/cat.html#26),
 uma empresa de melhoramentos de plantas,
 foi-nos falado, em certo tom de brincadeira, que os fazendeiros geralmente
 vestiam camisas listradas e seria fácil identificá-los visitando a sede
