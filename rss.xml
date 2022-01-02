@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Fri, 31 Dec 2021 12:26:37 -0300</lastBuildDate>
+<lastBuildDate>Sun, 02 Jan 2022 09:39:01 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Fri, 31 Dec 2021 12:26:37
+<description>Current at Sun, 02 Jan 2022 09:39:01
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,20 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#35 Ciclo de Sono e Fazendeiros Vestem
+Listrado</title>
+<pubDate>Sun, 02 Jan 2022 00:00:00 -0300</pubDate>
+<description>Nota sobre a duração do ciclo do sono que ouvi dizer e
+uma epifania do porquê dos fazendeiros sempre usarem camisas
+listradas.</description>
+<link>https://bionota.github.io/35/</link>
+<dc:language>pt</dc:language>
+<category>roupa/ideia/sonho/dormir/plantações/linhas</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+55250cd2-4e41-566a-9461-f9de2855b30c</guid>
+</item>
 <item>
 <title xml:lang="pt">#34 Pesticidas Naturais e Alimentação</title>
 <pubDate>Fri, 31 Dec 2021 00:00:00 -0300</pubDate>
