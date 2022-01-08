@@ -66,11 +66,11 @@ prejudicial ao pulmão).
 <figure>
 	<figcaption>Figura 1. Quadro comparativo dos aparelhos de tecnologias
 	tecnologias diferentes. A) umidificador, B) nebulizador/inalador, C) vaporizador e D) climatizador de ambientes.</figcaption>
-	<img src="umidificador_small.jpg" alt="foto do umidificador" width="240" height="240">
-	<img src="nebulizador_small.jpg" alt="foto do nebulizador" width="240" height="240">
+	<p>A) <img src="umidificador_small.jpg" alt="foto do umidificador" width="240" height="240">
+	B) <img src="nebulizador_small.jpg" alt="foto do nebulizador" width="240" height="240">
 	<br>
-	<img src="vaporizador_small.png" alt="foto do vaporizador" width="240" height="240">
-	<img src="climatizador_small.jpg" alt="foto de um climatizador" width="240" height="251">
+	C) <img src="vaporizador_small.png" alt="foto do vaporizador" width="240" height="240">
+	D) <img src="climatizador_small.jpg" alt="foto de um climatizador" width="240" height="251"></p>
 </figure>
 
 
