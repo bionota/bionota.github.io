@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sat, 08 Jan 2022 07:59:58 -0300</lastBuildDate>
+<lastBuildDate>Sat, 08 Jan 2022 17:28:38 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sat, 08 Jan 2022 07:59:58
+<description>Current at Sat, 08 Jan 2022 17:28:38
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,22 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#37 Umidificador, Nebulizador e
+Vaporizador</title>
+<pubDate>Sat, 08 Jan 2022 00:00:00 -0300</pubDate>
+<description>Diferenças entre os vários tipos de utensilhos
+disponíveis para inalação ou umidificação de ambientes e
+recomendações de uso.</description>
+<link>https://bionota.github.io/37/</link>
+<dc:language>pt</dc:language>
+<category>asma/problemas respiratórios/respiração/saúde</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+7ade1ec0-d25e-5aa6-bea9-9a0313100543</guid>
+<enclosure url="https://bionota.github.io/37/umidificador_small.jpg"
+length="15341" type="image/jpg" />
+</item>
 <item>
 <title xml:lang="pt">#36 Sitio Monte Horebe e @simoncurtis</title>
 <pubDate>Mon, 03 Jan 2022 00:00:00 -0300</pubDate>
