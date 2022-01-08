@@ -203,7 +203,7 @@ Mas **evite umidificadores**!!
    <dd>Hypersensitivity pneumonitis is inflammation of the lungs due to breathing in a foreign substance, usually certain types of dust, fungus, or molds.</dd>
 
   <dt><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5725870/">Hypersensitivity Pneumonitis Caused by a Home Ultrasonic Humidifier Contaminated with Candida guilliermondii</a></dt>
-   <dd>We herein report the first documented case of acute hypersensitivity pneumonitis in which Candida guilliermondii was the possible causative organism</dd>
+   <dd>We herein report the first documented case of acute hypersensitivity pneumonitis in which *Candida* *guilliermondii* was the possible causative organism</dd>
 
 </dl>
 
