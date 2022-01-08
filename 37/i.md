@@ -193,10 +193,10 @@ Mas **evite umidificadores**!!
 ## Mais Referências
 
 <dl lang="en" hreflang="en">
-  <dt><a href="https://pubmed.ncbi.nlm.nih.gov/16511738/">[Humidifier-associated disease in the general population] - PubMed</a></dt>
-   <dd>NCBI Literature Resources</dd>
+  <dt><a href="https://pubmed.ncbi.nlm.nih.gov/16511738/">Humidifier-associated disease in the general population</a></dt>
+   <dd> Recently an increasing number of patients presented with febrile and respiratory symptoms associated with exposure to a new type of domestic ultrasonic humidifier.</dd>
 
-  <dt><a href="https://pubmed.ncbi.nlm.nih.gov/3130530/">Humidifier lung and humidifier fever - PubMed</a></dt>
+  <dt><a href="https://pubmed.ncbi.nlm.nih.gov/3130530/">Humidifier lung and humidifier fever</a></dt>
    <dd>The aim of our study was to evaluate clinical diagnoses in symptomatic persons exposed to aerosols from humidifiers or air conditioners.</dd>
 
   <dt><a href="https://medlineplus.gov/ency/article/000109.htm">Hypersensitivity pneumonitis: MedlinePlus Medical Encyclopedia</a></dt>
