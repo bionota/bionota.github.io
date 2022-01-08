@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # blog.sh -- Blog Posting and RSS Feed Systems
-# v0.8.3  dec/2021  mountaineerbr  #compatible with FreeBSD 13#
+# v0.8.4  jan/2022  mountaineerbr  #compatible with FreeBSD 13#
 #   __ _  ___  __ _____  / /____ _(_)__  ___ ___ ____/ /  ____
 #  /  ' \/ _ \/ // / _ \/ __/ _ `/ / _ \/ -_) -_) __/ _ \/ __/
 # /_/_/_/\___/\_,_/_//_/\__/\_,_/_/_//_/\__/\__/_/ /_.__/_/   
@@ -338,7 +338,7 @@ BUGS
 
 OPTIONS
 	-a [NUM|TITLE]
-		Create new post with TITLE or edit post NUM.
+		Create new post with TITLE, edit post NUM (or LAST).
 	-c 	Check/validate author HTML with tidy.
 	-f 	Force recompilation of HTML and RSS files and buffers.
 	-h 	Help.
@@ -355,9 +355,10 @@ creatf()
 
 	title="$*" p_num="$1"
 
-	if [[ "$p_num" = +([0-9]) && "$p_num" -le "$LASTPOST" ]]
+	if [[ "${title^^}" = LAST || ( "$p_num" = +([0-9]) && "$p_num" -le "$LASTPOST" ) ]]
 	then
 		#edit post NUM
+		[[ "${title^^}" = LAST ]] && p_num="$LASTPOST"
 		p_target_dir="$ROOTBLOG/$p_num" ;[[ -d "$p_target_dir" ]] || return
 		CREATF_TARGET_PATH=( "$p_target_dir"/@($RAWPOST_FNAME|$RAWPOST_FNAME_MD) )
 
