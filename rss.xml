@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sun, 02 Jan 2022 10:12:43 -0300</lastBuildDate>
+<lastBuildDate>Fri, 07 Jan 2022 22:41:30 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sun, 02 Jan 2022 10:12:43
+<description>Current at Fri, 07 Jan 2022 22:41:30
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,19 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#36 Sitio Monte Horebe e @simoncurtis</title>
+<pubDate>Mon, 03 Jan 2022 00:00:00 -0300</pubDate>
+<description>Algumas referências de canais e assuntos
+inusitados..</description>
+<link>https://bionota.github.io/36/</link>
+<dc:language>pt</dc:language>
+<category>
+ciência/biologia/referências/dicas/entretenimento</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+631572fc-7583-5d70-a713-ea9847bb2904</guid>
+</item>
 <item>
 <title xml:lang="pt">#35 Ciclo de Sono e Fazendeiros Vestem
 Listrado</title>
