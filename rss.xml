@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Fri, 07 Jan 2022 23:06:40 -0300</lastBuildDate>
+<lastBuildDate>Sat, 08 Jan 2022 07:57:49 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Fri, 07 Jan 2022 23:06:40
+<description>Current at Sat, 08 Jan 2022 07:57:49
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -40,6 +40,8 @@ ciência/biologia/referências/dicas/entretenimento</category>
 <author>jamilbio20@gmail.com (JSN)</author>
 <guid isPermaLink="false">
 631572fc-7583-5d70-a713-ea9847bb2904</guid>
+<enclosure url="https://bionota.github.io/36/Screenshot_2022-01-08_07-55-24.png"
+length="34903" type="image/png" />
 </item>
 <item>
 <title xml:lang="pt">#35 Ciclo de Sono e Fazendeiros Vestem
