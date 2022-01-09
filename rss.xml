@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sat, 08 Jan 2022 18:20:14 -0300</lastBuildDate>
+<lastBuildDate>Sun, 09 Jan 2022 07:26:05 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sat, 08 Jan 2022 18:20:14
+<description>Current at Sun, 09 Jan 2022 07:26:05
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,21 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#38 Humanos Extinguem Animais Há 1,5 Milhões
+de Anos</title>
+<pubDate>Sun, 09 Jan 2022 00:00:00 -0300</pubDate>
+<description>Novo estudo interessante sobre tamanho da caça e
+evolução humana.</description>
+<link>https://bionota.github.io/38/</link>
+<dc:language>pt</dc:language>
+<category>evolução/meio ambiente/nota</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+5b57e97d-7994-5e9e-b715-4dff14037efd</guid>
+<enclosure url="https://bionota.github.io/38/hominidiFauna_small.jpg"
+length="34939" type="image/jpg" />
+</item>
 <item>
 <title xml:lang="pt">#37 Umidificador, Nebulizador e
 Vaporizador</title>

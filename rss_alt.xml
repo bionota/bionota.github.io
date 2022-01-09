@@ -9,9 +9,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 
         -->
 <channel>
-<lastBuildDate>Sat, 08 Jan 2022 18:20:14 -0300</lastBuildDate>
+<lastBuildDate>Sun, 09 Jan 2022 07:26:05 -0300</lastBuildDate>
 <title>Notas de Biologia (alt)</title>
-<description>Current at Sat, 08 Jan 2022 18:20:14
+<description>Current at Sun, 09 Jan 2022 07:26:05
 -0300</description>
 <link>https://bionota.github.io/</link>
 <category>Biologia/Ciência/Pessoal</category>
@@ -29,6 +29,61 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#38 Humanos Extinguem Animais Há 1,5 Milhões
+de Anos</title>
+<pubDate>Sun, 09 Jan 2022 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/38/</link>
+<dc:language>pt</dc:language>
+<category>evolução/meio ambiente/nota</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+5b57e97d-7994-5e9e-b715-4dff14037efd</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="38">#38 Humanos Extinguem Animais Há 1,5 Milhões de Anos</h1>
+<time class="dt-published" datetime="2022-01-09">09/Jan/2022</time>
+<nav><a href="38/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Um estudo interessante que saiu há pouco tempo determina que o ser humano foi responsável pela extirpação e extinção de algumas espécies em alguns lugares no mundo.</p>
+
+<blockquote>
+<p>Pela primeira vez, argumentamos que a força motriz por trás do aprimoramento constante da tecnologia humana é o declínio contínuo do tamanho do jogo. Em última análise, pode muito bem ser que, há 10.000 anos, no sul do Levante, os animais tenham se tornado pequenos ou raros demais para fornecer comida suficiente aos humanos, e isso pode estar relacionado ao advento da agricultura.</p>
+</blockquote>
+
+<figure>
+<figcaption>Figura 1. Ao longo do Pleistoceno, novas linhagens humanas caçaram presas cada vez menores do que as anteriores.</figcaption>
+<img src="38/hominidiFauna_small.jpg" alt="Gráfico do artigo" width="420" height="227">
+</figure>
+
+<ul lang="en">
+<li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379121005230">Levantine overkill: 1.5 million years of hunting down the body size distribution</a>
+</li>
+
+<li><a href="https://www.timesofisrael.com/early-humans-repeatedly-killed-out-the-biggest-beasts-around-israeli-study-finds/">Early humans repeatedly killed off the biggest beasts around, Israeli study finds</a>
+</li>
+
+<li><a href="https://phys.org/news/2021-12-early-humans-largest-animals-extinction.html">Early humans hunted the largest available animals to extinction for 1.5 million years</a>
+</li>
+
+<li><a href="https://www.sciencedaily.com/releases/2021/12/211221102708.htm">From giant elephants to nimble gazelles: Early humans hunted the largest available animals to extinction for 1.5 million years, study finds</a>
+</li>
+
+<li><a href="https://www.jpost.com/archaeology/article-689385">Research by Tel Aviv University scholars analyzed data and remains from dozens of sites in the southern Levant.</a>
+</li>
+</ul>
+
+<p>Apesar de resultados interessantes, fico um pouco com o pé meio atrás sobre as conclusões do estudo que dizem que mudanças climáticas tiveram pouca, se alguma, influência na extinção de espécies no último milhão e meio de anos no Levant. Acho muito suspeito descartar mudanças de clima e geológicas tão facilmente como os autores fazem no artigo.</p>
+
+<p>Ainda não tive tempo de ler o artigo inteiro, mas tenho certeza que várias partes do artigo podem ser usadas para substanciar nossas pesquisas sobre biodiversidade..</p>
+</article> ]]>
+</description>
+</item>
 <item>
 <title xml:lang="pt">#37 Umidificador, Nebulizador e
 Vaporizador</title>
