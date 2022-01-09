@@ -58,8 +58,9 @@ ser energeticamente suprido com somente vegetais.
 
 Ao mesmo tempo, o artigo infere que os ecossistemas estão se adaptando
 à influência do ser humano há pelo menos 1,5 milhões de anos. Seria
-idiotice achar que o planeta Terra tem sofrido com a existência do ser
-humano ao longo desse período.
+idiotice achar que o planeta Terra tem *sofrido* com a existência do ser
+humano ao longo desse período. Não no esqueçamos que populações
+de hominídeos não eram tão grandes assim no passado..
 
 Um cientista extraterrestre ao observar a história na Terra não deveria
 achar que o ser humano é a *escória do planeta Terra*. Na verdade, é uma
