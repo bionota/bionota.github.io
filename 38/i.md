@@ -23,7 +23,7 @@ de algumas espécies em alguns lugares no mundo.
 
 <figure>
 	<figcaption>Figura 1. Ao longo do Pleistoceno, novas linhagens humanas caçaram presas cada vez menores do que as anteriores.</figcaption>
-	<img src="hominidiFauna_small.jpg" alt="Gráfico do artigo" width="420" height="227">
+	<img src="hominidiFauna_small.jpg" alt="Gráfico do artigo" width="620" height="335">
 </figure>
 
 

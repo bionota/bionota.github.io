@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sun, 09 Jan 2022 07:26:05 -0300</lastBuildDate>
+<lastBuildDate>Sun, 09 Jan 2022 07:27:24 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sun, 09 Jan 2022 07:26:05
+<description>Current at Sun, 09 Jan 2022 07:27:24
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -41,7 +41,7 @@ evolução humana.</description>
 <guid isPermaLink="false">
 5b57e97d-7994-5e9e-b715-4dff14037efd</guid>
 <enclosure url="https://bionota.github.io/38/hominidiFauna_small.jpg"
-length="34939" type="image/jpg" />
+length="51679" type="image/jpg" />
 </item>
 <item>
 <title xml:lang="pt">#37 Umidificador, Nebulizador e
