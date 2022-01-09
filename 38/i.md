@@ -51,3 +51,35 @@ Ainda não tive tempo de ler o artigo inteiro, mas tenho certeza que
 várias partes do artigo podem ser usadas para substanciar
 nossas pesquisas sobre biodiversidade..
 
+Mas de forma geral, esse artigo de certa forma nos redime de algum pecado
+com relação a extinção de certas espécies. A *condição* do surgimento
+do ser humano foi a caça e nunca um cérebro como o nosso poderia
+ser energeticamente suprido com somente vegetais.
+
+Ao mesmo tempo, o artigo infere que os ecossistemas estão se adaptando
+à influência do ser humano há pelo menos 1,5 milhões de anos. Seria
+idiotice achar que o planeta Terra tem sofrido com a existência do ser
+humano ao longo desse período.
+
+Um cientista extraterrestre ao observar a história na Terra não deveria
+achar que o ser humano é a *escória do planeta Terra*. Na verdade, é uma
+espécie belíssima que se desenvolveu graças a uma estrutura de suporte
+estabelecida na Terra pela vida inferior e que interagem entre si, mas
+o ser humano é somente um parafuso nessa grande engrenagem de Gaia.
+
+Na verdade, tento
+analisar a existência humano com a perspectiva de um cientista com um
+corpo diferente e de outro planeta, por exemplo, um cientista alienígena
+parecido com um polvo para me eximir de influências humanas.
+
+<!--
+Antonio Dominguez
+@AntonioSLW
+16 Dec 2021
+Replying to @MU_Peter
+
+Parte del ciclo de la naturaleza. Nunca fueron tantos humanos como para extinguir especies enteras. Solo hay que ver cementerios naturales donde se encuentran varias especies en grandes cantidades.
+Seguir pensando que tenemos tanto poder es ridículo. la naturaleza es la grande.
+
+https://twitter.com/MU_Peter/status/1471487834607468551
+-->
