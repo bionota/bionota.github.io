@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # blog.sh -- Blog Posting and RSS Feed Systems
-# v0.8.4  jan/2022  mountaineerbr  #compatible with FreeBSD 13#
+# v0.8.5  jan/2022  mountaineerbr  #compatible with FreeBSD 13#
 #   __ _  ___  __ _____  / /____ _(_)__  ___ ___ ____/ /  ____
 #  /  ' \/ _ \/ // / _ \/ __/ _ `/ / _ \/ -_) -_) __/ _ \/ __/
 # /_/_/_/\___/\_,_/_//_/\__/\_,_/_/_//_/\__/\__/_/ /_.__/_/   
@@ -351,7 +351,7 @@ OPTIONS
 #create a new post from template
 creatf()
 {
-	local title p_num description keywords p_target_dir date_iso8601 template_change visual_exit REPLY
+	local title p_num description keywords p_target_dir date_iso8601 template_change visual_exit checksum REPLY 
 
 	title="$*" p_num="$1"
 
@@ -361,8 +361,10 @@ creatf()
 		[[ "${title^^}" = LAST ]] && p_num="$LASTPOST"
 		p_target_dir="$ROOTBLOG/$p_num" ;[[ -d "$p_target_dir" ]] || return
 		CREATF_TARGET_PATH=( "$p_target_dir"/@($RAWPOST_FNAME|$RAWPOST_FNAME_MD) )
+		checksum=$(sum "${CREATF_TARGET_PATH[@]: -1}")
 
 		"${VISUAL:-${EDITOR:-vim}}" "${CREATF_TARGET_PATH[@]: -1}" ;visual_exit=$?
+		[[ "$checksum" = $(sum "${CREATF_TARGET_PATH[@]: -1}") ]] && exit $visual_exit
 
 		read -n1 -p 'Compile or Quit? (c/Q) ' ;echo
 		echo "Raw post path -- ${CREATF_TARGET_PATH[@]: -1}" >&2
