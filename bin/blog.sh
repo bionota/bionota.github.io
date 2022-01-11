@@ -341,9 +341,9 @@ OPTIONS
 		Create new post with TITLE, edit post NUM (or LAST).
 	-c 	Check/validate author HTML with tidy.
 	-f 	Force recompilation of HTML and RSS files and buffers.
-	-h 	Help.
+	-h 	This help page.
 	-i 	Do not tidy up generated pages.
-	-t 	Reset post file times with buffer attributes (not visible).
+	-t 	Reset post file times with buffer attributes.
 	-V 	Script version."
 
 
