@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Tue, 11 Jan 2022 15:13:16 -0300</lastBuildDate>
+<lastBuildDate>Thu, 13 Jan 2022 15:39:53 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Tue, 11 Jan 2022 15:13:16
+<description>Current at Thu, 13 Jan 2022 15:39:53
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,19 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#40 Texto Plano, IBGE e Petrobrás</title>
+<pubDate>Thu, 13 Jan 2022 00:00:00 -0300</pubDate>
+<description>Algumas coisas que andei fazendo no último mês que me
+ocuparam a cabeça. Assim, acabei perdendo as inscrições para
+concurso da Petrobrás!</description>
+<link>https://bionota.github.io/40/</link>
+<dc:language>pt</dc:language>
+<category>concursos/livro/final de ano</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+17d30fd0-8384-5efc-ac62-a9ccb7e56ff9</guid>
+</item>
 <item>
 <title xml:lang="pt">#39 EIA com Saldo Positivo</title>
 <pubDate>Mon, 10 Jan 2022 00:00:00 -0300</pubDate>
