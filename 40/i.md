@@ -22,8 +22,9 @@ para depois focar nos resumos que um amigo editor estava me orientando
 e me pedindo para fazer.
 
 Por volta do Natal e com tempo para organizar os pensamentos,
-fiquei sabendo do concurso público do IBGE e me inscrevi logo em
-seguida. Com essa sensação de *dever cumprido*, dei uma relaxada
+fiquei sabendo do [concurso público do IBGE](https://conhecimento.fgv.br/concursos/ibgepss21/09)
+e me inscrevi logo em seguida.
+Com essa sensação de *dever cumprido*, dei uma relaxada
 e é verdade não procurei mais sobre outros concursos públicos
 pois (1) pensei que não houvesse nenhum concurso melhor do que
 o do IBGE naquele momento e (2) precisava me organizar para poder
