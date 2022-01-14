@@ -6,7 +6,7 @@ DATE: 2022-01-14
 TITLE/H1: Michael Lang e Woodstock
 DESCRIPTION: Notas e reflexões com a passagem do Michael Lang,
 idealizador e organizador do Festival Woodstock de Música e Arte.
-KEYWORDS: concurso, reflexões, rock'n'roll, memórias, esperança, paz e amor
+KEYWORDS: reflexões, rock'n'roll, memórias, esperança, paz e amor, música
 LANGUAGE: 
 
 <!-- DATE MUST BE IN THE FORMAT YYY-MM-DD -->
