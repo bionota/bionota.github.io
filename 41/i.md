@@ -6,7 +6,8 @@ DATE: 2022-01-14
 TITLE/H1: Michael Lang e Woodstock
 DESCRIPTION: Notas e reflexões com a passagem do Michael Lang,
 idealizador e organizador do Festival Woodstock de Música e Arte.
-KEYWORDS: reflexões, rock'n'roll, memórias, esperança, paz e amor, música
+KEYWORDS: reflexões, rock'n'roll, memórias, esperança, paz e amor,
+música, contra-cultura, flower children
 LANGUAGE: 
 
 <!-- DATE MUST BE IN THE FORMAT YYY-MM-DD -->
@@ -22,7 +23,7 @@ mais sobre Woodstock (principalmente através das *sugestões* do YouTube)
 e o conheci o idealizador e um dos organizadores do Woodstock,
 **Michael Lang**, e um pouco de sua história.
 
-Uma pena que não fui atrás da história do Festival mais cedo.
+Uma pena que não fui atrás da história do festival mais cedo.
 Sempre, em primeiro lugar, estive mais interessado na música, é claro.
 Mas agora que amadureci, a história do Woodstock se torna cada vez mais
 fascinante de aprender.
@@ -46,8 +47,8 @@ que vou referenciar abaixo. Tem uma história muito fascinante
 por detrás do Woodstock que vou descobrir aos poucos.
 
 Mesmo aqueles que tinham 15 anos quando participaram do Woodstock
-original estão bem de idade.. O festival parece que [continua
-aos trancos e barrancos](https://www.yasgurroadreunion.com/)
+original estão bem de idade.. O festival de *contra-cultura*
+parece que [continua aos trancos e barrancos](https://www.yasgurroadreunion.com/)
 graças a ajuda da família do Roy Howards, que detém a propriedade
 da casa do agricultor Max Yasgur e uma pequena parcela de terra
 ao entorno. O sítio original onde ocorreu o Woodstock não
