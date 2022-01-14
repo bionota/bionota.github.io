@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Thu, 13 Jan 2022 15:43:10 -0300</lastBuildDate>
+<lastBuildDate>Fri, 14 Jan 2022 14:26:51 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Thu, 13 Jan 2022 15:43:10
+<description>Current at Fri, 14 Jan 2022 14:26:51
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,22 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#41 Michael Lang e Woodstock</title>
+<pubDate>Fri, 14 Jan 2022 00:00:00 -0300</pubDate>
+<description>Notas e reflexões com a passagem do Michael Lang,
+idealizador e organizador do Festival Woodstock de Música e
+Arte.</description>
+<link>https://bionota.github.io/41/</link>
+<dc:language>pt</dc:language>
+<category>concurso/reflexões/rock'n'roll/memórias/esperança/paz e
+amor</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+20ae903a-5f11-57d6-8cbd-79495d6eb81d</guid>
+<enclosure url="https://bionota.github.io/41/yasgur_farm.jpg"
+length="47726" type="image/jpg" />
+</item>
 <item>
 <title xml:lang="pt">#40 Texto Plano, IBGE e Petrobrás</title>
 <pubDate>Thu, 13 Jan 2022 00:00:00 -0300</pubDate>
