@@ -172,3 +172,15 @@ já deveriam estar tomando ações muito mais vigorosas para que
 esse círculo vicioso possa cessar e termos orgulho de poder
 concorrer com esses ditos engenheiros de igual para igual.
 
+---
+
+Aproveitei e liguei para Cebraspe também, e é claro a atendente não
+souber dar nenhuma informação a respeito do processo de inclusão
+do biólogo nas vagas do concurso. Só me falou que eu poderia
+encaminhar um e-mail à sac@cebraspe.org.br..
+
+Mas estou achando que é perda de tempo meu tentar enviar um e-mail
+para Cebraspe em nome de minha pessoa física.
+Bom, vamos acompanhar o processo do concurso. Mas fica aqui minha
+análise crítica do edital.
+
