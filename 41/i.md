@@ -86,7 +86,7 @@ Hoje, sexta-feira, desejo a todos que o espírito
 de liberdade, paz e amor com a natureza esteja com todos nós!
 
 
-### Lista de Link
+### Lista de Links
 
 <dl>
   <dt><a href="https://www.youtube.com/watch?v=brU33X7c1Do">YASGURS Road Reunion - 2019 50th Woodstock Reunion - Michael Lang Interview & Drum Circle - YouTube</a></dt>
@@ -102,7 +102,7 @@ de liberdade, paz e amor com a natureza esteja com todos nós!
    <dd>Max Yasgur agreed to let Woodstock organizers rent his land to hold their festival. His neighbors never forgave him, but he didn't regret it</dd>
 
   <dt><a href="https://www.youtube.com/watch?v=FXLRDQmZcSE">Woodstock Story With Michael Lang and Henry Diltz</a></dt>
-   <dd>Michael Lang, Woodstock Festival co-creator, and Henry Diltz, rock n roll photographer, share stories about the 1969 Woodstock concert while showing Henry's ...</dd>
+   <dd>Michael Lang, Woodstock Festival co-creator, and Henry Diltz, rock n roll photographer, share stories about the 1969 Woodstock concert.</dd>
 
   <dt><a href="https://www.youtube.com/watch?v=swyfP92Gzdg">Woodstock 40 years on: Michael Lang on the world's most famous music festival</a></dt>
    <dd>In 1969, Michael Lang organised what became the most famous music festival in the world. Four decades on, he looks back in time and history.</dd>
@@ -117,7 +117,7 @@ de liberdade, paz e amor com a natureza esteja com todos nós!
    <dd>Mike still carries himself as a young hippie, Still has a youthful voice despite his older age.</dd>
 
   <dt><a href="https://www.youtube.com/watch?v=58SrSOJuIlI">Sly & The Family Stone Dance To The Music Live Woodstock</a></dt>
-   <dd>Sly & The Family Stone Dance To The Music Live WoodstockLe Festival de Woodstock (Woodstock Music and Art Fair, ou Woodstock) est un festival de musique et ...</dd>
+   <dd>Sly & The Family Stone Dance To The Music Live Woodstock.</dd>
 
   <dt><a href="https://www.youtube.com/watch?v=tQ0PSpHFV_s">Sly The Family Stone Higher And Higher live</a></dt>
    <dd>harto funk para despejar la cabeza!</dd>
@@ -147,7 +147,7 @@ de liberdade, paz e amor com a natureza esteja com todos nós!
    <dd>An interview from a flower child who experienced the woodstock festival in 1969</dd>
 
   <dt><a href="https://en.wikipedia.org/wiki/San_Francisco_(Be_Sure_to_Wear_Flowers_in_Your_Hair)">San Francisco (Be Sure to Wear Flowers in Your Hair)</a></dt>
-   <dd>John Phillips played guitar on the recording and session musician Gary L. Coleman played orchestra bells and chimes. Bass guitar was supplied by session musician.</dd>
+   <dd>John Phillips played guitar on the recording and session musician Gary L. Coleman played orchestra bells and chimes.</dd>
 
   <dt><a href="https://en.wikipedia.org/wiki/Hog_Farm">Hog Farm</a></dt>
    <dd>The Hog Farm is an organization considered America's longest running hippie commune.</dd>

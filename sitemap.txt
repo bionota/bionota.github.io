@@ -43,7 +43,7 @@ https://bionota.github.io/41/
 https://bionota.github.io/about.html
 https://bionota.github.io/cat.html
 https://bionota.github.io/cv.html
-https://bionota.github.io/links.html
+https://bionota.github.io/links/
 https://bionota.github.io/rss.xml
 https://bionota.github.io/rss_alt.xml
 https://bionota.github.io/sitemap.html
