@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Mon, 17 Jan 2022 08:39:36 -0300</lastBuildDate>
+<lastBuildDate>Mon, 17 Jan 2022 09:48:12 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Mon, 17 Jan 2022 08:39:36
+<description>Current at Mon, 17 Jan 2022 09:48:12
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,21 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#42 Análise Edital Petrobrás 2021/2022</title>
+<pubDate>Mon, 17 Jan 2022 00:00:00 -0300</pubDate>
+<description>Apesar de ter perdido o período de inscrição,
+resolvemos fazer uma pequena análise do edital e não ficamos nem um
+pouco felizes em descobrir que eu nem sequer poderia ter me
+inscrito!</description>
+<link>https://bionota.github.io/42/</link>
+<dc:language>pt</dc:language>
+<category>concurso público/estudo/leis/engenharia
+ambiental/conhecimentos específicos</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+3cef1a77-78aa-5760-b7d2-7057b9e2aeea</guid>
+</item>
 <item>
 <title xml:lang="pt">#41 Michael Lang e Woodstock</title>
 <pubDate>Fri, 14 Jan 2022 00:00:00 -0300</pubDate>
