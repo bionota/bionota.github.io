@@ -162,3 +162,23 @@ da Petrobrás, mesmo que me custe usar todas minhas energias para manter
 a calma e prosseguir com uma conversa civilizada ao telefone com
 o povo do CRBio..
 
+---
+
+Ainda não liguei para o CFBio para perguntar pois só começam atendimento
+ao público depois das 9h. Mas estou tentando me acalmar... Nesse interim,
+achei esse artigo muito interessante de onze anos atrás.
+
+> A primeira instância determinara que a Petrobrás publicasse aditamento do edital do concurso, admitindo biólogos com especialização, mestrado ou doutorado em meio ambiente, para disputar as vagas de engenheiro, ou com especialização, mestrado ou doutorado em oceanografia, para concorrer às de analista. O concurso público é realizado pela fundação Cesgranrio. 
+>
+> [Biólogos podem concorrer a vagas de engenheiro e de analista ambiental da Petrobrás](https://trf-2.jusbrasil.com.br/noticias/2532073/biologos-podem-concorrer-a-vagas-de-engenheiro-e-de-analista-ambiental-da-petrobras)
+
+O bom que é minha observação tem algum sentido, segundo que tem
+até precedentes. Mas em terceiro lugar, eu não poderia me inscrever
+para essa vaga pois meus estudos de TCC e mestrado em biologia celular
+e molecular provavelmente não se enquadrariam nos requisitos, apesar
+de uma das definições mais antigas e sinônimo 
+de biologia celular é *engenharia molecular*.
+
+Mas enfim, até explicar que focinho de porco não é tomada,
+esses patetas já nos fizeram perder várias oportunidade de trabalho
+que seriam a nossa cara.
