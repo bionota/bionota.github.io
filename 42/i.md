@@ -188,6 +188,8 @@ análise crítica do edital.
 
 ---
 
+***Atualização***: dia seguinte
+
 Hoje cedo eu escrevi um e-mail para o SAC da Sebraspe.
 Mas analisando melhor uma das retificações, apesar de não incluírem
 o profissional biólogo, **modificaram a síntese de atribuições**
