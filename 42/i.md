@@ -184,3 +184,29 @@ para Cebraspe em nome de minha pessoa física.
 Bom, vamos acompanhar o processo do concurso. Mas fica aqui minha
 análise crítica do edital.
 
+---
+
+Hoje cedo eu escrevi um e-mail para o SAC da Sebraspe.
+Mas analisando melhor uma das retificações, apesar de não incluírem
+o profissional biólogo, **modificaram a síntese de atribuições**
+do cargo para engeheiro ambiental para tentar se eximir
+de corrigirem o verdadeiro erro. Sejam vocês os juízes.
+
+
+Edital original:
+
+> 1.9 ÊNFASE 9: ENGENHARIA AMBIENTAL  
+> [...] 
+> SÍNTESE DAS ATRIBUIÇÕES: atuar nas atividades de gestão e avaliação ambiental, para que as atividades da Companhia 
+> sejam realizadas com o uso sustentável dos recursos naturais e mínimo impacto sobre o ambiente e a sociedade, respeitando 
+
+
+Edital de retificação:
+
+> SÍNTESE DAS ATRIBUIÇÕES: atuar nas atividades de Engenharia Ambiental, tais como, planejamento, projeto, 
+>especificação, estudo de viabilidade técnico-econômica, produção técnica e especializada, execução e fiscalização de 
+>obras e serviços técnicos, referentes à administração, gestão e ordenamento ambientais e ao monitoramento e 
+>mitigação de impactos ambientais, seus serviços afins e correlatos, para que as atividades da Companhia sejam 
+>realizadas com o uso sustentável dos recursos naturais, respeitando as legislações vigentes; executar a fiscalização 
+
+
