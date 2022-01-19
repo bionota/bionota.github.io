@@ -50,7 +50,8 @@ sua jurisdição. Nos requisitos para vaga de engenheiro ambiental, está
 escrito que é necessário <q>bacharelado em Engenharia Ambiental. **Outras 
 formações em Engenharia são aceitas**, desde que acompanhadas de certidão
 emitida pelo respectivo Conselho de Classe, atestando a posse de todas
-as atribuições profissionais de Engenheiro Ambiental.</q>.
+as <a id="petrRet2021">atribuições profissionais de Engenheiro Ambiental</a>.</q>.
+
 
 > 1.9 ÊNFASE 9: ENGENHARIA AMBIENTAL  
 >
@@ -116,8 +117,6 @@ o povo do CRBio..
 Ainda não liguei para o CFBio para perguntar pois só começam atendimento
 ao público depois das 9h. Mas estou tentando me acalmar... Nesse interim,
 achei esse artigo muito interessante de onze anos atrás.
-
-<a id="petrRet2021"></a>
 
 > A primeira instância determinara que a Petrobrás publicasse aditamento do edital do concurso, admitindo biólogos com especialização, mestrado ou doutorado em meio ambiente, para disputar as vagas de engenheiro, ou com especialização, mestrado ou doutorado em oceanografia, para concorrer às de analista. O concurso público é realizado pela fundação Cesgranrio. 
 >
