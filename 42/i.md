@@ -63,7 +63,7 @@ as <a id="petrRet2021">atribuições profissionais de Engenheiro Ambiental</a>.<
 > mitigação de impactos ambientais, seus serviços afins e correlatos, para que as atividades da Companhia sejam 
 > realizadas com o uso sustentável dos recursos naturais, respeitando as legislações vigentes; executar a fiscalização 
 > 
-> Do edital de retificação
+> Edital de retificação da Petrobrás
 
 De qualquer forma, somente há duas vagas para vagas de ampla concorrência.
 Para cadastro de reserva, há dez vagas na ampla concorrência, o que
