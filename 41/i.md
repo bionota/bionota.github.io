@@ -88,6 +88,11 @@ de liberdade, paz e amor com a natureza esteja com todos nós!
 
 ### Lista de Links
 
+Links <a href="../links/#woodstock">movidos para página dedicada</a>.
+
+<!--
+<details>
+    <summary>Woodstock Links</summary>
 <dl>
   <dt><a href="https://www.youtube.com/watch?v=brU33X7c1Do">YASGURS Road Reunion - 2019 50th Woodstock Reunion - Michael Lang Interview & Drum Circle - YouTube</a></dt>
    <dd>This footage has been hidden to me for a while but it was recorded by Joe Davis and the Front Row Dave productions at the Yasgurs Road Reunion 50th anniversary...</dd>
@@ -153,5 +158,6 @@ de liberdade, paz e amor com a natureza esteja com todos nós!
    <dd>The Hog Farm is an organization considered America's longest running hippie commune.</dd>
 
 </dl>
-
+</details>
+-->
 
