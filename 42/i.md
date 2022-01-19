@@ -117,6 +117,8 @@ Ainda não liguei para o CFBio para perguntar pois só começam atendimento
 ao público depois das 9h. Mas estou tentando me acalmar... Nesse interim,
 achei esse artigo muito interessante de onze anos atrás.
 
+<a id="#petrRet2021"></a>
+
 > A primeira instância determinara que a Petrobrás publicasse aditamento do edital do concurso, admitindo biólogos com especialização, mestrado ou doutorado em meio ambiente, para disputar as vagas de engenheiro, ou com especialização, mestrado ou doutorado em oceanografia, para concorrer às de analista. O concurso público é realizado pela fundação Cesgranrio. 
 >
 > [Biólogos podem concorrer a vagas de engenheiro e de analista ambiental da Petrobrás](https://trf-2.jusbrasil.com.br/noticias/2532073/biologos-podem-concorrer-a-vagas-de-engenheiro-e-de-analista-ambiental-da-petrobras), jan/2011.
@@ -205,4 +207,6 @@ Atribuições do edital original:
 >
 > SÍNTESE DAS ATRIBUIÇÕES: atuar nas atividades de gestão e avaliação ambiental, para que as atividades da Companhia 
 > sejam realizadas com o uso sustentável dos recursos naturais e mínimo impacto sobre o ambiente e a sociedade, respeitando 
+
+COmpare com as do <a href="#petrRet2021">edital retificado</a>
 
