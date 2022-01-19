@@ -117,7 +117,7 @@ Ainda não liguei para o CFBio para perguntar pois só começam atendimento
 ao público depois das 9h. Mas estou tentando me acalmar... Nesse interim,
 achei esse artigo muito interessante de onze anos atrás.
 
-<a id="#petrRet2021"></a>
+<a id="petrRet2021"></a>
 
 > A primeira instância determinara que a Petrobrás publicasse aditamento do edital do concurso, admitindo biólogos com especialização, mestrado ou doutorado em meio ambiente, para disputar as vagas de engenheiro, ou com especialização, mestrado ou doutorado em oceanografia, para concorrer às de analista. O concurso público é realizado pela fundação Cesgranrio. 
 >
