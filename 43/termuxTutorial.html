@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--
+                                         _  
+   ._ _  _    .__|_ _.o._  _  _ ._|_ ._ |R|
+   | | |(_)|_|| ||_(_||| |(/_(/_| |_)|  `-' 
+-->
+<title>About / Sobre</title>
+<meta name="resource-type" content="document">
+<meta name="description" content="Tutorial do Termux.">
+<meta name="keywords" content="linux, android, shell, scripts">
+<meta name="distribution" content="global">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- <link rev="made" href="mailto:jamilbio20[[at]]gmail[[dot]]com"> -->
+<link rel="canonical" href="https://bionota.github.io/43/termuxTutorial.html">
+<link rel="shortcut icon" href="../favicon.png" type="image/x-icon">
+
+<link rel="stylesheet" href="../css/style2.css" type="text/css"/>
+<link rel="stylesheet" href="../css/style.css" type="text/css"/>
+</head>
+
+<body>
+<header>
+	<nav class="navbar">
+		<ul>
+			<li><a href="../">Principal</a></li>
+		</ul>
+	</nav>
+
+</header>
+
+<main>
+<p>Caros, uma dica rápida para quem gosta de linha de comando.</p>
+<p>Há algum tempo <a href="https://github.com/termux/termux-app#Installation">descobri o <code>Termux</code></a>, que é uma pequena distribuição de pacotes Linux e um terminal. Funções mais avançadas que eu não falarei muito aqui incluem utilização de aplicativos gráficos.  Também é possível instalar uma distribuição completa, como o Ubuntu ou o Arch, dentro do Termux e rodar aplicativos gráficos dessas distribuições dentro do Termux.</p>
+<h2>Instalação do F-Droid e Termux</h2>
+<p>Primeiramente, vocês deve-se <a href="https://f-droid.org/pt_BR/">instalar o aplicativo <code>F-Droid</code></a> <code>v0.118.0</code> no Android (basta ir no site do F-Droid depois de baixar o arquivo <code>.apk</code> pelo navegador de internet.  O <code>F-Droid</code> é uma loja de distribuição de softwares, um repositório.  Os aplicativos de lá são muito legais e eu uso vários.  São grátis e muitos sem anúncios.</p>
+<p>Após instalar o F-Droid, abra o aplicativo e instale o pacote Termux.</p>
+<p><strong>Não baixar o Termux pela Play Store</strong> pois a versão da PlayStore é defasada e não é mais atualizada, e tem vários bugs. Se instalado da PlayStore e encontrar erros, remova o aplicativo e instale-o via F-Droid. Essa operação irá <em>remover todos os arquivos</em> personalizados do Termux antigo instalado pela PlayStore!</p>
+<p>Outro pacote que pode ser instalado via F-Droid interessante inclui <a href="https://wiki.termux.com/wiki/Termux:API"><code>Termux:API</code></a>, que tem várias ferramentas para se comunicar com o sistema Android, abrir arquivos nos aplicativos do Android, puxar as informações dos sensores do celular via linha de comando (em JSON), setar papel de parede, etc.</p>
+<p>Há o pacote <code>Termux:Widget</code> que traz um widget pro Android com atalhos para acessar e rodar scripts que estiverem em <code>~/.shortcuts</code>, mas não recomendo pois esse widget fez meu sistema Android ficar lento e os scripts em <code>~/.shortcuts</code> devem ser personalizados pois, por exemplo, executam diretamente sem a possibilidade de adicionar argumentos adicionais, a não ser que sejam personalizados..</p>
+<h2>Terminal do Termux</h2>
+<p>O aplicativo principal do Termux é o seu terminal. Ele é um terminal básico com algumas teclas especiais e usa o teclado padrão do sistema Android, também. Para copiar e colar, basta pressionar e segurar para selecionar as linhas e clicar em copiar. Para colar, basta pressionar em qualquer lugar o terminal do Termux e clicar em colar (colará onde estiver o cursor de texto).</p>
+<p>Para acessar e criar novas sessões do Termux, varrer com o dedo da margem da esquerda para direita, onde abrirá uma aba com as sessões de shell do Termux.</p>
+<h2>Acesso de armazenamento</h2>
+<p>Uma vez instalado o Termux, rode o comando <code>termux-setup-storage</code> para configuração de compartilhamento de espaço de disco do aplicativo com o do usuário do sistema do Android e vice-versa.  Esse comando criará uma pasta <code>~/storage</code> e simlinks para <code>/storage/emulated/0</code> que terão acesso aos seus documentos do Android pelos gerenciadores de arquivos.</p>
+<p>A maneira que o Android foi desenvolvido proíbe o usuário de se tornar <code>raiz</code> a não ser que o dispositivo (o celular ou tablet) tenha o bootloader desbloqueado e uma imagem personalizada do Android e compatível com seu celular instalada, procedimento chamado de <code>device rooting</code>. Geralmente imagens de sistema do Android e dicas estão no <a href="https://forum.xda-developers.com">site do XDA</a>.</p>
+<p>Para utilização simples do Termux, não é necessário ser <code>raiz</code> do sistema e não é minha intenção explicar como se tornar <code>raiz</code> do sistema, <em>procedimento arriscadíssimo</em>!! Outra coisa, não se pode <code>rootar</code> o celular com as ferramentas do Termux, porém caso o usuário tenha o aparelho <code>rootado</code>, há um repositório especial no Termux com ferramentas extras, somente úteis nesses aparelhos de casos especiais.</p>
+<p>De qualquer forma, é necessário entender que o sistema do Android tem um esquema de permissões que impossibilita que o usuário acesse diretamente os arquivos do Termux pela interface GUI do Android sem antes rodar o comando <code>termux-setup-storage</code>. Se esse comando não estiver disponível, instale o pacote <code>termux-tools</code> (ver adiante para mais informações).</p>
+<p>O usuário poderá acessar os arquivos do celular com um simples <code>cd ~/storage</code> no Termux. Para acessar os arquivos do Termux pelo Gerenciador de Arquivos, eu utilizo o gerenciador de arquivos padrão do meu celular do sistema Adroid que, se configurado corretamente, mostra um atalho para o armazenamento do Termux. Se você tiver um outro gerenciador de arquivos poderoso, o acesso deve estar desbloqueado e acessível depois de rodar <code>termux-setup-storage</code>.</p>
+<p>As peculiaridades da organização do sistema de arquivos do <a href="https://github.com/termux/termux-packages/wiki/Termux-file-system-layout">Termux</a> e do Android vou deixar para o usuário explorar e pesquisar mais a respeito, se desejar.</p>
+<h2>Ferramentas de sistema</h2>
+<p>O Termux é uma distribuição completa. Ele não utiliza pacotes do sistema Android e tem uma cópia de todas as ferramentas básicas do GNU em seu diretório. O <code>bash</code> vem instalado por padrão, assim, a maioria dos script *poderão rodar no Termux <strong>sem problemas</strong>.</p>
+<h2>Instalação de pacotes</h2>
+<p>O Termux tem um repositório grande de pacotes derivados do Debian, mas cuidado: não é possível, manualmente, pegar um pacote <em>.deb</em> e instalar no Termux. Este não funcionará por que a estrutura de arquivos com as bibliotecas do Termux são diferentes do Debian, não segue padrão <em>FHS</em>.</p>
+<p>Outras diferenças incluem o Termux ser para usuário único e a raíz dos sistema de arquivos do Termux é armazenada como um aplicativo comum, e portanto o usuário tem acesso por padrão.</p>
+<p>Como eu uso bastante a linha de comando, só trouxe <a href="https://github.com/mountaineerbr/dotfiles">meus dotfiles</a> de configuração de shell (<code>.zshrc</code>, <code>.bashrc</code>, <code>.inputrc</code> e tal), gerenciador de arquivos (<code>vifm</code>), editor, texto (vim), cliente de e-mail (mutt), multiplexer (tmux), navegador cli (w3m), conversor de unidades (units) e tudo funcionou super bem!</p>
+<p>Instale o pacote <code>termux-tools</code> se ele ainda não estiver instalado pois é muito importante.</p>
+<p>O comando para instalação de pacotes é o <code>pkg</code>. Na verdade, <code>pkg</code> usa o <code>apt</code> mas faz balanço de carga dos servidores do Termux e por isso é recomendado pelos desenvolvedores..</p>
+<p>Pode-se buscar com <code>pkg search [pacote]</code>, instalar com <code>pkg install [pacote..]</code> e desinstalar com <code>pkg uninstall [pacote..]</code>.</p>
+<p>Para realizar um update nas ferramentas e pacotes do sistema, utilize <code>pkg upgrade</code>.</p>
+<p>Alguns pacotes importantes não vem instalado, portanto recomendo instalar <code>pkg install curl wget man bc git python tree ffmpeg busybox termux-tools android-tools zstd xz-utils</code>.</p>
+<p>Para ver todos os pacotes disponíveis, rode <code>pkg list-all | less -S</code>.</p>
+<h2>Servidores e acesso remoto</h2>
+<p>O Termux oferece acesso pelo <code>ssh</code> ou <code>dropbear</code>.  Eu prefiro usar o <a href="https://wiki.termux.com/wiki/Remote_Access">servidor do Dropbear</a> que é bem simples de configurar, assim posso acessar todos os meus arquivos do meu laptop na rede interna de casa (para ver o endereço de IP local, uso <code>ifconfig</code>).</p>
+<p>Até o <a href="https://www.youtube.com/watch?v=I3gkMeGeo8U"><code>tmate</code></a> está disponível no repositório oficial do Termux, assim poderá acessar seu celular fora da rede doméstica, até por um web browser!</p>
+<h2>Mudança de shell padrão e dicas para scripts</h2>
+<p><a href="https://wiki.termux.com/wiki/Shells">Algumas shells</a> estão disponíveis nos repositórios do Termux.</p>
+<p>Para mudar a shell padrão, simplesmente rode <code>chsh -s [shell]</code> depois de instalados os pacotes necessários.</p>
+<p>Consegui rodar <a href="https://github.com/mountaineerbr/scripts">todos os meus scripts</a> com quase todas as funções depois de instalar os pacotes necessários.</p>
+<p>Além disso, para conseguir rodar seus scripts, atente-se à variável do <code>$PATH</code>, que já deve estar automaticamente configurada para as shells do Termux.</p>
+<p>A variável <code>$TMPD</code> é configurada automaticamente pelo Termux e é utilizada pelo <code>bash</code> e outros aplicativos, como o <code>mktemp</code> para criar arquivos temporários no diretório correto.  Lembre-se que o sistema do Termux não segue uma hierarquia tradicional e portanto o diretório <code>/tmp</code> não é acessível! Quando for ajustar seus scripts, sempre utilize algo como <code>${TMPD:-/tmp}</code>..</p>
+<p>Atente-se também que o caminho de <code>raiz</code> do sistema está na variável <a href="https://wiki.termux.com/wiki/Differences_from_Linux"><code>$PREFIX</code></a>.</p>
+<h2>Acessar clipboard do Android e abrir arquivos nos aplicativos do Android</h2>
+<p>Para definir o que está na área de transferência do Android, use o comando <code>termux-clipboard-set</code>, como por exemplo <code>echo &quot;Exemplo de text&quot; | termux-clipboard-set</code>.</p>
+<p>Já para abrir arquivos nos aplicativos do Android, é necessário configurar antes o arquivo do Termux. Na versão <code>v0.118.0</code> o desenvolvedor do Termux desabilitou uma propriedade por motivos de segurança. Assim, para conseguirmos abrir documentos de texto, fotos ou vídeos pelo terminal do termux, precisamos antes <a href="https://github.com/termux/termux-tasker#allow-external-apps-property-optional">reabilitar essa propriedade</a> no arquivo de configuração <code>~/.termux/termux.properties</code>.  Basta adicionar a opção <code>allow-external-apps=true</code> nesse arquivo e recarregar a sessão do Termux com <code>termux-reload-settings</code>.</p>
+<p>Assim, poderá abrir uma imagem com o comando <code>termux-open ~/Download/imagem.jpeg</code> no aplicativo padrão do Android!</p>
+<p>Para escolher qual aplicativo deve abrir o arquivo, <code>termux-open --choose ~/Download/texto.txt</code>.</p>
+<p>Por fim, tenho alguns atalhos no meu <code>.bashrc</code> para lidar melhor com algumas funções do Termux:</p>
+<pre><code># ~/.bashrc
+
+#Android Termux
+alias open=termux-open
+alias o=open
+function O() { termux-open --content-type=&quot;$(file --mime-type -b &quot;$1&quot;)&quot; &quot;$1&quot; ;} #abre arquivos sem extensão
+alias oc='open --choose'
+alias send='open --send'
+alias s=send
+alias S='termux-share' #file or stdin
+alias gps='termux-location -p gps'
+alias D='termux-download' #url
+</code></pre>
+<h2>Recursos e Ajuda</h2>
+<p><a href="https://www.reddit.com/r/termux/">Redit</a></p>
+<p><a href="https://wiki.termux.com/wiki/Main_Page">Wiki</a></p>
+<p><a href="https://github.com/termux/termux-app">GitHub</a></p>
+</body>
+</html>
