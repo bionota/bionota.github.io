@@ -62,6 +62,7 @@ as <a id="petrRet2021">atribuições profissionais de Engenheiro Ambiental</a>.<
 > obras e serviços técnicos, referentes à administração, gestão e ordenamento ambientais e ao monitoramento e 
 > mitigação de impactos ambientais, seus serviços afins e correlatos, para que as atividades da Companhia sejam 
 > realizadas com o uso sustentável dos recursos naturais, respeitando as legislações vigentes; executar a fiscalização 
+> técnica e administrativa dos contratos de bens e serviços. 
 > 
 > Edital de retificação da Petrobrás
 
