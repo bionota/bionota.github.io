@@ -206,6 +206,7 @@ Atribuições do edital original:
 >
 > SÍNTESE DAS ATRIBUIÇÕES: atuar nas atividades de gestão e avaliação ambiental, para que as atividades da Companhia 
 > sejam realizadas com o uso sustentável dos recursos naturais e mínimo impacto sobre o ambiente e a sociedade, respeitando 
+> as legislações vigentes; executar a fiscalização técnica e administrativa dos contratos de bens e serviços. 
 
 Compare com as do <a href="#petrRet2021">edital retificado</a>.
 
