@@ -211,3 +211,8 @@ Atribuições do edital original:
 
 Compare com as do <a href="#petrRet2021">edital retificado</a>.
 
+---
+
+***Atualização***: fiz algumas ligações e [escrevi um e-mail](cfbioEmail.html)
+para o CFBio e CRBio da minha região,
+como haviam me requisitado.
