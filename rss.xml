@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Thu, 20 Jan 2022 19:29:32 -0300</lastBuildDate>
+<lastBuildDate>Tue, 25 Jan 2022 21:11:27 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Thu, 20 Jan 2022 19:29:32
+<description>Current at Tue, 25 Jan 2022 21:11:27
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,18 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#44 Olavo se Vai, Filosofia Continua</title>
+<pubDate>Tue, 25 Jan 2022 00:00:00 -0300</pubDate>
+<description>Relembrando um pouco minha trajetória de estudos
+filosóficos e Olavo de Carvalho.</description>
+<link>https://bionota.github.io/44/</link>
+<dc:language>pt</dc:language>
+<category>dialética/retórica/opinião/pontos de vista</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+0f45bfe8-e1f6-5315-b2f5-267706ae96be</guid>
+</item>
 <item>
 <title xml:lang="pt">#43 Terminal pro Android - Termux</title>
 <pubDate>Thu, 20 Jan 2022 00:00:00 -0300</pubDate>
