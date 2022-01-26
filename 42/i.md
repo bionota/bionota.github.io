@@ -216,3 +216,22 @@ Compare com as do <a href="#petrRet2021">edital retificado</a>.
 ***Atualização***: fiz algumas ligações e [escrevi um e-mail](cfbioEmail.html)
 para o CFBio e CRBio da minha região,
 como haviam me requisitado.
+
+---
+
+***Atualização***: hoje, dia 26/jan, recebi uma resposta do Cebraspe
+por e-mail. Notem que sou dirigido como <q>Prezado(a)</q>.
+
+
+> Prezado(a), 
+> 
+> Esclarecemos que o órgão contratante define o requisito para o respectivo cargo e será exigido do candidato exatamente o que está expresso no edital como requisito para investidura no cargo.
+> 
+> Atenciosamente, Cebraspe
+
+Ou seja, sequer olharam a decisão judicial que enviei no meu e-mail
+original (o mesmo artigo do JusBrasil exposto aqui neste post).
+O negócio seria realmente elevar o questionamento e falar diretamente
+com a Petrobrás.. O CFBio e o CRBio ainda não responderam meus e-mails,
+então acho que ficaremos sozinhos nessa..
+
