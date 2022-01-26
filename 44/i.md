@@ -140,7 +140,8 @@ Por exemplo, agora sigo um filósofo de esquerda,
 mas já aviso que também não sou de esquerda (nem de direita, para não restar dúvidas)..
 
 A [filha do Olavo](https://noticias.uol.com.br/politica/ultimas-noticias/2022/01/25/filha-olavo-de-carvalho-morte.htm)
-parece ser uma pessoa mais amena e razoável. Não fico muito triste
+parece ser uma pessoa mais amena e [razoável](https://www.youtube.com/watch?app=desktop&v=xJPVnYeJgkA).
+Não fico muito triste
 com a partida de Olavo pois os brasileiros estavam o levando a sério
 demais, mas também não fico feliz de não poder mais ouví-lo..
 
