@@ -80,16 +80,12 @@ parecido com um polvo para me eximir de influências humanas.
 
 Abaixo, uma resposta a um tópico no twttr sobre esse estudo científico.
 
-> Antonio Dominguez
-> 
-> @AntonioSLW 16 Dec 2021
-> 
 > Replying to @MU_Peter
 > 
 > Parte del ciclo de la naturaleza. Nunca fueron tantos humanos como para extinguir especies enteras. Solo hay que ver cementerios naturales donde se encuentran varias especies en grandes cantidades.
 > Seguir pensando que tenemos tanto poder es ridículo. la naturaleza es la grande.
 >
-> <https://twitter.com/MU_Peter/status/1471487834607468551>
+> [Antonio Dominguez, @AntonioSLW 16 Dec 2021](https://twitter.com/MU_Peter/status/1471487834607468551)
 
 ---
 
