@@ -19,7 +19,7 @@ Um estudo interessante que saiu há pouco tempo determina
 que o ser humano foi responsável pela extirpação e extinção
 de algumas espécies em alguns lugares no mundo.
 
-> Pela primeira vez, argumentamos que a força motriz por trás do aprimoramento constante da tecnologia humana é o declínio contínuo do tamanho do jogo. Em última análise, pode muito bem ser que, há 10.000 anos, no sul do Levante, os animais tenham se tornado pequenos ou raros demais para fornecer comida suficiente aos humanos, e isso pode estar relacionado ao advento da agricultura.
+> Pela primeira vez, argumentamos que a força motriz por trás do aprimoramento constante da tecnologia humana é o declínio contínuo do *tamanho da caça*. Em última análise, pode muito bem ser que, há 10.000 anos, no sul do Levante, os animais tenham se tornado pequenos ou raros demais para fornecer comida suficiente aos humanos, e isso pode estar relacionado ao advento da agricultura.
 
 <figure>
 	<figcaption>Figura 1. Ao longo do Pleistoceno, novas linhagens humanas caçaram presas cada vez menores do que as anteriores.</figcaption>
@@ -40,47 +40,71 @@ de algumas espécies em alguns lugares no mundo.
 
 </ul>
 
-Apesar de resultados interessantes, fico um pouco com o pé meio atrás
-sobre as conclusões do estudo que dizem que mudanças climáticas tiveram
+Apesar de resultados interessantes, fico com o pé meio atrás
+sobre as conclusão do estudo que diz que mudanças climáticas tiveram
 pouca, se alguma, influência na extinção de espécies no último
-milhão e meio de anos no Levant. Acho muito suspeito descartar
+milhão e meio de anos no *Levant*. Acho muito suspeito descartar
 mudanças de clima e geológicas tão facilmente como os autores
-fazem no artigo.
+fazem no artigo, assim como outros autores descartam facilmente
+demais certos argumentos e circunstâncias..
 
 Ainda não tive tempo de ler o artigo inteiro, mas tenho certeza que
 várias partes do artigo podem ser usadas para substanciar
 nossas pesquisas sobre biodiversidade..
 
-Mas de forma geral, esse artigo de certa forma nos redime de algum pecado
+De certa geral, esse artigo nos redime de pecado
 com relação a extinção de certas espécies. A *condição* do surgimento
 do ser humano foi a caça e nunca um cérebro como o nosso poderia
-ser energeticamente suprido com somente vegetais.
+ser energeticamente suprido com vegetais somente.
 
 Ao mesmo tempo, o artigo infere que os ecossistemas estão se adaptando
 à influência do ser humano há pelo menos 1,5 milhões de anos. Seria
-idiotice achar que o planeta Terra tem *sofrido* com a existência do ser
+idiotice achar que o *planeta Terra tenha sofrido* com a existência do ser
 humano ao longo desse período. Não no esqueçamos que populações
 de hominídeos não eram tão grandes assim no passado..
 
 Um cientista extraterrestre ao observar a história na Terra não deveria
-achar que o ser humano é a *escória do planeta Terra*. Na verdade, é uma
+achar o ser humano a *escória do planeta Terra*. Na verdade, é uma
 espécie belíssima que se desenvolveu graças a uma estrutura de suporte
-estabelecida na Terra pela vida inferior e que interagem entre si, mas
-o ser humano é somente um parafuso nessa grande engrenagem de Gaia.
+estabelecida pela vida inferior na Terra e quais espécies interagem entre si.
+O ser humano é somente um parafuso nessa grande engrenagem de Gaia.
 
 Na verdade, tento
-analisar a existência humano com a perspectiva de um cientista com um
+analisar a existência do ser humano com a perspectiva de um cientista com um
 corpo diferente e de outro planeta, por exemplo, um cientista alienígena
 parecido com um polvo para me eximir de influências humanas.
 
-<!--
-Antonio Dominguez
-@AntonioSLW
-16 Dec 2021
-Replying to @MU_Peter
+---
 
-Parte del ciclo de la naturaleza. Nunca fueron tantos humanos como para extinguir especies enteras. Solo hay que ver cementerios naturales donde se encuentran varias especies en grandes cantidades.
-Seguir pensando que tenemos tanto poder es ridículo. la naturaleza es la grande.
+Abaixo, uma resposta a um tópico no twttr sobre esse estudo científico.
 
-https://twitter.com/MU_Peter/status/1471487834607468551
--->
+> Antonio Dominguez
+> 
+> @AntonioSLW 16 Dec 2021
+> 
+> Replying to @MU_Peter
+> 
+> Parte del ciclo de la naturaleza. Nunca fueron tantos humanos como para extinguir especies enteras. Solo hay que ver cementerios naturales donde se encuentran varias especies en grandes cantidades.
+> Seguir pensando que tenemos tanto poder es ridículo. la naturaleza es la grande.
+>
+> <https://twitter.com/MU_Peter/status/1471487834607468551>
+
+---
+
+Há também um resultado interessante de pesquisa publicada pelo 
+[Wrightstone (2019)](https://wattsupwiththat.com/2019/05/27/gregory-wrightstone-exposing-the-mass-extinction-lie/),
+também comentada no livro do Patrick Moore de 2021.
+
+<blockquote>
+<p lang="en" title="During the last 100 years the number of extinctions has declined by about 80 percent, largely due to efforts by naturalists, hunters, environmentalists, and politicians that gave their time to this cause (see Fig. 48).">Durante os últimos 100 anos, o número de extinções diminuiu cerca de 80%, em grande parte devido aos esforços de naturalistas, caçadores, ambientalistas e políticos que dedicaram seu tempo a essa causa (ver Fig. 48).</p>
+<p><a href="https://www.amazon.com.br/Fake-Invisible-Catastrophes-Threats-English-ebook/dp/B08T6FFY6S" lang="en" hreflang="en">Fake Invisible Catastrophes and Threats of Doom (2019)</a>, Patrick Moore</p>
+</blockquote>
+
+
+<figure>
+	<figcaption>Figura 2. 
+Gráfico de todas as extinções de espécies de 1870 a 2009. Há uma clara tendência de queda à medida que foram adotados programas para evitar a extinção de espécies. Houve 413 extinções durante esses 140 anos. Isso representa 0,025% das 1,6 milhão de espécies conhecidas hoje e apenas 0,005% das supostas 8,7 milhões de espécies “estimadas”. É absurdo comparar esse número com as cinco grandes extinções que ocorreram nos últimos 500 milhões de anos, quando mais de 50% até 95% das espécies foram extintas em um período muito curto de tempo.</figcaption>
+	<img src="moore2021.png" alt="book graph" width="451" height="602">
+</figure>
+
+

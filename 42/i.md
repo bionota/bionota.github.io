@@ -30,15 +30,15 @@ eventualmente...
 Mas a análise do edital me fez muito bem. Primeiro, posso verificar que
 a remuneração mínima é de *R$ 11.716,82*, o que é bem estimulante.
 Mas lendo o ponto
-<q>11.5 O prazo de validade deste processo seletivo público esgotar-se-á
+<q>11.5 &nbsp; O prazo de validade deste processo seletivo público esgotar-se-á
 em 12 meses [..] podendo vir a ser prorrogado, uma única vez, por igual período [..]</q>,
 fico imaginando qual seria o salário de um *concurso público* de carreira 
 (e não *processo seletivo* temporário)..
 
-Há muitas vagas para engenheiras, como civil, de equipamentos (elétrica, 
+Há muitas vagas para engenharias, como civil, de equipamentos (elétrica, 
 eletrônica, mecânica..), de petróleo, de processamento, de produção, naval 
 e também para geologia, física. A única área que parece ser próxima do meu
-treinamento é a de **engenharia ambiental** (ênfase 9), porém verificando
+treinamento é a **engenharia ambiental** (ênfase 9), porém verificando
 os requisitos de admissibilidade, é necessário ter uma formação
 estrita em engenharia ambiental.
 
@@ -46,8 +46,8 @@ Sei que os conselhos de engenharia são muito fortes
 (se não me engano só há *um* conselho de engenharia, e portanto tão forte,
 mas nunca me interessei em verificar melhor...), mas é descarado o tamanho
 do poder que detém para se auto beneficiar em eventuais circunstâncias sob
-sua jurisdição. Nos requisitos para vaga de engenheiro ambiental, está
-escrito que é necessário <q>bacharelado em Engenharia Ambiental. **Outras 
+sua jurisdição. Nos requisitos para vaga de engenheiria ambiental, está
+escrito ser necessário <q>bacharelado em Engenharia Ambiental. **Outras 
 formações em Engenharia são aceitas**, desde que acompanhadas de certidão
 emitida pelo respectivo Conselho de Classe, atestando a posse de todas
 as <a id="petrRet2021">atribuições profissionais de Engenheiro Ambiental</a>.</q>.
@@ -66,20 +66,22 @@ as <a id="petrRet2021">atribuições profissionais de Engenheiro Ambiental</a>.<
 > 
 > Edital de retificação da Petrobrás
 
-De qualquer forma, somente há duas vagas para vagas de ampla concorrência.
+De qualquer forma, somente há duas vagas na ampla concorrência para o cargo.
 Para cadastro de reserva, há dez vagas na ampla concorrência, o que
-poderia fazer valer a pena a inscrição nesse concurso pois é uma esperança
-de ser chamado que poderia valer a pena..
+poderia fazer valer a pena pois é certa esperança
+ser convocado..
 
 Alternativamente, pensei que poderia ter me inscrito na *ênfase 7* de
 ciência de dados, pois somente é necessário diploma de ensino superior
-de graduação. Verificando os conhecimentos específicos necessário
-para essas vagas, ficou claro que seria difícil estudar todos os tópicos
-a tempo, ainda mais por que não tenho familiaridade com nenhum deles,
+de graduação. Verificando os conhecimentos específicos necessários
+para o cargo de ciência de dados, ficou claro que seria difícil estudar todos os tópicos
+a tempo, ainda mais por que não tenho profundo conhecimento
+com nenhum deles,
 como por exemplo, cálculo, um monte de análise estatística e conceitos
 em redes neurais artificiais, economia e contabilidade..
 
-O conteúdo específico para engenharia ambiental incluem tratamento e
+O conteúdo específico para engenharia ambiental incluem no Bloco I
+tratamento e
 gerenciamento de resíduos, recursos hídricos, gestão de efluentes,
 camada de ozônio, poluentes atmosféricos, fontes de emissão na indústria
 de petróleo, efeito estufa, gases de efeito estufa, precificação
@@ -91,27 +93,28 @@ gestão ambiental, licenciamento. Bloco III com geologia, hidrologia
 e outros temas que se sobrepõe.
 
 Não vejo **absolutamente nada** de competência de engenheiro ambiental
-que um biólogo não pode deter. Os temas de conhecimento específico
-são realmente genéricos sob domínio de biologia. Fico com grande
+que um biólogo não possa deter. Os temas de conhecimento específico
+são realmente genéricos sob domínio da biologia. Fico com grande
 desgosto ao ver esse tipo de injustiça contra nossa classe que está
 sendo tomada por profissionais de outras áreas relacionadas, como
-engenheiros agrônomos e ambientais.
+engenheiros agrônomos e ambientais, técnicos de bacias e veterinários.
 
 Nem mesmo nos editais seguintes de correção foram os biólogos incluídos.
-Na verdade, basta que um biólogo com registro no conselho de classe
-realizar um pedido para que o CRBio ou CFBio entrem com advogados
-para inclusão da classe no concurso, visto que os conhecimentos
+Na verdade, bastava que um biólogo com registro no conselho de classe
+realizasse um pedido para que o CRBio ou CFBio entre com advogados
+para inclusão da nossa classe no concurso da Petrobrás,
+visto que os conhecimentos
 específicos referentes às vagas de engenharia ambiental são
 todas de competência dos biólogos.
 
-No momento meu registro no CRBio da minha região encontra-se suspenso
-após um pedido meu para não realização de pagamento da anualidade,
+No momento meu registro no CRBio encontra-se suspenso
+após um pedido para não realização de pagamento da anualidade,
 visto que não estou trabalhando na área e nem gerando salário atualmente.
 Estou pensando em ligar para Curitiba e ver o que eles
 podem me dizer do por que o biólogo não estar incluído nesse concurso
-da Petrobrás, mesmo que me custe usar todas minhas energias para manter
+da Petrobrás, mesmo que me custe usar todas energias para manter
 a calma e prosseguir com uma conversa civilizada ao telefone com
-o povo do CRBio..
+o povo do CFBio..
 
 ---
 
@@ -127,8 +130,8 @@ O bom que é minha observação tem algum sentido, segundo que tem
 até precedentes. Mas em terceiro lugar, eu não poderia me inscrever
 para essa vaga pois meus estudos de TCC e mestrado em biologia celular
 e molecular provavelmente não se enquadrariam nos requisitos, apesar
-de uma das definições mais antigas e sinônimo 
-de biologia celular é *engenharia molecular*.
+de uma das definições mais antigas e sinônima
+de biologia celular ser *engenharia molecular*.
 
 Mas enfim, até explicar que focinho de porco não é tomada,
 esses patetas já nos fizeram perder várias oportunidade de trabalho
@@ -192,7 +195,7 @@ análise crítica do edital.
 
 ***Atualização***: dia seguinte
 
-Hoje cedo eu escrevi um e-mail para o SAC da Sebraspe.
+Hoje cedo eu escrevi um e-mail para o SAC da Cebraspe.
 Mas analisando melhor uma das retificações, apesar de não incluírem
 o profissional biólogo, **modificaram a síntese de atribuições**
 do cargo para engeheiro ambiental para tentar se eximir
