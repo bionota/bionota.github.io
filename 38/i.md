@@ -40,8 +40,10 @@ de algumas espécies em alguns lugares no mundo.
 
 </ul>
 
-Apesar de resultados interessantes, fico com o pé meio atrás
-sobre as conclusão do estudo que diz que mudanças climáticas tiveram
+Apesar de resultados interessantes que podem evidenciar que
+o ser humano pode sim *matar demais* certas presas (<span lang="en">overkill</span>),
+fico com o pé meio atrás
+sobre a conclusão do estudo que diz que mudanças climáticas tiveram
 pouca, se alguma, influência na extinção de espécies no último
 milhão e meio de anos no *Levant*. Acho muito suspeito descartar
 mudanças de clima e geológicas tão facilmente como os autores
