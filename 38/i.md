@@ -97,7 +97,7 @@ também comentada no livro do Patrick Moore de 2021.
 
 <blockquote>
 <p lang="en" title="During the last 100 years the number of extinctions has declined by about 80 percent, largely due to efforts by naturalists, hunters, environmentalists, and politicians that gave their time to this cause (see Fig. 48).">Durante os últimos 100 anos, o número de extinções diminuiu cerca de 80%, em grande parte devido aos esforços de naturalistas, caçadores, ambientalistas e políticos que dedicaram seu tempo a essa causa (ver Fig. 48).</p>
-<p><a href="https://www.amazon.com.br/Fake-Invisible-Catastrophes-Threats-English-ebook/dp/B08T6FFY6S" lang="en" hreflang="en">Fake Invisible Catastrophes and Threats of Doom (2019)</a>, Patrick Moore</p>
+<p><a href="https://www.amazon.com.br/Fake-Invisible-Catastrophes-Threats-English-ebook/dp/B08T6FFY6S" lang="en" hreflang="en">Fake Invisible Catastrophes and Threats of Doom (2021)</a>, Patrick Moore</p>
 </blockquote>
 
 
