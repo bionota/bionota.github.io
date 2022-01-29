@@ -11,23 +11,23 @@
 	-->
   <url>
     <loc>https://bionota.github.io/sitemap.xml</loc>
-    <lastmod>2022-01-28T17:15:11+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://bionota.github.io/sitemap.txt</loc>
     <lastmod>2022-01-28T17:18:40+00:00</lastmod>
   </url>
   <url>
+    <loc>https://bionota.github.io/sitemap.txt</loc>
+    <lastmod>2022-01-29T16:10:33+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://bionota.github.io/sitemap.html</loc>
-    <lastmod>2022-01-28T17:15:11+00:00</lastmod>
+    <lastmod>2022-01-28T17:18:40+00:00</lastmod>
   </url>
   <url>
     <loc>https://bionota.github.io/rss_alt.xml</loc>
-    <lastmod>2022-01-28T17:18:39+00:00</lastmod>
+    <lastmod>2022-01-29T16:10:32+00:00</lastmod>
   </url>
   <url>
     <loc>https://bionota.github.io/rss.xml</loc>
-    <lastmod>2022-01-28T17:18:39+00:00</lastmod>
+    <lastmod>2022-01-29T16:10:32+00:00</lastmod>
   </url>
   <url>
     <loc>https://bionota.github.io/links/</loc>
@@ -39,11 +39,15 @@
   </url>
   <url>
     <loc>https://bionota.github.io/cat.html</loc>
-    <lastmod>2022-01-28T17:18:39+00:00</lastmod>
+    <lastmod>2022-01-29T16:10:32+00:00</lastmod>
   </url>
   <url>
     <loc>https://bionota.github.io/about.html</loc>
     <lastmod>2021-12-30T18:37:24+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://bionota.github.io/45/</loc>
+    <lastmod>2022-01-29T16:10:31+00:00</lastmod>
   </url>
   <url>
     <loc>https://bionota.github.io/44/</loc>
@@ -223,9 +227,9 @@
   </url>
   <url>
     <loc>https://bionota.github.io/</loc>
-    <lastmod>2022-01-28T17:15:11+00:00</lastmod>
+    <lastmod>2022-01-29T15:01:22+00:00</lastmod>
   </url>
 
 </urlset>
-<!-- generated-on="2022-01-28T17:18:40+00:00" -->
-<!-- items="54" -->
+<!-- generated-on="2022-01-29T16:10:33+00:00" -->
+<!-- items="55" -->

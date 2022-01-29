@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Fri, 28 Jan 2022 14:18:33 -0300</lastBuildDate>
+<lastBuildDate>Sat, 29 Jan 2022 13:10:31 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Fri, 28 Jan 2022 14:18:33
+<description>Current at Sat, 29 Jan 2022 13:10:31
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,18 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#45 Mais Frustração</title>
+<pubDate>Sat, 29 Jan 2022 00:00:00 -0300</pubDate>
+<description>To num dia meio para baixo hoje, só escrevendo uns
+pensamentos..</description>
+<link>https://bionota.github.io/45/</link>
+<dc:language>pt</dc:language>
+<category>carreira/trabalho/realização de vida/profissão</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+d519c67a-f679-5a76-abbc-6cf078ef264b</guid>
+</item>
 <item>
 <title xml:lang="pt">#44 Olavo se Vai, Filosofia Continua</title>
 <pubDate>Tue, 25 Jan 2022 00:00:00 -0300</pubDate>
