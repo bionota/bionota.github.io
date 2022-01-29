@@ -73,7 +73,7 @@ da cerveja mas ainda dou umas derrapadas de vez em quando)...
 Mas vamos ver, também não tenho o que reclamar do jornalista pois ele
 é gente boa. E o texto eu gostei muito de produzir,
 adquiri um bom conhecimento sobre biodiversidade! É só uma pena
-que não posso usá-lo para responder questões de concursos públicos,
+que não poder utilizá-lo para responder questões de concursos públicos,
 já que se espera respostas dizendo que a biodiversidade está diminuindo,
 que o ser humano está destruindo tudo e tal.
 
@@ -100,7 +100,7 @@ para apresentá-lo a uma plateia mas isso *pode* ocorrer como *pode não* ocorre
 e pode ocorrer só depois de alguns anos do artigo publicado..
 
 O Brian Fox, desenvolvedor da <span lang="en">shell</span> Bash,
-falou em uma de suas palestras que a fama <q>só demorou uns 20 anos</a>.
+falou em uma de suas palestras que a fama <q>só demorou uns 20 anos</q>.
 Vi outras pessoas comentarem uma coisa parecida, depois de se produzir
 algo verdadeiramente bom, deve-se esperar uns dez, 20 anos para que seja reconhecido..
 Assim, pode ser que eu tenha uns 40 ou 50 anos quando me chamarem para
