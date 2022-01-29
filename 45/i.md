@@ -108,7 +108,7 @@ minha primeira palestra! rs..
 
 Acho que essa consideração sobre a publicação do artigo de biodiversidade
 é importante nesse momento e parte da minha frustração provém dessa
-situação...
+situação..
 
 Mas tem mais.. Tenho lido vários relatos de biólogos modernos e antigos,
 e eles tem ou tiveram uma vida sensacional, cheia de viagens pelo Brasil
