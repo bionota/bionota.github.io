@@ -159,5 +159,9 @@ Richard Jakubaszko, que conhecem o Brasil inteiro e os seus biomas,
 são respeitados na sua área por pares (e tem pares!) e vivem
 trabalhando com o que gostam.. Um sonho!
 
-
+Bom, vamos tentar nos animar e aproveitar a saúde, minha e de minha
+família.. Sei que sou privilegiado em certos pontos, a saúde
+dos meus familiares e amigos é extremamente importante e
+devo aproveitar esse período que todos estão bem. O resto,
+a gente deve correr atrás..
 
