@@ -77,8 +77,8 @@ que não poder utilizá-lo para responder questões de concursos públicos,
 já que se espera respostas dizendo que a biodiversidade está diminuindo,
 que o ser humano está destruindo tudo e tal.
 
-Na verdade, se o texto for realmente publicado e o jornalista não se
-encanar comigo de vez, eu devo meter na minha cabeça que isso foi uma conquista.
+Na verdade, se o jornalista não se encanar comigo de vez e
+o texto for realmente publicado, devo meter na minha cabeça que isso foi uma conquista.
 Faz um tempinho que falei com o jornalista da última vez. Mandei uma
 mensagem legal para ele ontem, ele visualizou mas não respondeu ainda
 (isso me dá nos nervos, rs).
@@ -115,7 +115,7 @@ e eles tem ou tiveram uma vida sensacional, cheia de viagens pelo Brasil
 e pelo mundo, conheceram diversas culturas e biomas, alguns
 fazendo pesquisa ou outro tipo de trabalho.. 
 Viajei pro outro lado do mundo (Japão)
-quando tinha 16 anos, não sei onde foi toda aquela coragem!
+quando tinha 16 anos, não sei onde foi parar toda aquela coragem!
 Agora
 olho para mim, já to ficando velho e sem coragem de encarar o mundo.
 To me achando meio *fracassado* nesse ponto, por não conseguir
