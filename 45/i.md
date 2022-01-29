@@ -52,7 +52,7 @@ não resultaram em nenhum chamamento/oportunidade
 e acredito que em plena crise econômica ninguém deve chamar.
 Ainda tenho certa esperança disso ocorrer até final de fevereiro
 ou março.. Depois disso, realmente não há como esperar mais resposta!
-As aulas, inclusive, já começaram..
+As aulas *ainda não* começaram, quem sabe ainda há uma chance boa..
 
 Escrevi para muitas pessoas importantes e que admiro 
 da área de biologia e quase ninguém respondeu
