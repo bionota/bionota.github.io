@@ -118,4 +118,6 @@ no arquivo..
 
 <li><a href="steadman1995.pdf">The prehistoric extinction of south pacific birds: catastrophy versus attrition, Steadman, 1995.</a></li>
 
+<li>IPC: <a href="https://news.mongabay.com/2021/02/study-reveals-how-species-once-extinct-in-the-wild-have-bounced-back/amp/">Study reveals how species once extinct in the wild have bounced back, 2021.</a></li>
+
 </ul>
