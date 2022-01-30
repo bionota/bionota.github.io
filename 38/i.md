@@ -112,9 +112,10 @@ no arquivo..
 
 
 <ul>
+<li><a href="Paleoecologia_completo.pdf">Modelos Ecológicos e a Extinção da Megafauna: Clima e Homem na América do Sul, Lima-Ribeiro e Diniz-Filho, 2013.</a></li>
+
 <li><a href="milberg1993.pdf">Naïve Birds and Noble Savages: A Review of Man-Caused Prehistoric Extinctions of Island Birds, Milberg e Tyrberg, 1993.</a></li>
 
 <li><a href="steadman1995.pdf">The prehistoric extinction of south pacific birds: catastrophy versus attrition, Steadman, 1995.</a></li>
 
-<li><a href="Paleoecologia_completo.pdf">Modelos Ecológicos e a Extinção da Megafauna: Clima e Homem na América do Sul, Lima-Ribeiro e Diniz-Filho, 2013.</a></li>
 </ul>
