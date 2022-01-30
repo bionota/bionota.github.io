@@ -164,3 +164,65 @@ dos meus familiares e amigos é extremamente importante e
 devo aproveitar esse período que todos estão bem. O resto,
 a gente deve correr atrás..
 
+---
+
+Atualização: dia seguinte.
+
+Ontem de noie, ocorreu algo bem legal e inesperado. Minha mãe pediu
+para conversar comigo um pouco sobre amenidades, mas no meio do percurso
+a conversa pegou uma tangente importante.
+
+Na verdade semana anterior,
+um amigo havia me enviado um edital para
+[bolsa de doutoramento no Japão](http://portal.utfpr.edu.br/noticias/geral/tamo-junto/aberta-pre-selecao-para-doutorado-no-japao) e comentei com minha mãe a esse respeito.
+O sonho dela é eu fazer doutorado..
+
+É uma oportunidade bem interessante, recebe-se por volta de seis mil reais
+por mês de bolsa mais as passagens de ida e volta. Dentre os requisitos
+estão ter ou ter tido um vínculo com a UTFPR
+e ter nascido no máximo em 1987. Bom, como não tenho vínculo
+nenhum com a UTFPR, eu não poderia concorrer a essa bolsa especificamente,
+mas minha *alma mater* tem um vínculo bem forte com entidades do governo
+japonês e provavelmente ela também deve ter oportunidades de bolsa
+de estudos..
+
+Sem ela saber do meu blog ou da frustração que expus no no começo desse
+post, começamos a conversar sobre a bolsa de estudos do Japão pois
+ela estava curiosa. No meio da conversa, falei da minha
+preocupação com ela e com meu pai, por estarem sozinhos, e ela ficou
+surpresa. Não imaginava que eu pensasse assim..
+
+Mas foi muito bom por que ela me garantiu que deseja me ver correndo
+atrás da minha carreira e que isso até iria dar um grande alívio
+para ela, pois diz que fica muito preocupada com meu futuro.
+
+Acredito que eu tenho condições de me virar sozinho, se necessário,
+e não me preocupo muito com dinheiro já não sou muito gastão
+(gosto da ideia de minimalismo) e acredito na minha capacidade
+de trabalho, mesmo que for para dar aulas, fazer Uber ou
+me tornar atendente de caixa ou repositor no supermercado, além
+de ter meus investimentos no mercado financeiro que devem me dar algum
+lucro daqui a alguns anos..
+
+Mas enfim, não é a questão de trabalhar para ganhar dinheiro que procuro,
+mas sim uma realização pessoal profissional na minha área.
+
+De qualquer forma, ela me garantiu que tem condições de se cuidar sozinha
+ainda e que até pode dar uma olhada no meu pai, se necessário. Assim,
+fico livre para fazer o que bem entender sobre minha carreira.
+
+Essa conversa de ontem foi um grande alívio.. É impressionante como
+podemos nos preocupar com certas coisas que acabam passando sem
+exposição em uma conversa, e como uma conversa franca pode resolver
+várias picuinhas na nossa cabeça e na de outras pessoas que convivemos.
+
+Sinceramente, acredito que ficar quatro anos fazendo doutorado seria
+uma aventura muito longa para mim.. Mas admito que tenho vontade,
+seria muito legal retornar para o Japão a estudos novamente
+e esse é, de certa forma, um sonho que tenho entretido essa semana.
+
+Bom, com o coração um pouco mais aliviado, vou pensar com a mente
+mais aberta sobre meu futuro daqui para frente e vamos ver
+quais oportunidades maiores podem aparecer.
+
+
