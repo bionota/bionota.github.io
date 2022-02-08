@@ -9,9 +9,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 
         -->
 <channel>
-<lastBuildDate>Sun, 30 Jan 2022 15:49:38 -0300</lastBuildDate>
+<lastBuildDate>Tue, 08 Feb 2022 12:52:04 -0300</lastBuildDate>
 <title>Notas de Biologia (alt)</title>
-<description>Current at Sun, 30 Jan 2022 15:49:38
+<description>Current at Tue, 08 Feb 2022 12:52:04
 -0300</description>
 <link>https://bionota.github.io/</link>
 <category>Biologia/Ciência/Pessoal</category>
@@ -29,6 +29,38 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#46 Astro de Rock</title>
+<pubDate>Tue, 08 Feb 2022 00:00:00 -0300</pubDate>
+<link>https://bionota.github.io/46/</link>
+<dc:language>pt</dc:language>
+<category>feliz/bom-humor/esperança</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+403dbce5-f78c-5555-9b79-7919ab99756d</guid>
+<description>
+<![CDATA[ <article class="h-entry">
+<header>
+<h1 class="p-name" id="46">#46 Astro de Rock</h1>
+<time class="dt-published" datetime="2022-02-08">08/Feb/2022</time>
+<nav><a href="46/">[avulso]</a>
+</nav>
+
+<br>
+</header>
+
+<p>Hoje acordei muito feliz de ter tido um ótimo dia ontem e decidi essa informação <em>importantíssima</em> (mais para super desimportante)!</p>
+
+<p>Obviamente não posso dizer muita coisa doque aconteceu ontem, há coisas que eu não falaria nem para minha mãe e nem para meu pai..</p>
+
+<p>Então, pais de família, peço que respeitem a intimidade de um jovem e suas aventuras pelo mundo..</p>
+
+<p>Tá bom, tomei uma vodiquinha diluída, mas bem de leve só para acompanhar a energia da ocasião. Nesse ponto, pretendo melhorar! Em próximas ocasiões, devo comprar uma <em>água com gases</em> (no plural mesmo, quanto mais gases melhor!) e deixar o povo tomar o que bem entender.</p>
+
+<p>Então, ao mesmo tempo que foi um (re)encontro, dia que pude sentir uma energia poderosa que há muito tempo não sentia, também foi um dia que me fez querer dizer adeus a muitas coisas..</p>
+</article> ]]>
+</description>
+</item>
 <item>
 <title xml:lang="pt">#45 Mais Frustração</title>
 <pubDate>Sat, 29 Jan 2022 00:00:00 -0300</pubDate>
@@ -151,7 +183,7 @@ d519c67a-f679-5a76-abbc-6cf078ef264b</guid>
 
 <p>Por incrível que pareça este texto estar se encaminhando para certas conclusões do leitor a meu respeito, deixo claro que <strong>não</strong> <em>sou olavista, muito menos bolsolavista</em>.</p>
 
-<p>N época que conheci as palestras do Olavo no YT, ele era novidade e eu estava busca de conhecimentos filosóficos. Acabara de terminar minha graduação em biologia mas também meus estudos de filosofia. Na universidade, atendi a várias palestras de filosofia e ciências sociais no centro de estudos de ciências sociais da universidade, principalmente nos últimos dois anos da minha graduação.</p>
+<p>Na época que conheci as palestras do Olavo no YT, ele era novidade e eu estava busca de conhecimentos filosóficos. Acabara de terminar minha graduação em biologia mas também meus estudos de filosofia. Na universidade, atendi a várias palestras de filosofia e ciências sociais no centro de estudos de ciências sociais da universidade, principalmente nos últimos dois anos da minha graduação.</p>
 
 <p>Com as dicas do meu primo César que havia terminado sua graduação em filosofia há pouco tempo, consegui assistir e acompanhar palestras de três disciplinas semestrais do curso de filosofia. Pedi permissão de dois professores e eles me deixaram assistir suas palestras das aulas ordinárias ao longo do semestre. Eu raramente faltava e não precisava fazer provas... Era bom ter contato com toda aquela galera do Centro de Ciências Sociais.</p>
 
@@ -652,7 +684,9 @@ de Anos</title>
 <li><a href="38/steadman1995.pdf">The prehistoric extinction of south pacific birds: catastrophy versus attrition, Steadman, 1995.</a>
 </li>
 
-<li>IPC: <a href="https://news.mongabay.com/2021/02/study-reveals-how-species-once-extinct-in-the-wild-have-bounced-back/amp/">Study reveals how species once extinct in the wild have bounced back, 2021.</a></li>
+<li>IPC: <a href="https://news.mongabay.com/2021/02/study-reveals-how-species-once-extinct-in-the-wild-have-bounced-back/">Study reveals how species once extinct in the wild have bounced back, 2021.</a></li>
+
+<li>IPC: <a href="https://news.mongabay.com/2020/03/spixs-macaw-returns-to-brazil-but-is-overshadowed-by-controversy/">Spix’s macaw returns to Brazil, but is overshadowed by controversy</a></li>
 </ul>
 </article> ]]>
 </description>

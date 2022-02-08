@@ -39,7 +39,7 @@ Por incrível que pareça este texto estar se encaminhando para certas
 conclusões do leitor a meu respeito, deixo claro que **não** *sou olavista,
 muito menos bolsolavista*.
 
-N época que conheci as palestras do Olavo no YT, ele era novidade e
+Na época que conheci as palestras do Olavo no YT, ele era novidade e
 eu estava  busca de conhecimentos filosóficos. Acabara de terminar minha
 graduação em biologia mas também meus estudos de filosofia.
 Na universidade, atendi a várias palestras de filosofia e ciências sociais

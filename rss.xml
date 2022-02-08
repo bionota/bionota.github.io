@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sun, 30 Jan 2022 15:49:38 -0300</lastBuildDate>
+<lastBuildDate>Tue, 08 Feb 2022 12:52:04 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sun, 30 Jan 2022 15:49:38
+<description>Current at Tue, 08 Feb 2022 12:52:04
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,18 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#46 Astro de Rock</title>
+<pubDate>Tue, 08 Feb 2022 00:00:00 -0300</pubDate>
+<description>Me sentindo um verdadeiro Astro do Rock hoje, ou quem
+sabe mais um Rastro do Rock.</description>
+<link>https://bionota.github.io/46/</link>
+<dc:language>pt</dc:language>
+<category>feliz/bom-humor/esperança</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+403dbce5-f78c-5555-9b79-7919ab99756d</guid>
+</item>
 <item>
 <title xml:lang="pt">#45 Mais Frustração</title>
 <pubDate>Sat, 29 Jan 2022 00:00:00 -0300</pubDate>
