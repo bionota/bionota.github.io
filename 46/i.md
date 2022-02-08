@@ -17,7 +17,7 @@ LANGUAGE:
 <!-- HYPERTEXT -->
 
 Hoje acordei muito feliz de ter tido um ótimo dia ontem
-e decidi essa informação *importantíssima* (mais para
+e decidi compartilhar essa informação *importantíssima* (mais para
 super desimportante)!
 
 Obviamente não posso dizer muita coisa do que aconteceu
