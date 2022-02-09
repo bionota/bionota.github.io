@@ -25,7 +25,8 @@ ontem, há coisas que eu não
 falaria nem para minha mãe e nem para meu pai..
 
 Então, pais de família, peço que respeitem a intimidade de
-um jovem e suas aventuras pelo mundo..
+um jovem e suas aventuras pelo mundo e não avancem a diante nesse post.
+
 
 Tá bom, tomei uma vodiquinha diluída, mas bem de leve só para acompanhar
 a energia da ocasião. Nesse ponto, pretendo melhorar! Em próximas
@@ -54,7 +55,7 @@ de juventude que certos hábitos ruins proporcionam?"*.
 
 Beber, usar "dorgas" etc é sinal de juventude e de uma vida
 de astro de Rock, rebeldia. Pelo menos eu sempre tive essa
-impressão na cabeça.
+impressão na cabeça desde a infância..
 
 Mas de fato, a resposta que me veio a cabeça sobre o dilema
 apresentado é muito simples: *talvez a pessoa esteja sendo criança demais*.
