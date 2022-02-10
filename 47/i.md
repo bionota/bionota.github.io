@@ -24,9 +24,9 @@ Imagina se eu como professor poderia ter raiva de verdade
 de pessoas que são ignorantes..
 
 O Nazismo é uma bobagem. Acho que Nazismo pertence aos Alemães
-e da Europa e é bobagem demais a gente comprar essa briga aqui no Brasil,
+e europeus e é bobagem demais a gente comprar essa briga aqui no Brasil,
 mesmo que eu seja descendentes de Poloneses, Libaneses e
-Tchecos-eslovaquianos que passaram por tempos difíceis.
+Tchecos-eslováquios que passaram por tempos difíceis.
 
 Mas voltando a ignorância, quando falo uma palavra qualquer,
 ela pode evocar muitas coisas ou poucas coisas em outras pessoas.
@@ -54,7 +54,7 @@ Seria um trabalho sem fim e muito frustrante. Parece que muitas
 pessoas não passaram dessa fase, ainda..
 
 O problema do Nazismo está na cabeça maldosa das pessoas. Se essa
-palavra for falada para uma criança, ela não entenderia nada pois
+palavra for falada para uma criança, ela não compreenderia nada pois
 não tem uma estrutura de entendimento.
 
 Assim como sou especialista em biologia e vejo verdadeiros horrores sendo
@@ -79,7 +79,7 @@ Aliás, parece que o cristianismo também perseguia os judeus..
 
 Para mim, as igrejas cristãs não se redimiram e nunca se redimirão dos
 seus pecados e portanto deveríamos nos livrar desse empecilho
-mental que obstruí, confunde e danifica a cognição humana e piora
+mental (a religião) que obstruí, confunde e danifica a cognição humana e piora
 a nossa existência. *O que é do passado deve ficar no passado.*
 
 Então eu acho que se forem tão ridículos de cancelar o Monark,
