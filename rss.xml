@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Wed, 09 Feb 2022 08:19:55 -0300</lastBuildDate>
+<lastBuildDate>Thu, 10 Feb 2022 14:40:18 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Wed, 09 Feb 2022 08:19:55
+<description>Current at Thu, 10 Feb 2022 14:40:18
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,18 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#47 Monark, Nazismo e Cristianismo</title>
+<pubDate>Thu, 10 Feb 2022 00:00:00 -0300</pubDate>
+<description>Algumas opiniões impopulares a respeito do Monark e a
+história do Nazismo.</description>
+<link>https://bionota.github.io/47/</link>
+<dc:language>pt</dc:language>
+<category>religião/controvérsia/injustiça</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+f48bc485-9a8e-5a1e-a170-0c29dbb7ee51</guid>
+</item>
 <item>
 <title xml:lang="pt">#46 Astro de Rock</title>
 <pubDate>Tue, 08 Feb 2022 00:00:00 -0300</pubDate>
