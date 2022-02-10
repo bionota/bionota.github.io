@@ -15,6 +15,13 @@ LANGUAGE:
 
 <!-- HYPERTEXT -->
 
+O que quero dizer abaixo é indicado para pessoas abaixo de 25 anos.
+Com certeza, é para pessoas com menos de 40 anos.
+Não queremos irritar as pessoas com mais de 40 anos pois elas
+são poderosas, ressentidos e podem me prender, assim como fizeram com o Timothy Leary..
+
+---
+
 Acho um absurdo essa cultura do cancelamento. Todo mundo sabe que o Monark
 não é o cara mais inteligente do mundo. Quem viu entrevistas antigas
 e mais recentes, poderá ser testemunha que o Monark aprendeu muita coisa
@@ -72,9 +79,9 @@ ou história.. A história humana é tragicômica mesmo..
 
 Para mim,
 [Nazismo e Cristianismo tem muitas coisas relacionadas](https://www.jstor.org/stable/24457964).
-O Cristianismo produziu muito mais mortes em termos absolutos
+O [Cristianismo produziu muito mais mortes](https://www.quora.com/How-many-people-have-been-killed-in-the-name-of-Christianity-Crusades-religious-extremism-everything-counts-Some-sources-I-found-put-the-number-around-700-million-since-the-birth-of-Christ) em termos absolutos
 e muito cruéis (imagine ser queimado vivo na fogueira, ou afogar
-afundando em um rio?) ao longo da história do que o Nazismo.
+afundando em um rio?) ao longo da história [do que o Nazismo](https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution).
 Aliás, parece que o cristianismo também perseguia os judeus..
 
 Para mim, as igrejas cristãs não se redimiram e nunca se redimirão dos
@@ -90,5 +97,4 @@ os fanáticos religiosos podem voltar ao poder e à política
 
 Toda essa polêmica cultura do cancelamento será um tiro que sairá
 pela culatra..
-
 
