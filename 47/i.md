@@ -18,8 +18,9 @@ LANGUAGE:
 O que quero dizer abaixo é indicado para pessoas abaixo de 25 anos.
 Com certeza, é para pessoas com menos de 40 anos.
 Não queremos irritar as pessoas com mais de 40 anos pois elas
-são inflexíveis, poderosas, ressentidos
-e podem me prender, assim como fizeram com o Timothy Leary..
+são inflexíveis, poderosas, ressentidas
+e podem mover os pauzinhos
+para mandar me prender, assim como fizeram com o Timothy Leary..
 
 ---
 
