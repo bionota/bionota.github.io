@@ -18,8 +18,9 @@ LANGUAGE:
 Muitas coisas acontecendo e eu acabei deixando o blog de lado.
 Vou escrever rapidamente o que tem ocorrido (felizmente *nada de ruim*).
 
-Escrevi uma carta para o biólogo canadense Patrick Moore sobre seu novo
-livro (que *ainda* estou lendo em um iPad antigo da minha mãe), mudanças
+Escrevi uma carta para o biólogo canadense [Patrick Moore](http://ecosense.me/)
+sobre seu [novo livro](https://www.amazon.com/Confessions-Greenpeace-Dropout-Sensible-Environmentalist/dp/0986480827/)
+(que *ainda* estou lendo em um iPad antigo da minha mãe), mudanças
 climáticas e oferecendo meus serviços para a causa do *Ecosense*
 (movimento que reconhece uma *ecologia e biólogos sensatos*) em
 trabalho voluntário.
