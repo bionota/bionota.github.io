@@ -48,7 +48,7 @@ um longo e-mail com a apresentação do livro e o primeiro capítulo.
 Disseram que apesar do livro ser da área de publicação da editora,
 estavam focando em outros temas no momento.
 
-Uma outra editora **CRV** mostrou interesse me mandando um e-mail fazendo
+Uma outra editora *CRV* mostrou interesse me mandando um e-mail fazendo
 um acompanhamento do meu caso que lhe fora explicado quando entrei em
 contato por e-mail, mas não vejo vantagem devido ao contrato que
 requer uma contrapartida do autor.
