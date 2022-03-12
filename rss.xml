@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sat, 12 Mar 2022 02:26:08 -0300</lastBuildDate>
+<lastBuildDate>Sat, 12 Mar 2022 02:28:27 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sat, 12 Mar 2022 02:26:08
+<description>Current at Sat, 12 Mar 2022 02:28:27
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -34,7 +34,7 @@ Scripting</generator>
 <description>Resumão do que tenho feito.</description>
 <link>https://bionota.github.io/48/</link>
 <dc:language>pt</dc:language>
-<category>novidade/ecosense/ambientalista</category>
+<category>novidade/ecosense/ambientalista/datediff/bash</category>
 <author>jamilbio20@gmail.com (JSN)</author>
 <guid isPermaLink="false">
 34a5bf8f-4210-50c0-a445-240dd4294334</guid>

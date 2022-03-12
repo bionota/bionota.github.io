@@ -5,7 +5,7 @@
 DATE: 2022-03-12
 TITLE/H1: Notas Rápidas
 DESCRIPTION: Resumão do que tenho feito.
-KEYWORDS: novidade, ecosense, ambientalista
+KEYWORDS: novidade, ecosense, ambientalista, datediff, bash
 LANGUAGE: 
 
 <!-- DATE MUST BE IN THE FORMAT YYY-MM-DD -->
