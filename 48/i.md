@@ -52,7 +52,6 @@ um acompanhamento do meu caso que lhe fora explicado quando entrei em
 contato por e-mail, mas não tenho interesse devido ao contrato que
 requer uma contrapartida do autor.
 
-
 ---
 
 Em outros mares, minha nova conta do Twttr (que só uso para acompanhar
@@ -64,7 +63,8 @@ e suas [pesquisas sobre *pesticidas dietários*](https://www.ncbi.nlm.nih.gov/pm
 
 Também tentei conversar mais profundamente por dois e-mails
 com um professor da USP
-e colunista do UOL sobre meio ambiente *Ricardo Abramovay*,
+e [colunista do UOL](https://tab.uol.com.br/colunas/ricardo-abramovay/)
+sobre meio ambiente *Ricardo Abramovay*,
 mas ele só me respondia com argumentos padrão e respostas pré-formatadas.
 Além disso, achei os textos das colunas dele confusos, sobrepondo
 explicações de
