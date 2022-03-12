@@ -21,7 +21,8 @@ Vou escrever rapidamente o que tem ocorrido (felizmente *nada de ruim*).
 Escrevi uma carta para o biólogo canadense Patrick Moore sobre seu novo
 livro (que *ainda* estou lendo em um iPad antigo da minha mãe), mudanças
 climáticas e oferecendo meus serviços para a causa do *Ecosense*
-(movimento que reconhece uma *ecologia e biólogos sensatos*).
+(movimento que reconhece uma *ecologia e biólogos sensatos*) em
+trabalho voluntário.
 
 Para minha surpresa, ele respondeu e pediu para que eu procurasse uma editora
 para seu livro, a qual tarefa me dediquei por uma semana e meia.
@@ -47,10 +48,13 @@ um longo e-mail com a apresentação do livro e o primeiro capítulo.
 Disseram que apesar do livro ser da área de publicação da editora,
 estavam focando em outros temas no momento.
 
-Uma outra editora CRV mostrou interesse me mandando um e-mail fazendo
+Uma outra editora **CRV** mostrou interesse me mandando um e-mail fazendo
 um acompanhamento do meu caso que lhe fora explicado quando entrei em
-contato por e-mail, mas não tenho interesse devido ao contrato que
+contato por e-mail, mas não vejo vantagem devido ao contrato que
 requer uma contrapartida do autor.
+
+Não tenho trocado muitos e-mails com o Patrick já que ele não me respondeu
+o último que mandei. Ele pode estar ocupado.. 
 
 ---
 
@@ -108,7 +112,7 @@ do concurso é dia 10 de abril, se não me engano..
 Na última semana me mantive ocupado refazendo um script que conta
 tempo entre duas datas em vários formatos e unidades de tempo, como
 um `datediff`.
-Por exemplo, entre 2002-01-01 e 2004-04-04, quantos meses se passaram *ou*
+Por exemplo, entre `2002-01-01` e `2004-04-04`, quantos meses se passaram *ou*
 quantas semanas *ou* quantos segundos? Também ensinei o meu script
 em shell a calcular o limite de tempo entre duas datas e
 representá-lo levando em consideração todas as unidades de tempo,
