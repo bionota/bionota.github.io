@@ -124,7 +124,12 @@ calêndrico não foi fácil, mas estou muito feliz com o resultado.
 Para vocês terem uma ideia, faz no mínimo uns dois anos que comecei
 a escrever o script mas de um ano para cá tenho quebrado a cabeça
 para conseguir uma fórmula que atendesse aos requisitos e funcionalidades
-que queria implementar no script. Com orgulho, apresento a nova versão
+que queria implementar no script, como por exemplo, fazer os cálculos
+usando somente aritmética do shell. Para operações auxiliares, como
+por exemplo interpretação de input do usuário, ser o máximo compatível com
+o programa `date` do BSD e do GNU.
+
+Com orgulho, apresento a nova versão
 do meu [`datediff.sh`](https://github.com/mountaineerbr/scripts/blob/main/datediff.sh).
 
 ---

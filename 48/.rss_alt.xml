@@ -52,7 +52,9 @@
 
 <p>Na última semana me mantive ocupado refazendo um script que conta tempo entre duas datas em vários formatos e unidades de tempo, como um <code>datediff</code>. Por exemplo, entre <code>2002-01-01</code> e <code>2004-04-04</code>, quantos meses se passaram <em>ou</em> quantas semanas <em>ou</em> quantos segundos? Também ensinei o meu script em shell a calcular o limite de tempo entre duas datas e representá-lo levando em consideração todas as unidades de tempo, por exemplo, quantos anos <em>e</em> quantos meses <em>e</em> quantas semanas <em>e</em> quantos dias, horas minutos <em>e</em> segundos?</p>
 
-<p>Desenvolver uma fórmula matemática para esse tipo de cálculo calêndrico não foi fácil, mas estou muito feliz com o resultado. Para vocês terem uma ideia, faz no mínimo uns dois anos que comecei a escrever o script mas de um ano para cá tenho quebrado a cabeça para conseguir uma fórmula que atendesse aos requisitos e funcionalidades que queria implementar no script. Com orgulho, apresento a nova versão do meu <a href="https://github.com/mountaineerbr/scripts/blob/main/datediff.sh"><code>datediff.sh</code></a>.</p>
+<p>Desenvolver uma fórmula matemática para esse tipo de cálculo calêndrico não foi fácil, mas estou muito feliz com o resultado. Para vocês terem uma ideia, faz no mínimo uns dois anos que comecei a escrever o script mas de um ano para cá tenho quebrado a cabeça para conseguir uma fórmula que atendesse aos requisitos e funcionalidades que queria implementar no script, como por exemplo, fazer os cálculos usando somente aritmética do shell. Para operações auxiliares, como por exemplo interpretação de input do usuário, ser o máximo compatível com o programa <code>date</code> do BSD e do GNU.</p>
+
+<p>Com orgulho, apresento a nova versão do meu <a href="https://github.com/mountaineerbr/scripts/blob/main/datediff.sh"><code>datediff.sh</code></a>.</p>
 
 <hr>
 
