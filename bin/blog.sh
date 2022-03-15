@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # blog.sh -- Blog Posting and RSS Feed Systems
-# v0.8.5  jan/2022  mountaineerbr  #compatible with FreeBSD 13#
+# v0.8.6  mar/2022  mountaineerbr  #compatible with FreeBSD 13#
 #   __ _  ___  __ _____  / /____ _(_)__  ___ ___ ____/ /  ____
 #  /  ' \/ _ \/ // / _ \/ __/ _ `/ / _ \/ -_) -_) __/ _ \/ __/
 # /_/_/_/\___/\_,_/_//_/\__/\_,_/_/_//_/\__/\__/_/ /_.__/_/   
@@ -86,8 +86,8 @@ OPTI=1
 #markdown command
 #MARKDOWN_CMD=(markdown)
 #https://www.pell.portland.or.us/~orc/Code/discount/
-MARKDOWN_CMD=(md2html --github)
-#https://github.com/mity/md4c
+MARKDOWN_CMD=(md2html --github --fpermissive-autolinks)
+#httpm://github.com/mity/md4c
 
 #curl command
 CURL_CMD=(curl)
@@ -355,16 +355,16 @@ creatf()
 
 	title="$*" p_num="$1"
 
-	if [[ "${title^^}" = LAST || ( "$p_num" = +([0-9]) && "$p_num" -le "$LASTPOST" ) ]]
+	if [[ ${title^^} = LAST || ( $p_num = +([0-9]) && $p_num -le $LASTPOST ) ]]
 	then
 		#edit post NUM
-		[[ "${title^^}" = LAST ]] && p_num="$LASTPOST"
-		p_target_dir="$ROOTBLOG/$p_num" ;[[ -d "$p_target_dir" ]] || return
+		[[ ${title^^} = LAST ]] && p_num="$LASTPOST"
+		p_target_dir="$ROOTBLOG/$p_num" ;[[ -d $p_target_dir ]] || return
 		CREATF_TARGET_PATH=( "$p_target_dir"/@($RAWPOST_FNAME|$RAWPOST_FNAME_MD) )
 		checksum=$(sum "${CREATF_TARGET_PATH[@]: -1}")
 
 		"${VISUAL:-${EDITOR:-vim}}" "${CREATF_TARGET_PATH[@]: -1}" ;visual_exit=$?
-		[[ "$checksum" = $(sum "${CREATF_TARGET_PATH[@]: -1}") ]] && exit $visual_exit
+		[[ $checksum = $(sum "${CREATF_TARGET_PATH[@]: -1}") ]] && exit $visual_exit
 
 		read -n1 -p 'Compile or Quit? (c/Q) ' ;echo
 		echo "Raw post path -- ${CREATF_TARGET_PATH[@]: -1}" >&2
@@ -379,7 +379,7 @@ creatf()
 		#new post
 		((++LASTPOST , ++N))
 		p_target_dir="$ROOTBLOG/$N"
-		[[ "$title" ]] || read -erp 'TITLE/H1: ' title
+		[[ $title ]] || read -erp 'TITLE/H1: ' title
 		read -erp 'DESCRIPTION: ' description
 		read -erp 'KEYWORDS (comma separated): ' keywords
 		read -n1 -p 'Write in markdown? (y/N) ' ;echo
@@ -398,7 +398,7 @@ creatf()
 		template_change="${template_change/KEYWORDS:*([[:space:]])/KEYWORDS: $keywords$'\n'}"
 	
 		#create new post directory and file
-		[[ -d "$p_target_dir" ]] || mkdir -p -- "$p_target_dir" || return
+		[[ -d $p_target_dir ]] || mkdir -p -- "$p_target_dir" || return
 		echo "$template_change"$'\n\n' >"${CREATF_TARGET_PATH[@]: -1}" || return
 	
 		#first post edit
@@ -474,7 +474,7 @@ escf()
 rmimpf()
 {
 	local input="$1"
-	while [[ "$input" =~ ([^/]+/[.][.]/) || "$input" =~ ^([.]/) || "$input" =~ (/[.])/ ]]
+	while [[ $input =~ ([^/]+/[.][.]/) || $input =~ ^([.]/) || $input =~ (/[.])/ ]]
 	do 	input="${input/"${BASH_REMATCH[1]}"}"
 	done
 	echo "$input"
@@ -486,7 +486,7 @@ tidycheckf()
 	local f ret post_raw
 	#-c check/validate raw post files with tidy only?
 	for f
-	do 	[[ "${f,,}" = *.html ]] || { printf 'warning: skipping markdown post -- %s\n' "$f" >&2 ;continue ;}
+	do 	[[ ${f,,} = *.html ]] || { printf 'warning: skipping markdown post -- %s\n' "$f" >&2 ;continue ;}
 		post_raw=$(<"$f")
 		tidy -quiet \
 			--char-encoding utf8 \
@@ -526,6 +526,24 @@ tidyupf()
 	return $ret
 }
 
+urlencode()
+{
+    local i length="${#1}"
+    #busybox: for i in $(seq 0 $((length-1))); do
+    for (( i = 0; i < length; i++ )); do
+        local c="${1:$i:1}"
+        case $c in
+            [a-zA-Z0-9.~_-]) printf "$c" ;;
+            *) printf '%%%02X' "'$c" ;;
+        esac
+    done
+}
+
+urldecode()
+{
+    local url_encoded="${1//+/ }"
+    printf '%b' "${url_encoded//\%/\\x}"
+}
 
 #start
 #parse options
@@ -537,7 +555,7 @@ do
 		#check post
 		c) OPTC=1;;
 		#help
-		h|-) echo "$HELP" ;exit 0;;
+		h|-) echo "$HELP" ;exit ;;
 		#force recompile post index.html files
 		f) OPTF=1;;
 		#unset tidy
@@ -567,7 +585,7 @@ command -v "${CURL_CMD[0]}" &>/dev/null || {
 	echo "warning: optional package --  ${CURL_CMD[0]:-curl}" >&2
 	CURL_CMD=(false)
 }
-"${UUIDGEN_CMD[@]:-false}" name1 &>/dev/null &>/dev/null || {
+"${UUIDGEN_CMD[@]:-false}" name1 &>/dev/null || {
 	echo "warning: optional package -- ${UUIDGEN_CMD[0]:-uuid generator}" >&2
 	UUIDGEN_CMD=(false)
 }
@@ -589,7 +607,7 @@ trap '{ exit; }' INT TERM HUP
 #check for template files
 for t in "$TEMPLATE_CAT" "$TEMPLATE_INDEX" "$TEMPLATE_STANDALONE" \
 	"$TEMPLATE_NEWPOST" "$TEMPLATE_FEED" "$TEMPLATE_FEED_ALT"
-do 	[[ -e "$t" ]] || { echo "$SN: err: template file missing -- $t" >&2 ;exit 1 ;}
+do 	[[ -e $t ]] || { echo "$SN: err: template file missing -- $t" >&2 ;exit 1 ;}
 done
 unset t
 
@@ -607,8 +625,8 @@ IFS=$' \t\n'
 #(loop processing is from last to first)
 #extract the top directory
 regex="^/?([^/]+)/?"
-[[ "${POSTFILES[@]: -1}" =~ $regex ]] ;FIRSTPOST="${BASH_REMATCH[1]}"
-[[ "${POSTFILES[0]}" =~     $regex ]]  ;LASTPOST="${BASH_REMATCH[1]}"
+[[ ${POSTFILES[@]: -1} =~ $regex ]] ;FIRSTPOST="${BASH_REMATCH[1]}"
+[[ ${POSTFILES[0]} =~     $regex ]]  ;LASTPOST="${BASH_REMATCH[1]}"
 N=$((LASTPOST)) || LASTPOST=1 N=1
 #http://molk.ch/tips/gnu/bash/rematch.html
 
@@ -632,19 +650,19 @@ echo "compile post HTML and RSS files" >&2
 for file in "${POSTFILES[@]}"
 do
 	#if `i.html' has an `i.md' counterpart, skip `i.html'
-	[[ "$file" = *."$EXT_HTML" && -e "${file%.*}$EXT_MD" ]] && { ((--N)) ;continue ;}
+	[[ $file = *."$EXT_HTML" && -e ${file%.*}$EXT_MD ]] && { ((--N)) ;continue ;}
 	#feedback
 	printf "\r$CLR>>>%3d/%3d  %s " "$N" "$LASTPOST" "$file" >&2
 
 	#PART ONE - INDIVIDUAL POSTS
 	#extract the basename
-	[[ "$file" =~ .*/(.+\..*)$ ]]
+	[[ $file =~ .*/(.+\..*)$ ]]
 	#post index.html path
-	post_target_path="${file%${BASH_REMATCH[1]}}index.html"
+	post_target_path="${file%"${BASH_REMATCH[1]}"}index.html"
 	#cat.htm and rss buffers paths
-	post_cat_buffer_path="${file%${BASH_REMATCH[1]}}.cat.html"
-	post_rss_buffer_path="${file%${BASH_REMATCH[1]}}.rss.xml"
-	post_rss_alt_buffer_path="${file%${BASH_REMATCH[1]}}.rss_alt.xml"
+	post_cat_buffer_path="${file%"${BASH_REMATCH[1]}"}.cat.html"
+	post_rss_buffer_path="${file%"${BASH_REMATCH[1]}"}.rss.xml"
+	post_rss_alt_buffer_path="${file%"${BASH_REMATCH[1]}"}.rss_alt.xml"
 	#post and rss canonical url
 	post_canonical="$ROOTBLOGWEB/$N/"
 	#file path array for cat.html and rss
@@ -655,12 +673,12 @@ do
 	#set some important post vars
 	#read raw post (i.html)
 	post_raw=$(<"$file")
-	[[ "$post_raw" =~ DATE:[[:space:]]*([0-9]{4}[/.-][0-9]{1,2}[/.-][0-9]{1,2})[[:space:]]*TITLE/H1: ]]
+	[[ $post_raw =~ DATE:[[:space:]]*([0-9]{4}[/.-][0-9]{1,2}[/.-][0-9]{1,2})[[:space:]]*TITLE/H1: ]]
 	date_iso8601="${BASH_REMATCH[1]//\//-}" date_iso8601="${date_iso8601//[[:space:]]}"
 	date_customfmt=$(datefun "$date_iso8601" +"$TIME_CUSTOM_FMT")
 	date_customfmt="${date_customfmt:-$date_iso8601}"
 
-	[[ "$post_raw" =~ TITLE/H1:(.*)DESCRIPTION: ]]
+	[[ $post_raw =~ TITLE/H1:(.*)DESCRIPTION: ]]
 	title=$(escf "${BASH_REMATCH[1]}")
 
 
@@ -670,7 +688,7 @@ do
 	if
 		#get post i.html and index.html modification timestamps
 		i_timestamp=$("${STAT_CMD[@]}" "$file")
-		if [[ -e "$post_target_path" ]]
+		if [[ -e $post_target_path ]]
 		then	index_timestamp=$("${STAT_CMD[@]}" "$post_target_path")
 			index_timestamp_iso8601=$(datefun -Iseconds @"$index_timestamp")
 		fi
@@ -686,18 +704,18 @@ do
 		#timestamps
 		date_rfc5322=$(datefun -R "$date_iso8601")
 
-		[[ "$post_raw" =~ DESCRIPTION:(.*)KEYWORDS: ]]
+		[[ $post_raw =~ DESCRIPTION:(.*)KEYWORDS: ]]
 		description=$(escf "${BASH_REMATCH[1]}")
-		[[ "$post_raw" =~ KEYWORDS:(.*)LANGUAGE: ]]
+		[[ $post_raw =~ KEYWORDS:(.*)LANGUAGE: ]]
 		keywords=$(escf "${BASH_REMATCH[1]:-$DEF_CATEGORY}")
-		[[ "$post_raw" =~ LANGUAGE:(.*)\<\!--* ]]
+		[[ $post_raw =~ LANGUAGE:(.*)\<\!--* ]]
 		lang="${BASH_REMATCH[1]%%\<\!--*}" lang="${lang//[[:space:]]}"
-		[[ "$post_raw" =~ '<!-- HYPERTEXT -->'(.*) ]]
+		[[ $post_raw =~ '<!-- HYPERTEXT -->'(.*) ]]
 		html_text="${BASH_REMATCH[1]}"
 		unset post_raw
 
 		#is that markdown file?
-		if [[ "$file" = *."$EXT_MD" ]]
+		if [[ $file = *."$EXT_MD" ]]
 		then 	html_text=$("${MARKDOWN_CMD[@]}" <<<"$html_text") || {
 				printf '\nerr: skipping markdown post -- %s\n' "$file" >&2
 				((--N))
@@ -738,13 +756,13 @@ $html_text
 
 		#set open graph (requires absolute urls)
 		regex="<img .*src=['\"]([^'\"]+)['\"]"
-		if [[ "$html_text" =~ $regex && "${BASH_REMATCH[0]%%>*}" =~ $regex ]]  #`first match'
+		if [[ $html_text =~ $regex && ${BASH_REMATCH[1]%%>*} =~ $regex ]]  #`first match'
 		then 	og_img_src="${BASH_REMATCH[1]}"
 			og_img_src=$(rmimpf "$ROOTBLOGWEB/$N/$og_img_src")
 
 			regex="<img .*alt=['\"]([^'\"]+)['\"]"
-			[[ "$html_text" =~ $regex ]]
-			[[ "${BASH_REMATCH[0]%%>*}" =~ $regex ]]  #`first match'
+			[[ $html_text =~ $regex ]]
+			[[ ${BASH_REMATCH[0]%%>*} =~ $regex ]]  #`first match'
 			og_img_alt="${BASH_REMATCH[1]}"
 		fi
 
@@ -760,7 +778,7 @@ $html_text
 
 		#check required vars are set
 		for var in title description keywords html_text metatags date_rfc5322 date_iso8601
-		do 	[[ "${!var}" ]] || echo -e "\awarning: unset var -- $var" >&2
+		do 	[[ ${!var} ]] || echo -e "\awarning: unset var -- $var" >&2
 		done
 		#zsh parameter indirection: "${(P)var}"
 		#https://unix.stackexchange.com/questions/68035/foo-and-zsh
@@ -787,12 +805,16 @@ $html_text
 		#catenation and rss file buffer
 		cat_rss_buffer="${article/"<!-- NAV STANDALONE -->"/$nav_standalone}"
 		test_cat_rss_buffer="$cat_rss_buffer"
-		while [[ "$test_cat_rss_buffer" =~ (src|href)=[\'\"]([^\'\"]+)[\'\"] ]]
+		while [[ $test_cat_rss_buffer =~ (src|href)=[\'\"]([^\'\"]+)[\'\"] ]]
 		do 	if 	#check that reference path exists
-				src_change="$N/${BASH_REMATCH[2]}"
-				[[ -e "$src_change" || -e "${src_change%[#?&]*}" ]]
+				if [[ ${BASH_REMATCH[2]} = *[\%\&\#]* ]]
+				then 	src_change=$(urldecode "$N/${BASH_REMATCH[2]}")
+				else 	src_change="$N/${BASH_REMATCH[2]}"
+				fi
+				[[ -e $src_change || -e ${src_change%[#?&]*} ]]
 			then 	#remove implicit refs .. and .
 				src_change=$(rmimpf "$src_change")
+				src_change="${src_change%"${src_change##*/}"}${BASH_REMATCH[2]%/*}"
 
 				#change src relative paths
 				cat_rss_buffer="${cat_rss_buffer//"${BASH_REMATCH[2]}"/$src_change}"
@@ -825,30 +847,34 @@ $html_text
 
 		#RSS media enclosure
 		regex="<img .*src=['\"]([^'\"]+)['\"]"
-		if [[ "$html_text" =~ $regex ]]
-			[[ "${BASH_REMATCH[0]%%>*}" =~ $regex ]]
+		if [[ $html_text =~ $regex ]]
+			[[ ${BASH_REMATCH[0]%%>*} =~ $regex ]]
 		then
 			enclosure_src="${BASH_REMATCH[1]}"
 			enclosure_ext=${enclosure_src##*.}
 			if 	#set probable enclosure local subpath
-				enclosure_subpath="$N/$enclosure_src"
-				[[ -e "$enclosure_subpath" ]]
+				if [[ ${BASH_REMATCH[1]} = *[\%\&\#]* ]]
+				then 	enclosure_subpath=$(urldecode "$N/$enclosure_src")
+				else 	enclosure_subpath="$N/$enclosure_src"
+				fi
+				[[ -e $enclosure_subpath ]]
 			then 
 				#set enclosure local url and file size
 				enclosure_url=$(rmimpf "$ROOTBLOGWEB/$enclosure_subpath")
+				enclosure_url="${enclosure_url%"${enclosure_url##*/}"}${BASH_REMATCH[1]%/*}"
 				enclosure_size=$(wc -c <"$enclosure_subpath")
-			elif [[ "$enclosure_src" != @(/|./|../)* ]]
+			elif [[ $enclosure_src != @(/|./|../)* ]]
 			then 	#set enclosure remote url and file size
 				enclosure_url="$enclosure_src"
 				enclosure_size=$("${CURL_CMD[@]}" "$enclosure_src" | wc -c)
 			fi
 			#set enclosure tag
-			[[ "$enclosure_url" ]] && enclosure="<enclosure url=\"$enclosure_url\" length=\"$enclosure_size\" type=\"image/$enclosure_ext\"/>"
+			[[ $enclosure_url ]] && enclosure="<enclosure url=\"$enclosure_url\" length=\"$enclosure_size\" type=\"image/$enclosure_ext\"/>"
 		fi
 
 
 		#MAIN FEED (rss.xml)
-		[[ "$rss_guid" ]] && ispermalink=false || ispermalink=true
+		[[ $rss_guid ]] && ispermalink=false || ispermalink=true
 		rss_item="    <item>
       <title xml:lang=\"${lang:-$DEF_LANG}\">#$N $title</title>
       <pubDate>${date_rfc5322:-${date_iso8601:-unavailable}}</pubDate>
@@ -911,10 +937,10 @@ unset TEMP_INDEX
 #generate post list files
 #(or do substitute these variables in some other page)
 #HTML post list
-[[ "$POST_LIST_HTML_PATH" ]] \
+[[ $POST_LIST_HTML_PATH ]] \
 	&& echo "${POST_LIST_HTML_MAX:-$POST_LIST_HTML}" >"$POST_LIST_HTML_PATH"
 #TXT post list
-[[ "$POST_LIST_PLAIN_PATH" ]] \
+[[ $POST_LIST_PLAIN_PATH ]] \
 	&& echo "${POST_LIST_PLAIN_MAX:-$POST_LIST_PLAIN}" >"$POST_LIST_PLAIN_PATH"
 unset POST_LIST_HTML POST_LIST_PLAIN POST_LIST_PLAIN_MAX POST_LIST_HTML_MAX
 

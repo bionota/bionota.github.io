@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Sat, 12 Mar 2022 02:28:27 -0300</lastBuildDate>
+<lastBuildDate>Tue, 15 Mar 2022 20:10:25 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Sat, 12 Mar 2022 02:28:27
+<description>Current at Tue, 15 Mar 2022 20:10:25
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -634,7 +634,7 @@ públicos/anúncio/previsão/esperança/mourão</category>
 <author>jamilbio20@gmail.com (JSN)</author>
 <guid isPermaLink="false">
 ebe927dc-f2d0-572d-ad3e-7ae226c6d5e1</guid>
-<enclosure url="https://bionota.github.io/gfx/ibama-2.png"
+<enclosure url="https://bionota.github.io/gfx/../gfx"
 length="40751" type="image/png" />
 </item>
 <item>

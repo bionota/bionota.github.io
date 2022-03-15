@@ -30,6 +30,6 @@ no Termux)
 no meu laptop na rede doméstica!
 
 O artigo pode ser encontrado no [DioLinux](https://plus.diolinux.com.br/t/usando-terminal-no-android-termux/42225)
-ou em uma [cópia aqui](tutorialTermux.html).
+ou em uma [cópia aqui](termuxTutorial.html).
 
 
