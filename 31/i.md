@@ -42,7 +42,7 @@ Por exemplo, quem sabe aquela
 [nuvem de gafanhotos do ano passado](https://www.canalrural.com.br/noticias/agricultura/aconteceu-em-2020-gafanhoto/)
 não ocorra de forma massiva novamente no Brasil..... 
 
-Muitas vezes essas *espécies são *sintoma** de alguma outra coisa.
+Muitas vezes essas *espécies são* **sintoma** de alguma outra coisa.
 Retirando-as, ficaremos *sem saber* qual a **real causa** de terem se estabelecido.
 
 Acredito nisso depois de ter iniciado meus estudos sobre
