@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # blog.sh -- Blog Posting and RSS Feed Systems
-# v0.8.8  mar/2022  mountaineerbr  #compatible with FreeBSD 13#
+# v0.8.9  mar/2022  mountaineerbr  #compatible with FreeBSD 13#
 #   __ _  ___  __ _____  / /____ _(_)__  ___ ___ ____/ /  ____
 #  /  ' \/ _ \/ // / _ \/ __/ _ `/ / _ \/ -_) -_) __/ _ \/ __/
 # /_/_/_/\___/\_,_/_//_/\__/\_,_/_/_//_/\__/\__/_/ /_.__/_/   
@@ -84,9 +84,9 @@ EXT_MD="${RAWPOST_FNAME_MD##*.}"
 OPTI=1
 
 #markdown command
-#MARKDOWN_CMD=(markdown)
+MARKDOWN_CMD=(markdown -ffencedcode,del,smarty)
 #https://www.pell.portland.or.us/~orc/Code/discount/
-MARKDOWN_CMD=(md2html --github --fpermissive-autolinks)
+#MARKDOWN_CMD=(md2html --github --fpermissive-autolinks)
 #httpm://github.com/mity/md4c
 
 #curl command
