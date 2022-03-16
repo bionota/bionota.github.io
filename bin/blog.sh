@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # blog.sh -- Blog Posting and RSS Feed Systems
-# v0.8.7  mar/2022  mountaineerbr  #compatible with FreeBSD 13#
+# v0.8.8  mar/2022  mountaineerbr  #compatible with FreeBSD 13#
 #   __ _  ___  __ _____  / /____ _(_)__  ___ ___ ____/ /  ____
 #  /  ' \/ _ \/ // / _ \/ __/ _ `/ / _ \/ -_) -_) __/ _ \/ __/
 # /_/_/_/\___/\_,_/_//_/\__/\_,_/_/_//_/\__/\__/_/ /_.__/_/   
@@ -815,8 +815,6 @@ $html_text
 				[[ -e $src_change || -e ${src_change%[#?&]*} ]]
 			then 	#remove implicit refs .. and .
 				src_change=$(rmimpf "$src_change")
-				src_change="${src_change%"${src_change##*/}"}${BASH_REMATCH[2]%/*}"
-
 				#change src relative paths
 				cat_rss_buffer="${cat_rss_buffer//"${BASH_REMATCH[2]}"/$src_change}"
 			fi
@@ -858,7 +856,7 @@ $html_text
 				then 	enclosure_subpath=$(urldecode "$N/$enclosure_src")
 				else 	enclosure_subpath="$N/$enclosure_src"
 				fi
-				[[ -e $enclosure_subpath ]]
+				[[ ${BASH_REMATCH[1]} != $N/ && -e $enclosure_subpath ]]
 			then 
 				#set enclosure local url and file size
 				enclosure_url=$(rmimpf "$ROOTBLOGWEB/$enclosure_subpath")
