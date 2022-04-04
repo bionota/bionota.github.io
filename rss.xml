@@ -8,9 +8,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
            read by RSS reader programmes.
         -->
 <channel>
-<lastBuildDate>Wed, 16 Mar 2022 11:58:07 -0300</lastBuildDate>
+<lastBuildDate>Mon, 04 Apr 2022 00:19:28 -0300</lastBuildDate>
 <title>Notas de Biologia</title>
-<description>Current at Wed, 16 Mar 2022 11:58:07
+<description>Current at Mon, 04 Apr 2022 00:19:28
 -0300</description>
 <link>https://bionota.github.io/</link>
 <language>pt</language>
@@ -28,6 +28,17 @@ of this entire article is permitted in any medium, provided this
 notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
+<item>
+<title xml:lang="pt">#49 É o Fim, É o Começa para a Fênix</title>
+<pubDate>Mon, 04 Apr 2022 00:00:00 -0300</pubDate>
+<description>Chegamos ao fim</description>
+<link>https://bionota.github.io/49/</link>
+<dc:language>pt</dc:language>
+<category>fim/the end/trágico</category>
+<author>jamilbio20@gmail.com (JSN)</author>
+<guid isPermaLink="false">
+40873d23-18f8-51a5-98b1-2707f3518fa1</guid>
+</item>
 <item>
 <title xml:lang="pt">#48 Notas Rápidas</title>
 <pubDate>Sat, 12 Mar 2022 00:00:00 -0300</pubDate>
