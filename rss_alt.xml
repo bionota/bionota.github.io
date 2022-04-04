@@ -9,9 +9,9 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
 
         -->
 <channel>
-<lastBuildDate>Mon, 04 Apr 2022 00:19:28 -0300</lastBuildDate>
+<lastBuildDate>Mon, 04 Apr 2022 00:22:04 -0300</lastBuildDate>
 <title>Notas de Biologia (alt)</title>
-<description>Current at Mon, 04 Apr 2022 00:19:28
+<description>Current at Mon, 04 Apr 2022 00:22:04
 -0300</description>
 <link>https://bionota.github.io/</link>
 <category>Biologia/Ciência/Pessoal</category>
@@ -30,7 +30,7 @@ notice is preserved.</copyright>
 <generator>A Poor Man's Own RSS Generator in Shell
 Scripting</generator>
 <item>
-<title xml:lang="pt">#49 É o Fim, É o Começa para a Fênix</title>
+<title xml:lang="pt">#49 É o Fim, É o Começo Para Fênixes</title>
 <pubDate>Mon, 04 Apr 2022 00:00:00 -0300</pubDate>
 <link>https://bionota.github.io/49/</link>
 <dc:language>pt</dc:language>
@@ -41,7 +41,7 @@ Scripting</generator>
 <description>
 <![CDATA[ <article class="h-entry">
 <header>
-<h1 class="p-name" id="49">#49 É o Fim, É o Começa para a Fênix</h1>
+<h1 class="p-name" id="49">#49 É o Fim, É o Começo Para Fênixes</h1>
 <time class="dt-published" datetime="2022-04-04">04/Apr/2022</time>
 <nav><a href="49/">[avulso]</a>
 </nav>
