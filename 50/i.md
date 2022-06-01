@@ -78,9 +78,15 @@ Assim que eu estiver *mais certo* de que quero encarar um doutorado,
 um compromisso de quatro anos e que não oferece garantia de poder
 atuar como professor depois (vamos ter pés-no-chão), sairei do
 IBGE daqui uns três meses para poder me dedicar aos estudos de bioquímica.
+Sinto que estarei feliz de volta na sala de aula, tomando ou ministrando aulas.
+Não estou mais certo se estaria contente passando em uma vaga de biólogo burocrata
+no concurso do IBAMA ou de
+uma prefeitura, por exemplo..
+Na verdade, não estou mais certo de nada na minha vida. rs.
 
 Sei que muitos leitores não entenderão e olharam de cima para baixo
 esse tipo de cogitação que se passa na minha cabeça mas eu acredito
 que devemos trabalhar não somente para ganhar dinheiro, mas principalmente
 para sermos felizes e oferecermos um bom serviço para a sociedade, se possível
 na nossa especialidade.
+
