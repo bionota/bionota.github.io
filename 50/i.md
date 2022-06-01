@@ -84,7 +84,7 @@ no concurso do IBAMA ou de
 uma prefeitura, por exemplo..
 Na verdade, não estou mais certo de nada na minha vida. rs.
 
-Sei que muitos leitores não entenderão e olharam de cima para baixo
+Sei que muitos leitores não entenderão e olharão de cima para baixo
 esse tipo de cogitação que se passa na minha cabeça mas eu acredito
 que devemos trabalhar não somente para ganhar dinheiro, mas principalmente
 para sermos felizes e oferecermos um bom serviço para a sociedade, se possível
