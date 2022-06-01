@@ -33,8 +33,8 @@ sequer chamam para entrevista.
 
 Editais para professores temporários na UEL na minha área de mestrado
 requerem o título de doutor. Chego à conclusão que há muitos doutores
-e a área da saúde que estou metido está saturada mesmo! Cursinhos e faculdades
-privadas só funcionam com QI (quem indica)..
+e a área da saúde que estou metido está saturada! Cursinhos e faculdades
+privadas só contratam com *QI* (quem indica)..
 
 ---
 
@@ -51,14 +51,14 @@ de treinamento e intelecto. Uma amiga disse que as pessoas tem uma visão
 muito romântica a respeito do trabalho, acho que sou uma delas.
 
 Por outro lado, eu ainda não tive filhos e não preciso ganhar um dinheiro
-para sustentar quem quer que seja e nem tenho grandes planos de construir
-uma grande casa ou ter vários carros. Porquanto acredito que há
+para sustentar quem quer que seja, nem tenho grandes planos de construir
+uma grande casa ou ter vários carros e sou um *hodler*. Porquanto acredito que há
 grande gama de visões a respeito de trabalhar mas poucas devem entender
 como penso a respeito desse tema. Compreendo, as pessoas tendem a ser
 **muito mais** pragmáticas sobre trabalho do que eu..
 
 De qualquer forma, trabalhar no IBGE pode até ser legal. Já conheci algumas
-das outras pessoas contratadas e aprecem ser gente boa.
+das outras pessoas contratadas e parecem ser gente boa.
 
 ---
 
@@ -69,7 +69,7 @@ alguns professores da FMRP mas agora com essa contratação para o IBGE
 os planos de realizar um PhD ficaram em segundo plano. Por enquanto.
 
 Infelizmente, não sei como explicar melhor, mas sinto que se eu não
-pegar essa vaga para o censo demográfico do IBGE, me tornarei uma barata
+pegar essa vaga para o censo demográfico do IBGE, me tornarei uma **barata**
 na visão dos meus amigos e dos meus pais. Não parece que faria sentido
 eu abdicar dessa vaga para empenhar meus esforços no estudos da disciplina
 de bioquímica para tentar realizar a prova de  seleção para o doutorado. 
@@ -82,7 +82,7 @@ Sinto que estarei feliz de volta na sala de aula, tomando ou ministrando aulas.
 Não estou mais certo se estaria contente passando em uma vaga de biólogo burocrata
 no concurso do IBAMA ou de
 uma prefeitura, por exemplo..
-Na verdade, não estou mais certo de nada na minha vida. rs.
+Na verdade, não estou mais certo de nada na minha vida. rs. 😬
 
 Sei que muitos leitores não entenderão e olharão de cima para baixo
 esse tipo de cogitação que se passa na minha cabeça mas eu acredito
