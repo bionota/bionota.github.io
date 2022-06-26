@@ -1,6 +1,7 @@
 #robots.txt from bionota mountaineerbr
 User-agent: *
 Disallow: */js/*
+Disallow: */misc/*
 Disallow: */bin/*
 Disallow: */thumb/*
 Disallow: */cv.html
